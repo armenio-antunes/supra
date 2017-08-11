@@ -20,9 +20,9 @@ RUN	mv /tmp/${project.build.finalName}-bin.zip /home/acme/service/${project.buil
     chmod +x /home/acme/service/${docker.script.name}.sh
 WORKDIR /home/acme/service/
 
-VOLUME /home/acme/service/log
-VOLUME /home/acme/service/config
+VOLUME /home/base/service/log
+VOLUME /home/base/service/config
 
 EXPOSE 7001
 EXPOSE 7002
-CMD ["/home/acme/service/${docker.script.name}.sh"]
+CMD ["/home/base/service/${docker.script.name}.sh"]
