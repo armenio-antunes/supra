@@ -1,0 +1,18 @@
+---
+- hosts: service
+  tasks:
+    - name: Config directory is present
+      file:
+        dest: "/opt/truphone/{{ service }}/config"
+        state: directory
+
+    - name: Copy config files
+      copy:
+        src: "files/"
+        dest: "/opt/truphone/{{ service }}/config/"
+        backup: yes
+        mode: "0755"
+      register: copy_result
+
+    - debug:
+        var: copy_result

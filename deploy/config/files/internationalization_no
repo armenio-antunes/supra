@@ -1,0 +1,523 @@
+# PG37 Free Products Page Model
+
+pre-paid.headerTitle = Kjøp nå. Få 1\0\0 MB gratis
+free-trial.countriesIncluded =  Kostnadsfri roaming i:
+free-trial.forXDays = [x days] dager
+free-trial.email = Oppgi e-postadressen din og få GRATIS mobildata
+free-trial.emailNote = (Ingen kjøp nødvendig)
+free-trial.emailPlaceHolder = E-post
+free-trial.termsOfServices =  Jeg aksepterer
+free-trial.termsOfServicesLink = vilkårene og betingelsene
+free-trial.buttonClaim = Få 1\0\0 MB gratis
+free-trial.msgErrorInvalidEmail = Vennligst oppgi en gyldig e-postadresse
+free-trial.msgErrorInvalidClaimedFree = Beklager\, du har allerede fått en gratis prøveperiode
+
+
+#PG6 paid product page
+
+pre-paid.headerTitle = Kjøp nå. Få 1\0\0 MB gratis
+pre-paid.countriesIncluded =  Kostnadsfri roaming i:
+pre-paid.mostPopular =  godt valg
+pre-paid.forXDays = [x days] dager
+pre-paid.buttonCheckout = Til betaling
+pre-paid.buttonHelp = Hjelp
+pre-paid.msgErrorSelectProduct = Vennligst velg et abonnement
+pre-paid.NO-FREEBIES.reason = Beklager\, du har allerede fått en prøveperiode Velg et abonnement i stedet.
+
+transfer-plan.headerTitle = Overfør abonnement
+transfer-plan.countriesIncluded = *Kostnadsfri roaming i:
+transfer-plan.order = Abonnement #
+transfer-plan.ends = Utløper [x date]
+transfer-plan.buttonTransferPlan = Overfør nå
+transfer-plan.buttonHelp = Hjelp
+transfer-plan.msgWarningTransfer = Overfør dataene dine her. Etter overføringen kan du kun bruke mobildataene dine på denne iPaden.
+transfer-plan.msgErrorSelectProduct = Vennligst velg et abonnement
+
+# PG24 Verified Account Management Page Model (serves both verified and unverified users):
+
+plan-status.headerTitle = Din verden. Elsker det.
+plan-status.hello = Hei! [x name]
+plan-status.there =  
+plan-status.yourOrder = Abonnement #
+plan-status.countriesIncluded =  Kostnadsfri roaming i:
+plan-status.ends = Utløper [x date]
+plan-status.transferred = Overført
+plan-status.lastDay = siste dag
+plan-status.dataLeft = gjenværende
+plan-status.daysLeft = dager igjen
+plan-status.mostPopular = godt valg
+plan-status.welcomeBack = Velkommen tilbake\,
+plan-status.addMoreData = Legg til mer data
+plan-status.forXDays = [x days] dager
+plan-status.termsOfServicesLink = Vilkår og betingelser
+plan-status.truphoneLink = ¬© 2\017 Truphone Limited
+plan-status.buttonMyDetails = Min profil
+plan-status.buttonLogout = Logg ut
+plan-status.buttonHelp = Hjelp
+plan-status.buttonEmailIntructions = Send meg lenke på e-post
+plan-status.buttonTransferPlan = Overfør abonnement
+plan-status.buttonCheckout = Til betaling
+plan-status.hrsLeft = timer igjen
+plan-status.expired = Utløpt
+plan-status.warningTitle = Lag konto
+plan-status.msgWarningCreateAccount = Du kan kjøpe mobildata raskere og overføre abonnementet ditt til en annen iPad.
+plan-status.ROAMING.reason = Vil du ha kostnadsfri roaming? Dersom du ikke allerede har gjort det\, slå på «roaming» i innstillingene for mobildata.
+plan-status.NO-SERVICE.reason = Du kan dessverre ikke bruke mobildataene dine i dette landet.
+plan-status.OLD-DEVICE.reason = Gode nyheter – abonnementet ditt er blitt overført til iPad mini [x]. Dersom du ikke har valgt denne overføringen\, bør du ringe +44 7\40 881 \6186 eller sende e-post til ask@truphone.com øyeblikkelig.
+plan-status.NEW-DEVICE.reason = Takk for at du velger oss. Vi kobler til iPaden din. Den er snart klar til bruk.
+plan-status.msgErrorSelectProduct = Velg et abonnement
+plan-status.ACCOUNT-EMAIL.reason = Vi har sendt deg en lenke slik at du kan opprette en konto. Vennligst sjekk innboksen din.
+plan-status.NO-FREEBIES.reason = Beklager\, du har allerede fått en gratis prøveperiode
+plan-status.NO-FREEBIES-TRANSFER.reason = Beklager\, du har allerede fått en gratis prøveperiode Vennligst overfør ditt eksisterende abonnement eller legg til mobildata
+
+plan-status-autorenew.hello = Hello [x name] (Requires translation)
+plan-status-autorenew.there = there (Requires translation)
+plan-status-autorenew.order = Plan # (Requires translation)
+plan-status-autorenew.ends = Ends [x date] (Requires translation)
+plan-status-autorenew.transferred = Transferred (Requires translation)
+plan-status-autorenew.hrsLeft = hour left (Requires translation)
+plan-status-autorenew.expired = Expired (Requires translation)
+plan-status-autorenew.dataLeft = data left (Requires translation)
+plan-status-autorenew.daysLeft = days left (Requires translation)
+plan-status-autorenew.welcomeBack = Welcome Back, (Requires translation)
+plan-status-autorenew.addMoreData = Add data (Requires translation)
+plan-status-autorenew.warningTitle = Create Account (Requires translation)
+plan-status-autorenew.forXDays = for [x days] days (Requires translation)
+plan-status-autorenew.countriesIncluded =  You can use the data in any of these countries: (Requires translation)
+plan-status-autorenew.costFree = FREE (Requires translation)
+plan-status-autorenew.mostPopular =  most popular (Requires translation)
+plan-status-autorenew.termsOfServicesLink = Terms of Service (Requires translation)
+plan-status-autorenew.truphoneLink = © 2017 Truphone Limited (Requires translation)
+plan-status-autorenew.headerTitle = Your world. Explore it (Requires translation)
+plan-status-autorenew.buttonMyDetails = My profile (Requires translation)
+plan-status-autorenew.buttonLogout = Logout (Requires translation)
+plan-status-autorenew.buttonHelp = Help (Requires translation)
+plan-status-autorenew.buttonEmailIntructions = Unlock <br/> via email (Requires translation)
+plan-status-autorenew.buttonTransferPlan = Transfer existing plan (Requires translation)
+plan-status-autorenew.buttonCheckout = Checkout (Requires translation)
+plan-status-autorenew.buttonHelp = Help (Requires translation)
+plan-status-autorenew.buttonCancel = Cancel (Requires translation)
+plan-status-autorenew.buttonSave = Disable auto renew (Requires translation)
+plan-status-autorenew.msgWarningCreateAccount = Add data faster with a couple of clicks. Transfer your data to different iPads.<br/>  Store details and manage your plan more easily, and much more. <br/> Simply create an account. It’s quick and easy. (Requires translation)
+plan-status-autorenew.reason = You are covered in [x country] just switch on "Data Roaming" in your "Mobile Data Settings." (Requires translation)
+plan-status-autorenew.ROAMING.reason = You are covered in [x country] just switch on "Data Roaming" in your "Mobile Data Settings." (Requires translation)
+plan-status-autorenew.OLD-DEVICE.reason = Your Truphone Data Plan was transferred to iPad [x iPad model]. If this wasn't you contact Truphone Customer Services on +44 203 318 0742 or help@truphone.com (Requires translation)
+plan-status-autorenew.ACCOUNT-EMAIL.reason = We’ve sent you the link to create your account. Please check your inbox. (Requires translation)
+plan-status-autorenew.msgErrorSelectProduct = Select product (Requires translation)
+plan-status-autorenew.autoRenew= Auto Renew (Requires translation)
+plan-status-autorenew.msgAutoRenewWarning= Your data will auto renew as soon as you update your card. (Requires translation)
+plan-status-autorenew.msgAutoRenewInfo= Will renew after 30 days or when you've used your data (Requires translation)
+plan-status-autorenew.msgAutoRenewDate= [x date] or when you've used your data (Requires translation)
+plan-status-autorenew.disableAutoRenew= Are you sure you want to disable auto renew? If so, you will still be able to use your remaining data. (Requires translation)
+
+
+terms-conditions.headerTitle = Vilkår og betingelser
+terms-conditions.clauses=<ol> <li>E-SIM <ol> <li> Leveres av juridisk avdeling </ol>
+
+faqs.headerTitle = Hjelpesenter
+faqs.contactUs= Kontakt oss
+faqs.faqs = Hvorfor bør jeg velge Truphone?::Her er tre grunner:<br/><ol><li><b>Raskt og enkelt:</b> Vi vet du er opptatt\, så vi har gjort bestillingsprosessen hos oss den raskeste og enkleste på markedet.</li><li><b>GOD DEKNING I 4\0 LAND UTEN EKSTRA KOSTNAD:</b> Rask data både hjemme og utenlands\, med samme abonnement\, til den samme fornuftige prisen.</li><li><b>BEST PRIS:</b> Du får alt dette\, og i tillegg mest for pengene. Vi mener at dette gjør oss uslåelige.</li></ol>|;|Hvordan og hvor kan jeg kjøpe data?::Du kan kun kjøpe mer data når du har brukt opp kvoten din. Dersom du har en prøveperiode, må du vente til du har brukt opp kvoten din med gratis mobildata.<br/><br/>Det er raskt og enkelt å kjøpe på nett med kreditt-/bankkort. Etter ditt første kjøp kan du legge til mer data i hvilket som helst av de 4\0 landene som er inkludert i abonnementet ditt.<br/><br/>Hvert data-abonnement har en varighet på 3\0 dager eller til du har brukt opp datakvoten.|;|Hvor kan jeg bruke mobildataene mine?::I hvilket som helst av de 4\0 landene vi opererer i – uten ekstra kostnad. Slå på roaming\, og du vil bli koblet til nettverket vårt automatisk hvis du har mer data tilgjengelig.<br/><br/><b>De 4\0 landene er:</b><br/><br/>Australia\, Belgia\, Bulgaria\, Danmark\, Estland\, Finland\, Frankrike\, Fransk Guyana\, Guadeloupe\, Guernsey\, Hellas\, Hong Kong\, Ungarn\, Irland\, Island\, Italia\, Jersey\, Kroatia\, Kypros\, Latvia\, Liechtenstein\, Litauen\, Luxembourg\, Malta\, Man\, Martinique\, Monaco\, Nederland\, Norge\, Polen\, Portugal\, Puerto Rico\, Romania\, Slovakia\, Spania\, Storbritannia\, Sverige\, Tsjekkia\, Tyskland\, USA\, Réunion\, Vatikanstaten og Østerrike\. |;|Hvor mye data har jeg igjen?::Du kan sjekke saldoen din under <br/><br/>Innstillinger > Mobildata > Administrer Truphone-kontoen‚Ä¶ /Legg til mer data...|;|Hvorfor må jeg opprette en konto?::<ol><li>Lagre kredittkortopplysningene dine trygt og kjøp mer data lynraskt.</li><li>Overfør data enkelt dersom du skulle miste\, tilbakestille eller oppgradere iPaden din\, eller har flere enn én iPad.</li></ol><br/>Når du kjøper data hos oss for første gang\, sender vi deg en e-post med all informasjon du trenger for å opprette en konto.|;|Hvordan administrerer jeg kontoen min?::Du kan oppdatere kontoopplysningene dine, som navn\, e-postadresse og passord\, under «Min profil». <br/><br/>Gå til: <b> Innstillinger > Mobildata > Administrer Truphone-kontoen > Min profil</b><br/><br/> Trykk på blyantikonet for å gjøre endringer, og trykk deretter lagre|;|Hvordan overfører jeg abonnementene mine?::Etter at du har opprettet en konto\, kan du overføre abonnementene dine fra én iPad til en annen ved å gå til:<br/><br/> <b>Innstillinger > Mobildata >Legg til nytt abonnement > Truphone > Logg inn > Overfør abonnement</b>|;|Hvorfor kan jeg ikke bruke data?::Hvis du har problemer\, kan du først sjekke om abonnementet ditt har utløpt, eller om datakvoten er brukt opp.<br/><br/>Hvis det er tilfellet\, må du kjøpe mer data. Hvis ikke sjekker du at enheten din har dekning for mobildata, og at både mobildata og roaming er slått på under Innstillinger > Mobildata.<br/><br/>Kontakt oss dersom problemet vedvarer.
+
+# PG40/32 Payment Page Model
+
+payment.headerTitle = Handlekurv
+payment.buttonAmendOrder = Endre
+payment.forXDays = [x days] dager
+payment.email = Oppgi e-postadressen din for å få tilsendt kvittering
+payment.emailPlaceHolder = E-post
+payment.name = Navn på kortholder
+payment.namelPlaceHolder =
+payment.ccnumber = Kortnummer
+payment.cardExpiry = Utløpsdato
+payment.MM = MM
+payment.YY = ÅÅ
+payment.securityCode = Kontrollnummer
+payment.securityCodeNote = 3 sifre på baksiden av kortet
+payment.termsOfServices = Jeg aksepterer
+payment.termsOfServicesLink = vilkårene og betingelsene
+payment.alreadyCustomer = Er du allerede kunde?
+payment.buttonPay = Sikker betaling
+payment.buttonLogin = Logg inn
+payment.msgErrorInvalidEmail = Vennligst bruk en gyldig e-postadresse
+payment.msgErrorInvalidName = Vennligst bruk navnet ditt
+payment.msgErrorCcnumber = Vennligst bruk et gyldig nummer
+payment.msgErrorRequiredData = Dato
+payment.msgErrorCustomData = kan ikke være i fortid
+payment.msgErrorSecurityCode = Oppgi kode
+payment.BADCARD.msgErrorPaymentFailed = Beklager\, kortet ditt ble ikke akseptert. Vennligst sjekk kortopplysningene.
+payment.EXCEPTION.msgErrorPaymentFailed = Betaling mislyktes. Beklager\, betalingen ble ikke gjennomført.
+payment.msgErrorAttempts =  For mange betalingsforsøk. Lukk dette vinduet og prøv igjen.
+payment.msgWarningCreateAccount = Du kan fortsatt betale med en annen e-postadresse. Eller opprett en konto ved å trykke på lenken i e-posten du mottok.
+payment.UNVERIFIED.warningTitle = Få ekstra funksjoner
+payment.VERIFIED.warningTitle = E-postadresse brukt på en annen iPad
+payment.buttonEmailIntructions = Send meg lenke på e-post
+payment.VERIFIED.result = Du har allerede en konto hos oss. Vennligst logg inn\, eller bruk en alternativ e-postadresse.
+payment.alert = Du har allerede fått en prøveperiode Liker du det? Du kan legge til mer data etter at du har brukt opp kvoten din.
+payment.overrideWarning=Denne betalingsmetoden blir ikke lagret
+payment.autoRenew = Auto renew (Requires translation)
+payment.msgAutoRenewInfo = Will renew after 30 days or when you've used your data (Requires translation)
+
+
+payment-verified.cardDetailTitle = Betal med dette kortet
+payment-verified.password = Passord
+payment-verified.requireInternetNote = (Trenger Internett-forbindelse)
+payment-verified.notRequirePasswordNote= (Passord ikke nødvendig)
+payment-verified.headerTitle = Handlekurv
+payment-verified.ccNumberFake = xxxx - xxxx - xxxx -
+payment-verified.ccExpire = Utløper
+payment-verified.forXDays = [x days] dager
+payment-verified.buttonResetPassword = Glemt passord?
+payment-verified.buttonPaySecurely = Betal trygt
+payment-verified.cardExpired = Beklager\, kortet ditt er utløpt. Legg inn et nytt kort manuelt.
+payment-verified.buttonCardManually = Legg inn kort manuelt
+payment-verified.buttonAmendOrder = Endre
+payment-verified.msgErrorInvalidPassword = Feil passord
+payment-verified.BADCARD.msgErrorPaymentFailed = Beklager\, kortet ditt ble ikke akseptert.  Vennligst sjekk betalingsopplysningene dine og prøv igjen.
+payment-verified.EXCEPTION.msgErrorPaymentFailed = Betaling mislyktes. Beklager\, betalingen ble ikke gjennomført
+payment-verified.PASS_RESET.msgErrorPaymentFailed = Tilbakestilling av passord mislyktes. Vennligst prøv igjen.
+payment-verified.WRONGPASS.msgErrorPaymentFailed = Feil passord
+payment-verified.alert = Du har allerede fått en gratis prøveperiode. Liker du det? Du kan legge til mer data etter du har brukt opp kvoten din.
+payment-verified.PASSWORD_RESETED.reason=Vennligst sjekk innboksen din. Vi har sendt deg en lenke på e-post slik at du kan tilbakestille passordet ditt.
+
+3d-secure.headerTitle = Handlekurv
+3d-secure.info = Vennligst vent mens du blir videresendt av banken. Kjøpet ditt kan bli avbrutt hvis du går tilbake eller trykker Avbryt.
+
+# PG35 Thank You Page Model
+
+payment-success.headerTitle = Din verden. Elsker det
+payment-success.hello = Takk [x name]
+payment-success.there =
+payment-success.countriesIncluded =  Kostnadsfri roaming i:
+payment-success.yourOrder = Abonnement #
+payment-success.lastDay = siste dag
+payment-success.dataLeft = gjenværende
+payment-success.buttonMyDetails = Lukk vindu
+payment-success.buttonHelp = Hjelp
+payment-success.msgWarningSettingDevice = Du er klar til å bruke mobildata så snart du ser «Truphone» på statuslinjen din.
+payment-success.daysLeft = dager igjen
+payment-success.ends = Slutter [x date]
+payment-success.hrsLeft = timer igjen
+payment-success.expired = Utløpt
+payment-success.msgWarningACMEAlert = VIKTIG: Det er viktig at du trykker «Oppdater» hvis du ser denne meldingen\, ellers får du ikke brukt våre tjenester.
+payment-success.starts = Starts (Requires translation)
+payment-success.days = days (Requires translation)
+payment-success.costFree = FREE (Requires translation)
+payment-success.autoRenew = Auto Renew (Requires translation)
+payment-success.msgAutoRenewInfo = Will renew after 30 days or when you've used your data (Requires translation)
+
+payment-failed.headerTitle = Betaling mislyktes
+payment-failed.buttonTryAgain = Prøv igjen
+payment-failed.contactUs =  Kontakt oss
+payment-failed.forXDays = [x days] dager
+payment-failed.msgWarningPaymentFailed =  Betaling mislyktes. Beklager\, betalingen ble ikke gjennomført
+
+# PG44 Change Card Page Model
+
+payment-update.name = Cardholder Name (Requires translation)
+payment-update.namelPlaceHolder =
+payment-update.ccnumber = Card Number (Requires translation)
+payment-update.cardExpiry = Card Expiry (Requires translation)
+payment-update.MM = MM (Requires translation)
+payment-update.YY = YY (Requires translation)
+payment-update.securityCode = Security Code (Requires translation)
+payment-update.securityCodeNote = 3-digit No. on the back of your card (Requires translation)
+
+payment-update.msgErrorCcnumber = Invalid card (Requires translation)
+payment-update.msgErrorRequiredData = Invalid date (Requires translation)
+payment-update.msgErrorCustomData = Can't be in a past (Requires translation)
+payment-update.msgErrorSecurityCode = Invalid code (Requires translation)
+
+payment-update.msgErrorPaymentFailed = Your Card has been rejected. Do you want to try again or use another alternative payment method? (Requires translation)
+payment-update.msgErrorAttempts =  To many payment attempts. Please close the screen and try again. (Requires translation)
+
+payment-update.buttonSave = Save (Requires translation)
+payment-update.buttonCancel = Cancel (Requires translation)
+
+payment-create.buttonCancel = Cancel (Requires translation)
+payment-create.buttonSave = Save (Requires translation)
+payment-create.cardExpiry = Card Expiry (Requires translation)
+payment-create.ccnumber = Card Number (Requires translation)
+payment-create.costFree = FREE (Requires translation)
+payment-create.headerTitle = Add Payment Method (Requires translation)
+payment-create.MM = MM (Requires translation)
+payment-create.msgErrorCcnumber = Invalid car (Requires translation)d
+payment-create.msgErrorCustomData = Can't be in a past (Requires translation)
+payment-create.msgErrorInvalidName = Invalid name (Requires translation)
+payment-create.msgErrorRequiredData = Invalid date (Requires translation)
+payment-create.msgErrorSecurityCode = Invalid code (Requires translation)
+payment-create.msgNotificationCreateAccount = We’ve sent you an email with instructions. Please check your inbox (Requires translation)
+payment-create.name = Cardholder Name (Requires translation)
+payment-create.overrideWarning = Payment warning messages (Requires translation)
+payment-create.securityCode = Security Code (Requires translation)
+payment-create.securityCodeNote = 3-digit No. on the back of your card (Requires translation)
+payment-create.termsOfServices = Accept (Requires translation)
+payment-create.termsOfServicesLink = Terms of Service (Requires translation)
+payment-create.YY = YY (Requires translation)
+
+login.email = Vennligst oppgi en gyldig e-postadresse
+login.emailPlaceHolder = E-post
+login.headerTitle = Logg inn
+login.buttonEmail = Neste
+login.msgErrorInvalidEmail = Vennligst oppgi en gyldig e-postadresse
+email-page.email = Oppgi e-postadresse
+email-page.emailPlaceHolder = E-post
+email-page.headerTitle = Handlekurv
+email-page.buttonEmail = Neste
+email-page.buttonAmendOrder = Endre
+email-page.msgErrorInvalidEmail = Vennligst oppgi en gyldig e-postadresse
+email-page.forXDays = [x days] dager
+
+
+login-unverified.email = E-post
+login-unverified.emailPlaceHolder = E-post
+login-unverified.warningTitle = Lag konto
+login-unverified.warningMsg = Vi kjenner igjen e-postadressen din\, men du har ikke opprettet noen konto enda. Opprett en nå for å kunne kjøpe mobildata med ett trykk samt overføre data mellom iPader. Beklager\, du kan ikke få flere gratis prøveperioder.
+login-unverified.headerTitle = Logg inn
+login-unverified.buttonEmail = Tilbake
+login-unverified.buttonSendEmail = Lag en konto
+login-unverified.msgErrorInvalidEmail = Vennligst oppgi en gyldig e-postadresse
+
+# PG3 Login Page Model
+
+login-verified.email = E-post
+login-verified.emailPlaceHolder = E-post
+login-verified.password = Passord
+login-verified.requireInternetNote = (Trenger Internett-forbindelse)
+login-verified.headerTitle = Logg inn
+login-verified.buttonResetPassword = Glemt passord?
+login-verified.buttonLogin = Logg inn
+login-verified.msgErrorInvalidPassword = Feil passord
+login-verified.msgErrorInvalidEmail = Vennligst oppgi en gyldig e-postadresse
+login-verified.MAXIMUM_LOGIN_TRIES_EXCEEDED.reason = For mange innloggingsforsøk Vennligst lukk vinduet og prøv igjen
+login-verified.LOGIN_FAILED.reason = Vennligst oppgi en gyldig e-postadresse og et gyldig passord
+login-verified.NOT_SAME_ACCOUNT.reason = Betal med en annen e-postadresse eller lag en konto ved å følge lenken i e-posten du mottok.
+login-verified.PASSWORD_RESET_UNVALIDATED_EMAIL.reason = E-postadressen din er ikke bekreftet.
+login-verified.PASSWORD_RESET_INVALID_EMAIL.reason = Ugyldig e-postadresse.
+login-verified.PASSWORD_RESETED.reason=Vennligst sjekk innboksen din. Vi har sendt deg en lenke på e-post slik at du kan tilbakestille passordet ditt.
+
+# PG43 Reset Password Page Model
+
+reset-password.email = E-post
+reset-password.emailPlaceHolder = ola@eksempel.com
+reset-password.headerTitle = Glemt passord?
+reset-password.buttonResetPassword = Tilbakestill passordet ditt
+reset-password.msgErrorInvalidEmail = Vennligst oppgi e-postadressen du brukte for denne kontoen, og vi vil sende deg en e-post med lenke slik at du kan tilbakestille passordet ditt.
+
+# PG25 Verified My Details Page Model (serves both verified and unverified users)
+
+account.name = Navn
+account.email = E-post
+account.password = Passord
+account.requireInternetNote = (Trenger Internett-forbindelse)
+account.cardDetailTitle = Betalingsmetode
+account.headerTitle = Min profil
+account.buttonResetPassword = Glemt passord?
+account.buttonRemoveCard = Slett kort
+account.ccNumberFake = xxxx - xxxx - xxxx -
+account.ccExpire = Utløper
+account.warningTitle = Lag konto
+account.buttonEmailIntructions = Send meg lenke på e-post
+account.msgWarningCreateAccount = Du kan kjøpe mobildata raskere og overføre abonnementet ditt til en annen iPad.
+account.EMAIL_CHANGED_VERIFIED.reason=Vi har sendt deg en lenke for å bekrefte din nye e-postadresse. Vennligst sjekk innboksen din.
+account.EMAIL_CHANGED_UNVERIFIED.reason=E-postadressen din er oppdatert. Sjekk innboksen din for å komme videre i prosessen med å opprette en konto.
+account.ACCOUNT_UPDATED.reason=Opplysningene dine er oppdatert.
+account.PASSWORD_CHANGED.reason=Passordet ditt er oppdatert.
+account.NAME_CHANGED.reason=Navnet ditt er oppdatert.
+account.CARD_REMOVED.reason=Kortopplysningene dine er slettet.
+account.PASSWORD_RESETED.reason=Vennligst sjekk e-postinnboksen din. Vi har sendt deg en lenke på e-post slik at du kan tilbakestille passordet ditt.
+account.ACCOUNT-EMAIL.reason = Vi har sendt deg en lenke slik at du kan opprette en konto. Vennligst sjekk innboksen din.
+account.addCard = Add card (Requires translation)
+
+
+#PG26 Change Name Page Model
+
+edit-name.name = Fornavn
+edit-name.surname = Etternavn
+edit-name.headerTitle = Endre navn
+edit-name.buttonSave = Lagre
+edit-name.buttonCancel = Avbryt
+edit-name.msgErrorInvalidName = Skriv inn fornavnet ditt
+edit-name.msgErrorInvalidSurname = Skriv inn etternavnet ditt
+
+
+
+# PG28 Change Email Page Model
+
+edit-email.email = Ny e-postadresse
+edit-email.emailPlaceHolder = kari@eksempel.com
+edit-email.password = Oppgi passord for å endre e-postadresse
+edit-email.headerTitle = Endre e-postadresse
+edit-email.buttonSave = Lagre
+edit-email.buttonCancel = Avbryt
+edit-email.msgErrorInvalidEmail = Ugyldig e-postadresse
+edit-email.msgErrorInvalidPassword = Passord må være på minst 6 tegn
+edit-email.invalidPassword = Feil passord
+edit-email.existingUser = Denne e-postadressen er allerede i bruk. Vennligst prøv igjen.
+
+# PG27 Change Password Page Model
+
+edit-password.password = Nåværende passord
+edit-password.newPassword = Nytt passord (min. 6 tegn)
+edit-password.confirmPassword = Bekreft nytt passord
+edit-password.headerTitle = Endre passord
+edit-password.buttonSave = Lagre
+edit-password.buttonCancel = Avbryt
+edit-password.msgErrorInvalidPassword = Feil passord
+edit-password.msgErrorInvalidNewPassword = Passord må være på minst 6 tegn
+edit-password.msgErrorInvalidConfirmPassword = Passordene stemmer ikke overens. Vennligst prøv igjen.
+edit-password.invalidOldPassword = Det gamle passordet ditt er ugyldig
+
+
+remove-card.headerTitle = Slett kort
+remove-card.buttonSave = Fjern kort
+remove-card.buttonCancel = Avbryt
+remove-card.warningMsg = Hvis du sletter dette kortet\, vil du ikke kunne legge til et nytt kort før du skal kjøpe mer data.
+
+monitor-mode.message = Takk for at du velger oss. Vi kobler til iPaden din. Den er snart klar til bruk.
+
+
+generic-error.PASSWORD_RESET_INVALID_EMAIL.message = Det finnes ingen bruker med denne e-postadressen.
+generic-error.PASSWORD_RESET_INVALID_EMAIL.headerTitle= Tilbakestill passord
+generic-error.PASSWORD_RESET_INVALID_EMAIL.warningTitle= Feil
+
+generic-error.PASSWORD_RESET_UNVALIDATED_EMAIL.message = Denne e-postadressen tilhører en ubekreftet konto. Sjekk innboksen din for e-posten med bekreftelseslenke.
+generic-error.PASSWORD_RESET_UNVALIDATED_EMAIL.headerTitle= Tilbakestill passord
+generic-error.PASSWORD_RESET_UNVALIDATED_EMAIL.warningTitle= Feil
+
+#PG4 - Generic Error
+generic-error.GENERIC_ERROR.message = Beklager\, noe gikk galt.
+generic-error.GENERIC_ERROR.headerTitle= Generisk feil
+generic-error.GENERIC_ERROR.warningTitle= Feil
+
+#PG2 - Invalid device - To be changed
+generic-error.INVALID_DEVICE.message = Beklager\, det var et problem med å laste siden. Vennligst lukk dette vinduet og prøv igjen.
+generic-error.INVALID_DEVICE.headerTitle= Generisk feil
+generic-error.INVALID_DEVICE.warningTitle= Feil
+
+generic-error.INVALID_OS_VERSION.message = Vennligst oppgrader iOS-versjonen din for å fortsette.
+generic-error.INVALID_OS_VERSION.headerTitle= Generisk feil
+generic-error.INVALID_OS_VERSION.warningTitle= Feil
+
+generic-error.INVALID_PAYMENT_DATA.message = Beklager\, du har gjort for mange mislykkede betalingsforsøk. Lukk dette vinduet og prøv igjen.
+generic-error.INVALID_PAYMENT_DATA.headerTitle= Generisk feil
+generic-error.INVALID_PAYMENT_DATA.warningTitle= Feil
+
+#PG44
+generic-error.ESIM_INSTALLATION_ERROR.message = Tilkoblingen ble brutt. Du har ikke blitt belastet. Beklager ulempen
+generic-error.ESIM_INSTALLATION_ERROR.headerTitle= Generisk feil
+generic-error.ESIM_INSTALLATION_ERROR.warningTitle= Feil
+
+#updated by davy and copywriter
+generic-error.INVALID_EMAIL_CHANGE_LINK.message = Beklager\, denne lenken er ikke lenger gyldig.
+generic-error.INVALID_EMAIL_CHANGE_LINK.headerTitle= Ugyldig lenke
+generic-error.INVALID_EMAIL_CHANGE_LINK.warningTitle= Feil
+
+generic-error.DUPLICATED_EMAIL.message = Beklager\, denne e-postadressen er allerede i bruk. Vennligst oppgi en annen adresse.
+generic-error.DUPLICATED_EMAIL.headerTitle= Eksisterende e-post
+generic-error.DUPLICATED_EMAIL.warningTitle= Feil
+
+#PG46 - Unable to bind - To be changed
+generic-error.UNABLE_TO_BIND.message = Beklager\, abonnementet ditt ble ikke lastet ned. Vi har ikke tatt betaling fra deg. Vennligst prøv igjen senere
+generic-error.UNABLE_TO_BIND.headerTitle= Kunne ikke gjennomføre betaling
+generic-error.UNABLE_TO_BIND.warningTitle= Feil
+
+generic-error.SESSION_TIMEOUT.message= Beklager\, økten din har utløpt. Det er ikke noe problem, bare lukk vinduet og start på nytt.
+generic-error.SESSION_TIMEOUT.headerTitle=Økt utløpt
+generic-error.SESSION_TIMEOUT= Feil
+
+
+generic-info.PASSWORD_RESET_SUCCESS.message = Vennligst sjekk e-postinnboksen din. Vi har sendt deg en lenke på e-post slik at du kan tilbakestille passordet ditt.
+
+generic-info.PASSWORD_RESET_SUCCESS.headerTitle= Tilbakestill passord
+generic-info.PASSWORD_RESET_SUCCESS.warningTitle= Info
+
+generic-info.PROCESS_ONGOING_PAGE.message = Du er klar til å bruke mobildata så snart du ser «Truphone» på statuslinjen din.
+generic-info.PROCESS_ONGOING_PAGE.headerTitle= Laster ned e-SIM
+generic-info.PROCESS_ONGOING_PAGE.warningTitle= Info
+
+# Updated by Davy and copywriter on 12 may 2017
+generic-info.ICCID_CSN_NOT_PRESENT.message = Beklager\, denne enheten har allerede en e-SIM som er tildelt en annen abonnent. Bare tilbakestill iPaden\, gjennomfør kjøpet og du er klar til å sette i gang.
+generic-info.ICCID_CSN_NOT_PRESENT.headerTitle= Ugyldig e-SIM
+generic-info.ICCID_CSN_NOT_PRESENT.warningTitle= Info
+
+
+generic-info.ACTIVATION_LINK_SENT.message = Vennligst sjekk innboksen din og bekreft kontoen din.
+generic-info.ACTIVATION_LINK_SENT.headerTitle= Aktiveringslenke sendt
+generic-info.ACTIVATION_LINK_SENT.warningTitle= Info
+
+
+generic-info.ACTIVATION_LINK_NOT_SENT.message = Du kan ikke legge til en ny enhet med en ubekreftet konto
+generic-info.ACTIVATION_LINK_NOT_SENT.headerTitle= Aktivering påkrevd
+generic-info.ACTIVATION_LINK_NOT_SENT.warningTitle= Info
+
+web-thank-you.headerTitle = Hei\, [x name]
+web-thank-you.INFO-ACCOUNT-CREATE.message = Gode nyheter! Kontoen din er aktivert. Nå er du klar til å surfe mer – for mindre penger.
+web-thank-you.INFO-ACCOUNT-EXISTS.message = Gode nyheter! Du har allerede en konto. Du behøver ikke å gjøre noe annet. Du kan nå roame mer – for mindre penger.
+
+web-thank-you.INFO-PASSWORD-RESET.message = Gratulerer. Passordet ditt er nå endret. Dersom du vil kjøpe mer mobildata\, gå til > Innstillinger > Mobildata > Administrer Truphone-konto …
+web-thank-you.INFO-EMAIL-CHANGE.message = Takk for at du bekreftet e-postadressen din. Vi har nå oppdatert den.
+
+# reviewed
+web-thank-you.ERROR-ACCOUNT-CREATE.message = Beklager\, noe gikk galt under opprettelse av kontoen din. Vennligst prøv igjen senere.
+# reviewed
+web-thank-you.ERROR-PASSWORD-RESET.message = Beklager\, noe gikk galt under endring av passordet ditt. Vennligst prøv igjen senere.
+# reviewed
+web-thank-you.ERROR-EMAIL-CHANGE.message = Beklager\, noe gikk galt under endring av e-postadressen din. Vennligst prøv igjen senere.
+web-thank-you.copyright =¬© 2\017 Truphone Limited Med enerett. Truphone Limited (4187\081). Registrert i England og Wales. Registrert adresse: 25 Canada Square\, Canary Wharf\, London E14 5LQ. VAT GB851527819.
+
+
+
+web-reset-password.headerTitle = Tilbakestill passordet ditt
+web-reset-password.newPassword = Bekreft nytt passord
+web-reset-password.confirmPassword = Bekreft nytt passord 
+web-reset-password.buttonSave = Oppdater passord
+web-reset-password.msgErrorInvalidNewPassword = Passord må være på minst 6 tegn
+web-reset-password.msgErrorInvalidConfirmPassword = Passordene stemmer ikke overens. Vennligst prøv igjen
+web-reset-password.newPasswordNote = Passord må være på minst 6 tegn
+web-reset-password.email = E-post
+web-reset-password.copyright =¬© 2\017 Truphone Limited Med enerett. Truphone Limited (4187\081). Registrert i England og Wales. Registrert adresse: 25 Canada Square\, Canary Wharf\, London E14 5LQ. VAT GB851527819.
+
+web-create-account.headerTitle = Lag en konto
+web-create-account.newPassword = Passord
+web-create-account.confirmPassword = Bekreft passord
+web-create-account.name = Fornavn
+web-create-account.email = E-post
+web-create-account.surname = Etternavn
+web-create-account.emailPlaceHolder = ola@eksempel.com
+web-create-account.buttonSave = Lag konto
+web-create-account.msgErrorInvalidName = Skriv inn fornavnet ditt
+web-create-account.msgErrorInvalidSurname = Skriv inn fornavnet ditt
+web-create-account.msgErrorInvalidEmail = Vennligst bruk en gyldig e-postadresse
+web-create-account.msgErrorInvalidNewPassword = Passord må være på minst 6 tegn
+web-create-account.msgErrorInvalidConfirmPassword = Passordene stemmer ikke overens. Vennligst prøv igjen.
+web-create-account.info = 
+web-create-account.featuresInfo = Nesten ferdig! Vi trenger noen flere opplysninger for å opprette kontoen\, så kan du:
+web-create-account.features = Kjøpe data når du vil med ett trykk; Overføre abonnementet ditt til en annen iPad; Administrere kontoen din trygt og sikkert
+web-create-account.newPasswordNote = (min. 6 tegn)
+web-create-account.copyright =¬© 2\017 Truphone Limited Med enerett. Truphone Limited (4187\081). Registrert i England og Wales. Registrert adresse: 25 Canada Square\, Canary Wharf\, London E14 5LQ. VAT GB851527819.
+
+
+web-create-account-success.headerTitle = Takk [x name]\,
+web-create-account-success.info = Velkommen til Truphone. Velkommen til en bedre tilkoblet verden.<br/><br/> Nå som du har opprettet en konto\, kan du oppleve forskjellen med Truphone:
+web-create-account-success.features = Lave priser. God dekning; Bruk det samme abonnementet i 4\0 land (bare slå på roaming når du er utenlands); Kjøp med ett trykk
+web-create-account-success.copyright=¬© 2\017 Truphone Limited Med enerett. Truphone Limited (4187\081). Registrert i England og Wales. Registrert adresse: 25 Canada Square\, Canary Wharf\, London E14 5LQ. VAT GB851527819.
+
+free-trial.costFree = GRATIS
+pre-paid.costFree = GRATIS
+plan-status.costFree = GRATIS
+payment.costFree = GRATIS
+payment-verified.costFree = GRATIS
+payment-failed.costFree = GRATIS
+email-page.costFree = GRATIS
+
+
+web-create-account.headTitle= Lag konto
+web-create-account-success.headTitle=Takk for at du oppretter en konto
+web-thank-you.INFO-EMAIL-CHANGE.headTitle=E-postadressen din er bekreftet
+web-thank-you.INFO-ACCOUNT-EXISTS.headTitle = Lag konto
+web-thank-you.INFO-PASSWORD-RESET.headTitle = Tilbakestill passordet ditt
+web-thank-you.ERROR-ACCOUNT-CREATE.headTitle = Lag konto
+web-thank-you.ERROR-PASSWORD-RESET.headTitle = Tilbakestill passordet ditt
+web-thank-you.ERROR-EMAIL-CHANGE.headTitle = Endre e-postadresse
+web-reset-password.headTitle=Tilbakestill passordet ditt
+

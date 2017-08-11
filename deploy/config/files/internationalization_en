@@ -1,0 +1,540 @@
+# PG37 Free Products Page Model
+
+free-trial.headerTitle = Your world. Explore it
+free-trial.countriesIncluded =  Roam at no extra cost in:
+free-trial.forXDays = [x days] days
+free-trial.email = Simply enter your email for FREE data
+free-trial.emailNote = (No purchase necessary)
+free-trial.emailPlaceHolder = Email
+free-trial.termsOfServices =  I accept the
+free-trial.termsOfServicesLink = terms and conditions
+free-trial.buttonClaim = Get 1\0\0 MB free
+free-trial.msgErrorInvalidEmail = Please enter a valid email
+free-trial.msgErrorInvalidClaimedFree = Sorry\, you've had your free trial
+
+
+#PG6 paid product page
+
+pre-paid.headerTitle = Buy now. Get 1\0\0 MB FREE
+pre-paid.countriesIncluded =  Roam at no extra cost in:
+pre-paid.mostPopular =  great choice
+pre-paid.forXDays = [x days] days
+pre-paid.buttonCheckout = Check out
+pre-paid.buttonHelp = Help
+pre-paid.msgErrorSelectProduct = Please select a plan
+pre-paid.NO-FREEBIES.reason = Sorry\, you've had a trial. Select a plan instead.
+pre-paid.autoRenew= Auto Renew
+pre-paid.msgAutoRenewInfo= Will renew after 3\0 days or when you've used your data.
+
+transfer-plan.headerTitle = Transfer Plan
+transfer-plan.countriesIncluded = * Roam at no extra cost in:
+transfer-plan.order = Plan #
+transfer-plan.ends = Ends [x date]
+transfer-plan.buttonTransferPlan = Transfer now
+transfer-plan.buttonHelp = Help
+transfer-plan.msgWarningTransfer = Transfer your data here. Once transferred\, you can only use your data on this iPad.
+transfer-plan.msgErrorSelectProduct = Please select a plan
+transfer-plan.msgInfo = Once transferred\, you can only use your data on this iPad
+transfer-plan.hrsLeft = hour left
+transfer-plan.expired = Expired
+transfer-plan.daysLeft = days left
+transfer-plan.countriesIncluded =  You can use the data in any of these countries:
+transfer-plan.hello = Hello [x name]
+
+
+
+
+# PG24 Verified Account Management Page Model (serves both verified and unverified users):
+
+plan-status.headerTitle = Your world. Love it.
+plan-status.hello = Hi [x name]
+plan-status.there = there\,
+plan-status.order = Plan #
+plan-status.countriesIncluded =  Roam at no extra cost in:
+plan-status.ends = Ends [x date]
+plan-status.transferred = Transferred
+plan-status.lastDay = last day
+plan-status.dataLeft = left
+plan-status.daysLeft = days left
+plan-status.mostPopular = great choice
+plan-status.welcomeBack = Welcome Back\,
+plan-status.addMoreData = Add More Data
+plan-status.forXDays = [x days] days
+plan-status.buttonMyDetails = My profile
+plan-status.buttonLogout = Log out
+plan-status.buttonHelp = Help
+plan-status.buttonEmailIntructions = Email me a link
+plan-status.buttonTransferPlan = Transfer plan
+plan-status.buttonCheckout = Check out
+plan-status.hrsLeft = hours left
+plan-status.expired = Expired
+plan-status.warningTitle = Create Account
+plan-status.msgWarningCreateAccount = So you can buy data faster and transfer your plan to a different iPad.
+plan-status.ROAMING.reason = Want to roam at no extra cost? If you've not done so already\, switch on "Data Roaming" in your "Mobile Data Options"
+plan-status.NO-SERVICE.reason = Unfortunately\, you can’t use your data in this country.
+plan-status.OLD-DEVICE.reason = Great news\, your plan has been transferred to iPad mini model [x]. If you didn't set up this transfer\, please call +44 74\0 881 6186 or email ask@truphone.com straight away.
+plan-status.NEW-DEVICE.reason = Thanks for choosing us. We're just connecting your iPad\, you'll be up and running soon.
+plan-status.msgErrorSelectProduct = Please select a plan
+plan-status.ACCOUNT-EMAIL.reason = We've sent you the link to create your account. Please check your inbox.
+plan-status.NO-FREEBIES.reason = Sorry\, you've had your free trial
+plan-status.NO-FREEBIES-TRANSFER.reason = Sorry\, you've already had your free trial. Please transfer your existing plan or add data
+plan-status.autoRenew= Auto Renew
+plan-status.msgAutoRenewWarning= Your data will auto renew as soon as you update your card.
+plan-status.msgAutoRenewInfo= Will renew after 3\0 days or when you've used your data
+plan-status.msgAutoRenewDate= [x date] or when you've used your data
+
+plan-status-autorenew.hello = Hello [x name]
+plan-status-autorenew.there = there
+plan-status-autorenew.order = Plan #
+plan-status-autorenew.ends = Ends [x date]
+plan-status-autorenew.transferred = Transferred
+plan-status-autorenew.hrsLeft = hour left
+plan-status-autorenew.expired = Expired
+plan-status-autorenew.dataLeft = data left
+plan-status-autorenew.daysLeft = days left
+plan-status-autorenew.welcomeBack = Welcome Back\,
+plan-status-autorenew.addMoreData = Add data
+plan-status-autorenew.warningTitle = Create Account
+plan-status-autorenew.forXDays = for [x days] days
+plan-status-autorenew.countriesIncluded =  You can use the data in any of these countries:
+plan-status-autorenew.costFree = FREE
+plan-status-autorenew.mostPopular =  most popular
+plan-status-autorenew.headerTitle = Your world. Explore it
+plan-status-autorenew.buttonMyDetails = My profile
+plan-status-autorenew.buttonLogout = Logout
+plan-status-autorenew.buttonHelp = Help
+plan-status-autorenew.buttonEmailIntructions = Unlock <br/> via email
+plan-status-autorenew.buttonTransferPlan = Transfer existing plan
+plan-status-autorenew.buttonCheckout = Checkout
+plan-status-autorenew.buttonHelp = Help
+plan-status-autorenew.buttonCancel = Cancel
+plan-status-autorenew.buttonSave = Disable auto renew
+plan-status-autorenew.msgWarningCreateAccount = Add data faster with a couple of clicks. Transfer your data to different iPads.<br/>  Store details and manage your plan more easily\, and much more. <br/> Simply create an account. It’s quick and easy.
+plan-status-autorenew.reason = You are covered in [x country] just switch on "Data Roaming" in your "Mobile Data Settings."
+plan-status-autorenew.ROAMING.reason = You are covered in [x country] just switch on "Data Roaming" in your "Mobile Data Settings."
+plan-status-autorenew.OLD-DEVICE.reason = Your Truphone Data Plan was transferred to iPad [x iPad model]. If this wasn't you contact Truphone Customer Services on +44 2\03 318 \0742 or help@truphone.com
+plan-status-autorenew.ACCOUNT-EMAIL.reason = We’ve sent you the link to create your account. Please check your inbox.
+plan-status-autorenew.msgErrorSelectProduct = Select product
+plan-status-autorenew.autoRenew= Auto Renew
+plan-status-autorenew.msgAutoRenewWarning= Your data will auto renew as soon as you update your card.
+plan-status-autorenew.msgAutoRenewInfo= Will renew after 3\0 days or when you've used your data
+plan-status-autorenew.msgAutoRenewDate= [x date] or when you've used your data
+plan-status-autorenew.disableAutoRenew= Are you sure you want to disable auto renew? If so\, you will still be able to use your remaining data.
+
+
+terms-conditions.headerTitle = Terms and conditions
+terms-conditions.clauses=<ol> <li>E-SIM service <ol> <li>These are the terms and conditions for the supply of the Truphone data services (“Services”) provided by Truphone Limited (we\, us and our) to you the end user (you and your). Your purchase and use of these Services is subject to these terms and conditions (“Agreement”).</li> <li>A copy of these terms and conditions should be retained for future reference and it is your responsibility to periodically check truphone.com to ensure you are familiar with any changes or updates to these terms and conditions.</li> <li>The Services are intended for use on iPads not iPhones. We cannot guarantee the functionality of the Services if you use them on an iPhone or another device.</li> <li>If you do not wish to be bound by these terms and conditions then you should not purchase or use the Truphone Service.</li> </ol> </li> <li>Service <ol> <li>We shall provide you with data services based on the capabilities of our E-SIM. The E-SIM includes an electronic profile which will be downloaded to your device as part of activating the Service.</li> <li>The volume of data available for the operation of the Services will be made clear to you during the process of purchasing or topping up the Services. The Services will be available to you for the period specified at the time of purchase. When that period expires\, any remaining Services will be lost and no refund will be payable for those unused Services. Our Services under this Agreement are provided on a pre-purchase basis only.</li> <li>You agree that the quantity of your remaining data services\, as displayed on the Truphone Mobile Data Account page (Settings > Mobile (or Cellular) Data > Manage Truphone Account)\, is conclusive.</li> <li class="subTitle">Availability</li> <li>The Services are provided on an "as is" and "as available" basis. We do not warrant or guarantee a fault free Service and give no warranties or guarantees as to network coverage\, quality or availability. We shall take all reasonable steps to make the Service available to you at all times\, contingent upon our and/or our service provider's ability to maintain network capacity and connection availability.</li> <li>In the event of a fault\, upon becoming aware of the fault or upon receipt of notice of the existence of such a fault by you\, we shall use reasonable efforts to promptly correct the fault.</li> <li>We reserve the right to choose our network operators and technology partners as we deem appropriate and to provide access to the Service in any manner we deem in the best interest of our business requirements. In this regard you hereby consent to us disclosing and using any of your personal data for the provision of the Service. Any such use of your personal data will be subject to the terms of our Privacy Policy which can be found at truphone.com.</li> <li class="subTitle">Roaming</li> <li>Your use of the Service whilst Roaming may be subject to different laws and regulations. We will not accept any liability for your failure to comply with those laws or regulations. In addition\, using the Service whilst Roaming may incur higher charges in the country where you are Roaming which could decrement your data bundle at a quicker rate.</li> <li class="subTitle">Suspension</li> <li>From time to time we may be required to upgrade\, modify or maintain the Service. On such occasions the Service may be temporarily unavailable\, however\, we will endeavour to keep such disruption to a minimum and notify you in advance when possible\, including by posting a message on truphone.com.</li> <li>We reserve the right to suspend the Service without giving you notice where: <ol type="a"> <li>we have reason to believe you are in breach of the conditions of usage (clause 4 below) or any of our policies notified to you on truphone.com.</li> <li>pending the outcome of an investigation following receipt of a complaint made against you.</li> <li>you fail to provide us with the necessary information as required for satisfying a regulatory requirement (such as know your customer identification verification) in any jurisdiction you wish to travel to and use the Service.</li> <li>we have reasonable cause to suspect that you have obtained access to the Services fraudulently or unlawfully.</li> <li>we are obliged to comply with an order\, instruction or request of any government\, regulatory\, or emergency services organisation\, or other competent administrative authority.</li> <li>in order to prevent damage or degradation of our or our contracting party's network integrity which may be caused by you or anyone using your access.</li> <li>for operational reasons or in an emergency or for security reasons.</li> </ol> </li> <li class="subTitle">Monitoring</li> <li>We may monitor the Service and disclose information gained from such monitoring in order to satisfy any law\, regulation or other governmental request\, to operate and administer the Service\, or to protect us or our other customers.</li> </ol> </li> <li>Purchasing the Service <ol> <li>On purchasing the Service we will remotely enable you with an E-SIM. The E-SIM will remain on your device even after you have consumed all of the Services which you have purchased.</li> <li>The Service shall commence immediately following activation of the E-SIM so that the Service is operationally available for your use (“Activation”).</li> </ol> </li> <li>Your obligations <ol> <li class="subTitle">Use</li> <li>You agree that you shall use the Service in compliance with this Agreement and that you are responsible for all use of the Service. Please refer to truphone.com for our current Acceptable Use Policy and Fair Use Policy.</li> <li>You shall be responsible for configuration of your device so that it may properly make use of the Services in compliance with any regulations and applicable instructions issued either by us or the supplier of the device.</li> <li>You must: <ol type="a"> <li>not use the Services for any fraudulent or unlawful purposes nor use the Services to send any communication which is of an abusive\, obscene\, harassing or menacing nature;</li> <li>not use the Service to commit or facilitate the commission of a crime\, or other unlawful act;</li> <li>not act in any way\, which may affect or impair the operation of any network used or operated by us;</li> <li>not send or upload anything that infringes 3rd party intellectual property rights (unless you have permission);</li> <li>only use the Service for your own personal use and must not sell\, resell\, lease\, sub-lease or otherwise deal commercially with the Services;</li> <li>only use the Service for the purposes and in the manner expressly permitted by this Agreement;</li> <li>only use the Services in accordance with all applicable laws and regulations of your home nation\, the country in which you reside\, or the country in which you are present whilst using the Service;</li> <li>provide us with whatever proof of identity we may reasonably request;</li> </ol> </li> <li>It is your responsibility to delete the E-SIM from your device before you pass it to another person. If you fail to do so\, the balance of your pre-purchased Services will be useable by that person. You can delete the E-SIM by going to “Settings”\, then “General”\, then “Reset” and tapping “Erase all Content and Settings” and include resetting of “Data Plans” when prompted.</li> <li>You must comply with all reasonable security procedures and standards with respect to the Service. We may communicate security issues to you from time to time when abuse or misuse is observed or reported by others along with general information related to the provision by us of the Service by any means\, including via www.truphone.com.</li> <li class="subTitle">Lost or stolen device</li> <li>You must inform us immediately if the device on which the Services are activated is lost or stolen and you will remain responsible for usage of the Services on the device until you do so. If your device is lost or stolen please call us immediately on +44 74\08816186 or e-mail us at ask@truphone.com. We will take all reasonable action to cancel the provision of the Services on any stolen or lost device within 72 hours of notification and subject to verification of account.</li> <li class="subTitle">Content</li> <li>You are solely responsible for all content\, information and communications transmitted using the Service and agree that we have no responsibility for the deletion\, corruption or failure to store any content transmitted using the Service.</li> </ol> </li> <li>Intellectual Property in the Services <ol> <li>All technology\, intellectual property and documentation relating to the Services shall remain our property. On purchasing the Services we grant you a revocable\, conditional\, non-exclusive\, non-assignable\, non-sub-licensable license to use the Services.</li> </ol> </li> <li>Charges <ol> <li>The charges associated with the data bundle(s) purchased for the Service are available to you before you purchase the Service and by purchasing the Service you agree to the application of those charges. We reserve our right to increase or make any other change to the charges for the Services which you have purchased at any time by publishing any changes on www.truphone.com or otherwise giving you notice.</li> <li class="subTitle">General</li> <li>The charge to be paid for the purchase of the Services are inclusive of value-added tax and any other similar sales taxes\, duties or levies imposed by any authority\, government or governmental agency.</li> </ol> </li> <li>Payment and Refund Policy <ol> <li>This Service operates on a pre-purchase basis. You are required to pay for the Services before we make them available to you. We have no obligation to refund any payments made in advance except as set out elsewhere in these terms and conditions. Where we offer to provide you with free Services or other special offer Services no cash alternative will be given.</li> <li>As you use the Services the balance of remaining purchased data bundle available to you will be decremented according to your usage of the Service. Each session of data usage which you undertake will be rounded up to the nearest kilobyte and that number of kilobytes will be decremented from your remaining data bundle for the Service.</li> </ol> </li> <li>Termination of the Service <ol> <li class="subTitle">By us</li> <li>We reserve the right to terminate this Agreement and cease supplying the Services in the event that you materially breach any of this Agreement’s terms and conditions. We shall not be required to refund you any amount for your unused data bundle relating to the Services at the time of termination.</li> <li class="subTitle">By you</li> <li>You may terminate this Agreement with us at any time by notifying us in accordance with clause 8.4.</li> <li>If you send us notification of termination: <ol type="a"> <li>within 14 days of the date of entering the Agreement; or</li> <li>at any time because we are no longer able to provide the Services to you and the inability to provide the Services is unrelated to any action by you\, </li> </ol> you may request that we provide to you a refund of the proportionate value of the unused Services\, otherwise termination of the Services will not entitle you to a payment of any amount. </li> <li>To terminate this Agreement\, phone Truphone Customer Services on +44 74\08816186 or you may email ask@truphone.com from the email address which have provided at the time of entering the Agreement and giving us your name\, address and telephone number.</li> <li>Where you have fully utilised the data bundle which you have purchased you will no longer be able to use the Services unless and until you make a further purchase of Services.</li> </ol> </li> <li>Liability <ol> <li>This clause sets out the entire financial liability of us to you (including any liability for the acts or omissions of our employees\, agents\, consultants and subcontractors) in respect of: <ol type="a"> <li>the provision of the Services;</li> <li>any breach of the Agreement;</li> <li>any use made by you of the Services;</li> <li>any representation\, statement\, or tortious act or omission (including negligence) arising under or in connection with the Agreement.</li> </ol> </li> <li>All warranties\, conditions and other terms implied by statute or common law are to the fullest extent permitted by law excluded from the Agreement.</li> <li>Nothing in this Agreement shall limit or exclude our liability to you: <ol type="a"> <li>for death or personal injury caused by our negligence;</li> <li>for fraudulent misrepresentation;</li> <li>for any other liability that may not\, under English law\, be limited or excluded;</li> </ol> Subject to this\, in no event shall we be liable to you for any indirect or consequential losses incurred by you\, or for any loss of profit\, revenue\, contracts\, data\, goodwill or other similar losses. </li> <li>Our total aggregate liability in contract\, tort (including negligence or breach of statutory duty)\, misrepresentation\, restitution or otherwise\, arising in connection with the performance or contemplated performance of this Agreement\, including the provision of the Services\, shall be strictly limited to the aggregate value of the payments which you have made to us during the preceding 12 months for the Services.</li> <li>We will not be liable or responsible for any failure to perform\, or delay in performance of\, any of our obligations or provision of the Services (i) where such delay or performance failure is due to any of your acts or omissions\, where you have provided incorrect data or information; or (ii) network failure\, network outage\, network congestion\, power failures; or (iii) that is caused by events outside our reasonable control including but not limited to strikes\, lock-outs or other industrial disputes (whether involving our workforce or any other party) Act of God\, war\, terrorist activity\, malicious damage\, compliance with any law or governmental order or default of suppliers or subcontractors.</li> <li>Truphone shall have no liability to you for any costs\, or charges or penalties incurred by you for failing to comply and satisfy any regulatory requirement of a country prior to using the Services in that country.</li> <li>You acknowledge that in the event of any third party claim that any sub-licensed application of a Licensed Application Third Party Provider in your possession when used as part of the Services infringes a third party's intellectual property rights\, we will be responsible for the investigation\, defence\, settlement and discharge of any such intellectual property infringement claim provided you have notified us immediately on receipt by you of such an infringement notice if you have been notified that you are infringing a third party's intellectual property by using the Service.</li> <li>You represent and warrant that (i) you are not located in a country that is subject to a U.S. Government embargo\, or that has been designated by the U.S. Government as a "terrorist supporting" country; and (ii) you are not listed on any U.S. Government list of prohibited or restricted parties. If it is established that you are in breach of this warranty then we shall have the right to immediately terminate the Services and no amount will be payable to you in respect of any unused Services.</li> <li>Your liability:<br/> You shall be liable for any damages of any kind caused to us\, our networks or systems\, or any third parties by your use or misuse of the E-SIM or the Services\, or by any other persons whomsoever or on any device whatsoever\, even in the event of loss or theft and you will be responsible to compensate us for any damage you or they cause\, including minor faults;</li> </ol> </li> <li>Changes to these terms and conditions and the Services <ol> <li>We reserve the right to change the terms and conditions of this Agreement from time to time and make changes to the Service or any promotion or charges relating to the Services at any time.</li> <li>We shall give you notice of any such changes and you agree that an appropriate publication on the Website is an acceptable notice.</li> </ol> </li> <li>Governing Law and Legal Compliance <ol> <li>This Agreement shall be governed by English law and shall be subject to the jurisdiction of the English Courts\, provided that\, if you live in a part of the United Kingdom other than England\, the applicable law of that part of the United Kingdom will govern and any dispute will only be dealt with by the courts there.</li> <li>Despite the governing law provided above\, you may be subject to various rules\, regulations and laws which may also apply to you in the country in which you use the Services\, in particular where you choose your home country to be a country other than the United Kingdom.</li> <li>Subject to the terms of our Privacy Policy we may be required to collect further personal information from you in order to satisfy our compliance with any legal or regulatory compliance requirement. If we request such information from you and indicate that this is for legal or regulatory compliance\, then you agree that you shall provide us with the requested information and not provide us with false or misleading information.</li> </ol> </li> <li>Complaints <ol> <li>If you have any complaints or feedback about the Service you should send that to ask@truphone.com.</li> </ol> </li> <li>Privacy <ol> <li>We take our customers' privacy seriously. Please read our Privacy Policy for full details and which can be found at www.truphone.com. Whilst we respect the privacy of our customers\, the Service may be subject to interception by law enforcement agencies and bodies. We may be compelled to disclose your personal details where we are required to do so by a valid order of an authorised governmental representative or court order.</li> <li>By registering for the Services you consent to us transferring your personal data to countries which do not provide the same level of data protection as the United Kingdom if we deem it necessary for the provision of the Services.</li> </ol> </li> <li>Miscellaneous <ol> <li>All licenses not expressly granted in this agreement are reserved and no other licenses\, immunity or rights\, express or implied are granted by us\, by implication\, estoppel\, or otherwise. This agreement does not grant you any rights to use any trademarks\, logos or service marks belonging to us whatsoever.</li> <li>All notices given by you to us must be in writing (fax\, email\, letter or text) to the addresses set out in these terms and conditions.</li> <li>Failure to enforce any of our rights under these terms and conditions does not result in a waiver of that right.</li> <li>We reserve the right to assign rights and duties contained in these terms and conditions to a third party</li> <li>You acknowledge and agree that any Licensed Application Third Party Provider are third party beneficiaries of this Agreement\, and that\, upon your acceptance of the terms and conditions of this Agreement\, such Licensed Application Third Party Provider(s) will have the right (and will be deemed to have accepted the right) to enforce this Agreement against you as a third party beneficiary thereof.</li> <li>If any provision of these terms and conditions are found to be unenforceable\, all other conditions shall remain unaffected.</li> <li>These terms and conditions and any documents expressly referred to in them or provided to you at the time of taking out or accepting the Services\, represent the entire agreement between us and you in relation to the subject matter of any contract entered into for the Services. We are required to advise you that contracts may be concluded in English only and that no public filing requirements apply.</li> <li>Truphone Limited is a company incorporated in England & Wales with company number \04187\081 whose registered address is 25 Canada Square\, London\, E14 5LQ\, United Kingdom. We are regulated by Ofcom. Our VAT registration number is GB 851 5278 19</li> <li>By purchasing and using the Services you acknowledge that you have read these terms and conditions and understand them and agree to be bound by them.</li> <li>These terms and conditions are subject to change from time to time at Truphone's sole discretion and the most up to date version is published at www.truphone.com. Where there is a conflict between any terms and conditions published in printed media and the Website terms and conditions\, the Website terms and conditions will prevail. Please periodically check the Website for the most up to date terms and conditions that may apply to you.</li> <li>Version date: 31 Oct 2\016</li> </ol> </li> </ol>
+
+faqs.headerTitle = Help center
+faqs.contactUs= Contact us
+faqs.faqs = Why should I choose Truphone?::Here are three reasons:<br/><ol><li><b>QUICK AND EASY:</b> We know you're busy\, so we've designed buying from us to be the quickest and easiest in the market.</li><li><b>GREAT COVERAGE IN 4\0 COUNTRIES FOR NO EXTRA CHARGE:</b> Fast data for use here and abroad\, all on the one plan\, at the same attractive rate.</li><li><b>BEST PRICE:</b> All of this and we're the best value too. We think that makes us unbeatable.</li></ol>|;|How and where can I buy data?::You can only buy data once you’ve used up your allowance. If you’ve tried us free you need to wait until your free data is finished.<br/><br/>It’s quick and easy to buy online with your credit/debit card. After an initial purchase\, you can add more data in any of the 4\0 countries included in your plan.<br/><br/>Each data plan lasts 3\0 days or until you’ve used all your data.|;|Where can I use my data?::In any of the 4\0 countries we operate in - at no extra cost. Simply turn "Data Roaming" on and you will automatically be connected to our network if you have data remaining.<br/><br/><b>These 4\0 countries are:</b><br/><br/>Australia\, Austria\, Belgium\, Bulgaria\, Croatia\, Cyprus\, Czech Republic\, Denmark\, Estonia\, Finland\, France\, French Guiana\, Germany\, Greece\, Guadeloupe\, Guernsey\, Hong Kong\, Hungary\, Iceland\, Ireland\, Isle of Man\, Italy\, Jersey\, Latvia\, Liechtenstein\, Lithuania\, Luxembourg\, Malta\, Martinique\, Monaco\, Netherlands\, Norway\, Poland\, Portugal\, Puerto Rico\, Romania\, Slovakia\, Slovenia\, Spain\, Sweden\, United Kingdom\, USA\, Reunion Island\, Vatican City. |;|How much data do I have left?::You can check your remaining balance through <br/><br/>Settings > Mobile Data > Manage Truphone Account… /Add More Data...|;|Why do I need to create an account?::<ol><li>Securely store your credit card details and buy lightning fast.</li><li>Easily transfer your data if you lose\, reset or upgrade your iPad – or have more than one iPad.</li></ol><br/>When you first buy from us\, we'll send you an email with all the details you need to open your account.|;|How do I manage my account?::You can update your account details such as your name\, email address and password from the "My profile" section. <br/><br/>Simply go to: <b>	Settings > Cellular/Mobile Data > Manage Truphone Account > My profile</b><br/><br/> Tap on the pencil icon to make the change and then tap save|;|How do I transfer my plans?::Once you've created your account\, you can transfer your plans from your iPad to a new one by going to:<br/><br/> <b>Settings > Cellular/Mobile Data >Add a New Plan > Truphone > Login > Transfer Plan</b>|;|Why isn't my data working?::If you're having issues\, please check if your plan has expired or if the data's been used.<br/><br/>If it has\, you'll need to buy more. If not\, please check your device has mobile coverage and that both Cellular/Mobile Data and Data Roaming are turned on via Settings >Cellular/Mobile.<br/><br/>If you continue having issues\, please contact us anytime.
+
+# PG40/32 Payment Page Model
+
+payment.headerTitle = My Basket
+payment.buttonAmendOrder = Change
+payment.forXDays = [x days] days
+payment.email = Type your email for your receipt
+payment.emailPlaceHolder = Email
+payment.name = Cardholder name
+payment.namelPlaceHolder =
+payment.ccnumber = Card number
+payment.cardExpiry = Expiry date
+payment.MM = MM
+payment.YY = YY
+payment.securityCode = Security code
+payment.securityCodeNote = 3-digits on back of card
+payment.termsOfServices = I accept the
+payment.termsOfServicesLink = terms and conditions
+payment.alreadyCustomer = Already a customer?
+payment.buttonPay = Pay securely
+payment.buttonLogin = Log in
+payment.msgErrorInvalidEmail = Please use valid email
+payment.msgErrorInvalidName = Please use your name
+payment.msgErrorCcnumber = Please use valid number
+payment.msgErrorRequiredData = Date
+payment.msgErrorCustomData = Can't be in a past
+payment.msgErrorSecurityCode = Type code
+payment.BADCARD.msgErrorPaymentFailed = Unfortunately\, your card was not accepted. Please check your card details.
+payment.EXCEPTION.msgErrorPaymentFailed = Purchase unsuccessful. Unfortunately\, your payment didn't go through.
+payment.msgErrorAttempts =  Too many payment attempts. Please close window and start again
+payment.msgWarningCreateAccount = You can still check out with a different email address. Or create an account\, simply by following the link from your inbox.
+payment.UNVERIFIED.warningTitle = Unlock extra features
+payment.VERIFIED.warningTitle = Email used on another iPad
+payment.buttonEmailIntructions = Email me a link
+payment.VERIFIED.result = You have an account with us please login or use an alternative email address.
+payment.alert = You've had your free trial. Like it? Please add more data after you've used up your allowance.
+payment.overrideWarning=This payment method won't be saved
+payment.autoRenew = Auto renew
+payment.msgAutoRenewInfo = Will renew after 3\0 days or when you've used your data
+
+
+payment-verified.cardDetailTitle = Pay With This Card
+payment-verified.password = Password
+payment-verified.requireInternetNote = (Needs internet connection)
+payment-verified.notRequirePasswordNote= (No password required)
+payment-verified.headerTitle = My basket
+payment-verified.ccNumberFake = xxxx - xxxx - xxxx -
+payment-verified.ccExpire = Expires
+payment-verified.forXDays = [x days] days
+payment-verified.buttonResetPassword = Forgot password?
+payment-verified.buttonPaySecurely = Pay Securely
+payment-verified.cardExpired = Unfortunately\, your card has expired. Please enter a new card manually.
+payment-verified.buttonCardManually = Enter Card manually
+payment-verified.buttonAmendOrder = Change
+payment-verified.msgErrorInvalidPassword = Wrong password
+payment-verified.BADCARD.msgErrorPaymentFailed = Unfortunately\, your card was not accepted.  Please review your payment details and retry.
+payment-verified.EXCEPTION.msgErrorPaymentFailed = Purchase unsuccessful. Unfortunately\, your payment didn't go through.
+payment-verified.PASS_RESET.msgErrorPaymentFailed = Password reset unsuccessful. Please try again.
+payment-verified.WRONGPASS.msgErrorPaymentFailed = Wrong password
+payment-verified.alert = You've had your free trial. Like it? Please add more data after you've used up your allowance.
+payment-verified.PASSWORD_RESETED.reason=Please check your email. We've sent you a link to reset your password.
+
+3d-secure.headerTitle = My basket
+3d-secure.info = Please wait while your bank redirects you. Your purchase may be interrupted if you go back or click Cancel.
+
+# PG35 Thank You Page Model
+
+payment-success.headerTitle = Your world. Love it
+payment-success.hello = Thank you [x name]
+payment-success.there =
+payment-success.countriesIncluded =  Roam at no extra cost in:
+payment-success.yourOrder = Plan #
+payment-success.lastDay = last day
+payment-success.dataLeft = left
+payment-success.buttonMyDetails = Close window
+payment-success.buttonHelp = Help
+payment-success.msgWarningSettingDevice = As soon as you see "Truphone" on the status bar\, you’re good to go.
+payment-success.daysLeft = days left
+payment-success.ends = Ends [x date]
+payment-success.hrsLeft = hours left
+payment-success.expired = Expired
+payment-success.msgWarningACMEAlert = IMPORTANT: If you see this message\, it's vital you click "Update"\, or you won't be able to use our service
+payment-success.order = Plan #
+payment-success.starts = Starts
+payment-success.days = days
+payment-success.costFree = FREE
+payment-success.autoRenew = Auto Renew
+payment-success.msgAutoRenewInfo = Will renew after 3\0 days or when you've used your data
+
+
+payment-failed.headerTitle = Purchase Unsuccessful
+payment-failed.buttonTryAgain = Try again
+payment-failed.contactUs =  Contact Us
+payment-failed.forXDays = [x days] days
+payment-failed.msgWarningPaymentFailed =  Purchase unsuccessful. Unfortunately\, your payment didn't go through.
+
+# PG44 Change Card Page Model
+
+payment-update.name = Cardholder Name
+payment-update.namelPlaceHolder =
+payment-update.ccnumber = Card Number
+payment-update.cardExpiry = Card Expiry
+payment-update.MM = MM
+payment-update.YY = YY
+payment-update.securityCode = Security Code
+payment-update.securityCodeNote = 3-digit No. on the back of your card
+
+payment-update.msgErrorCcnumber = Invalid card
+payment-update.msgErrorInvalidName = Invalid name
+payment-update.msgErrorRequiredData = Invalid date
+payment-update.msgErrorCustomData = Can't be in a past
+payment-update.msgErrorSecurityCode = Invalid code
+
+payment-update.msgErrorPaymentFailed = Your Card has been rejected. Do you want to try again or use another alternative payment method?
+payment-update.msgErrorAttempts =  To many payment attempts. Please close the screen and try again.
+
+payment-update.buttonSave = Save
+payment-update.buttonCancel = Cancel
+
+payment-create.buttonCancel = Cancel
+payment-create.buttonSave = Save
+payment-create.cardExpiry = Card Expiry
+payment-create.ccnumber = Card Number
+payment-create.costFree = FREE
+payment-create.headerTitle = Add Payment Method
+payment-create.MM = MM
+payment-create.msgErrorCcnumber = Invalid card
+payment-create.msgErrorCustomData = Can't be in a past
+payment-create.msgErrorInvalidName = Invalid name
+payment-create.msgErrorRequiredData = Invalid date
+payment-create.msgErrorSecurityCode = Invalid code
+payment-create.msgNotificationCreateAccount = We’ve sent you an email with instructions. Please check your inbox
+payment-create.name = Cardholder Name
+payment-create.overrideWarning = Payment warning messages
+payment-create.securityCode = Security Code
+payment-create.securityCodeNote = 3-digit No. on the back of your card
+payment-create.termsOfServices = Accept
+payment-create.termsOfServicesLink = Terms of Service
+payment-create.YY = YY
+
+
+login.email = Please enter a valid email
+login.emailPlaceHolder = Email
+login.headerTitle = Log in
+login.buttonEmail = Next
+login.msgErrorInvalidEmail = Please enter a valid email
+email-page.email = Enter Email
+email-page.emailPlaceHolder = Email
+email-page.headerTitle = My Basket
+email-page.buttonEmail = Next
+email-page.buttonAmendOrder = Change
+email-page.msgErrorInvalidEmail = Please enter a valid email
+email-page.forXDays = [x days] days
+
+
+login-unverified.email = Email
+login-unverified.emailPlaceHolder = Email
+login-unverified.warningTitle = Create Account
+login-unverified.warningMsg = We recognise your email\, but you don't yet have an account. Create one now to buy again in one tap and transfer your data between iPads. Sorry\, you can't get another free trial.
+login-unverified.headerTitle = Log in
+login-unverified.buttonEmail = Back
+login-unverified.buttonSendEmail = Create an account
+login-unverified.msgErrorInvalidEmail = Please enter a valid email
+
+# PG3 Login Page Model
+
+login-verified.email = Email
+login-verified.emailPlaceHolder = Email
+login-verified.password = Password
+login-verified.requireInternetNote = (Requires internet connection)
+login-verified.headerTitle = Log in
+login-verified.buttonResetPassword = Forgot Password?
+login-verified.buttonLogin = Log in
+login-verified.msgErrorInvalidPassword = Wrong password
+login-verified.msgErrorInvalidEmail = Please enter a valid email
+login-verified.MAXIMUM_LOGIN_TRIES_EXCEEDED.reason = Too many login attempts. Please close the screen and try again
+login-verified.LOGIN_FAILED.reason = Please type a valid email or password
+login-verified.NOT_SAME_ACCOUNT.reason = CHECK OUT with a different email OR CREATE ACCOUNT by following the link from your inbox.
+login-verified.PASSWORD_RESET_UNVALIDATED_EMAIL.reason = Your e-mail isn't validated.
+login-verified.PASSWORD_RESET_INVALID_EMAIL.reason = Invalid email.
+login-verified.PASSWORD_RESETED.reason=Please check your email. We've sent you a link to reset your password.
+
+# PG43 Reset Password Page Model
+
+reset-password.email = Email
+reset-password.emailPlaceHolder = john@example.com
+reset-password.headerTitle = Forgot Password?
+reset-password.buttonResetPassword = Reset your password
+reset-password.msgErrorInvalidEmail = Please type the email address you use for this account and we’ll email you a link to reset your password.
+
+# PG25 Verified My Details Page Model (serves both verified and unverified users)
+
+account.name = Name
+account.email = Email
+account.password = Password
+account.requireInternetNote = (Needs internet connection)
+account.cardDetailTitle = Payment Method
+account.headerTitle = My Profile
+account.buttonResetPassword = Forgot password?
+account.buttonUpdateCard = Update
+account.buttonRemoveCard = Delete Card
+account.ccNumberFake = xxxx - xxxx - xxxx -
+account.ccExpire = Expires
+account.warningTitle = Create Account
+account.buttonEmailIntructions = Email me a link
+account.msgWarningCreateAccount = So you can buy data faster and transfer your plan to a different iPad.
+account.EMAIL_CHANGED_VERIFIED.reason=We've sent you the link to verify your new email. Please check your inbox.
+account.EMAIL_CHANGED_UNVERIFIED.reason=Your email is updated. To create an account\, please check your inbox.
+account.ACCOUNT_UPDATED.reason=Your account information has been successfully updated.
+account.PASSWORD_CHANGED.reason=Your password is updated.
+account.NAME_CHANGED.reason=Your name is updated.
+account.CARD_REMOVED.reason=Your card details are deleted.
+account.PASSWORD_RESETED.reason=Please check your email. We've sent you a link to reset your password.
+account.ACCOUNT-EMAIL.reason = We've sent you a link to create your account. Please check your inbox.
+account.addCard = Add card
+account.termsOfServicesLink = Terms and conditions
+account.truphoneLink = © 2\017 Truphone Limited
+
+
+#PG26 Change Name Page Model
+
+edit-name.name = First Name
+edit-name.surname = Last Name
+edit-name.headerTitle = Change Name
+edit-name.buttonSave = Save
+edit-name.buttonCancel = Cancel
+edit-name.msgErrorInvalidName = Please type your first name
+edit-name.msgErrorInvalidSurname = Please type your last name
+
+
+
+# PG28 Change Email Page Model
+
+edit-email.email = New Email
+edit-email.emailPlaceHolder = email@something.com
+edit-email.password = Enter Password to Change Email
+edit-email.headerTitle = Change Email
+edit-email.buttonSave = Save
+edit-email.buttonCancel = Cancel
+edit-email.msgErrorInvalidEmail = Invalid email
+edit-email.msgErrorInvalidPassword = Password needs to be at least 6 character long
+edit-email.invalidPassword = Wrong password
+edit-email.existingUser = This email address is used – please try a different one
+
+# PG27 Change Password Page Model
+
+edit-password.password = Current Password
+edit-password.newPassword = New Password (min. 6 characters)
+edit-password.confirmPassword = Confirm New Password
+edit-password.headerTitle = Change Password
+edit-password.buttonSave = Save
+edit-password.buttonCancel = Cancel
+edit-password.msgErrorInvalidPassword = Wrong password
+edit-password.msgErrorInvalidNewPassword = Password must be at least 6 characters
+edit-password.msgErrorInvalidConfirmPassword = Your passwords don't match - please try again
+edit-password.invalidOldPassword = Your old password is invalid
+
+
+remove-card.headerTitle = Delete Card
+remove-card.buttonSave = Remove Card
+remove-card.buttonCancel = Cancel
+remove-card.warningMsg = If you delete this card\, you won't be able to add a new card until you buy more data.
+
+monitor-mode.message = Thanks for choosing us. We're just connecting your iPad\, you'll be up and running soon.
+
+
+generic-error.PASSWORD_RESET_INVALID_EMAIL.message = A user with indicated email address does not exist.
+generic-error.PASSWORD_RESET_INVALID_EMAIL.headerTitle= Reset Password
+generic-error.PASSWORD_RESET_INVALID_EMAIL.warningTitle= Error
+
+generic-error.PASSWORD_RESET_UNVALIDATED_EMAIL.message = This email belongs to an unverified account. Check your inbox for the account validation email.
+generic-error.PASSWORD_RESET_UNVALIDATED_EMAIL.headerTitle= Reset Password
+generic-error.PASSWORD_RESET_UNVALIDATED_EMAIL.warningTitle= Error
+
+#PG4 - Generic Error
+generic-error.GENERIC_ERROR.message = Sorry\, something went wrong.
+generic-error.GENERIC_ERROR.headerTitle= Generic Error
+generic-error.GENERIC_ERROR.warningTitle= Error
+
+#PG2 - Invalid device - To be changed
+generic-error.INVALID_DEVICE.message = Sorry\, there's a problem loading this page. Please close this window and try again.
+generic-error.INVALID_DEVICE.headerTitle= Generic Error
+generic-error.INVALID_DEVICE.warningTitle= Error
+
+generic-error.INVALID_OS_VERSION.message = Please upgrade your iOS version to continue.
+generic-error.INVALID_OS_VERSION.headerTitle= Generic Error
+generic-error.INVALID_OS_VERSION.warningTitle= Error
+
+generic-error.INVALID_PAYMENT_DATA.message = Sorry\, you’ve made too many unsuccessful attempts to pay. Please close this window and start again.
+generic-error.INVALID_PAYMENT_DATA.headerTitle= Generic Error
+generic-error.INVALID_PAYMENT_DATA.warningTitle= Error
+
+#PG44
+generic-error.ESIM_INSTALLATION_ERROR.message = The connection failed. You haven't been charged. Sorry for the inconvenience
+generic-error.ESIM_INSTALLATION_ERROR.headerTitle= Generic Error
+generic-error.ESIM_INSTALLATION_ERROR.warningTitle= Error
+
+#updated by davy and copywriter
+generic-error.INVALID_EMAIL_CHANGE_LINK.message = Sorry\, this link is no longer valid.
+generic-error.INVALID_EMAIL_CHANGE_LINK.headerTitle= Invalid Link
+generic-error.INVALID_EMAIL_CHANGE_LINK.warningTitle= Error
+
+generic-error.DUPLICATED_EMAIL.message = Sorry\, this email address is already in use. Please enter a different address.
+generic-error.DUPLICATED_EMAIL.headerTitle= Existing email
+generic-error.DUPLICATED_EMAIL.warningTitle= Error
+
+#PG46 - Unable to bind - To be changed
+generic-error.UNABLE_TO_BIND.message = Sorry\, your plan hasn't downloaded. We've not taken any payment from you. Please try again later
+generic-error.UNABLE_TO_BIND.headerTitle= Unable to finish purchase
+generic-error.UNABLE_TO_BIND.warningTitle= Error
+
+generic-error.SESSION_TIMEOUT.message= Sorry\, your session has timed out. Not to worry\, just close the window and start again.
+generic-error.SESSION_TIMEOUT.headerTitle=Session timeout
+generic-error.SESSION_TIMEOUT.warningTitle= Error
+
+
+generic-info.PASSWORD_RESET_SUCCESS.message = Please check your email. We've sent you a link to reset your password.
+
+generic-info.PASSWORD_RESET_SUCCESS.headerTitle= Reset password
+generic-info.PASSWORD_RESET_SUCCESS.warningTitle= Info
+
+generic-info.PROCESS_ONGOING_PAGE.message = As soon as you see "Truphone" on the status bar\, you're good to go.
+generic-info.PROCESS_ONGOING_PAGE.headerTitle= eSIM is downloading
+generic-info.PROCESS_ONGOING_PAGE.warningTitle= Info
+
+# Updated by Davy and copywriter on 12 may 2\017
+generic-info.ICCID_CSN_NOT_PRESENT.message = Sorry\, this device already contains an eSIM assigned to a different subscriber. Just reset the iPad\, complete the purchase and you’re good to go.
+generic-info.ICCID_CSN_NOT_PRESENT.headerTitle= Invalid eSIM
+generic-info.ICCID_CSN_NOT_PRESENT.warningTitle= Info
+
+
+generic-info.ACTIVATION_LINK_SENT.message = Please check your email and validate your account.
+generic-info.ACTIVATION_LINK_SENT.headerTitle= Activation Link Sent
+generic-info.ACTIVATION_LINK_SENT.warningTitle= Info
+
+
+generic-info.ACTIVATION_LINK_NOT_SENT.message = You can't setup a new device with an unverified account
+generic-info.ACTIVATION_LINK_NOT_SENT.headerTitle= Activation Required
+generic-info.ACTIVATION_LINK_NOT_SENT.warningTitle= Info
+
+web-thank-you.headerTitle = Hi [x name]\,
+web-thank-you.INFO-ACCOUNT-CREATE.message = Happy days\, your account is live. You're all set to browse more\, for less.
+web-thank-you.INFO-ACCOUNT-EXISTS.message = Great news\, you've already got an account. No need to do anything else – you can now roam more for less.
+
+web-thank-you.INFO-PASSWORD-RESET.message = Congratulations. Your password is now changed. If you'd like to buy more data\, go to > Settings > Mobile Data > Manage Truphone Account...
+web-thank-you.INFO-EMAIL-CHANGE.message = Thanks for verifying your email address. We've now updated it.
+
+# reviewed
+web-thank-you.ERROR-ACCOUNT-CREATE.message = Sorry\, something went wrong while creating your account. Please try again later.
+# reviewed
+web-thank-you.ERROR-PASSWORD-RESET.message = Sorry\, something went wrong while changing your password. Please try again later.
+# reviewed
+web-thank-you.ERROR-EMAIL-CHANGE.message = Sorry\, something went wrong while changing your email. Please try again later.
+web-thank-you.copyright =© 2\017 Truphone Limited. All rights reserved. Truphone Limited (4187\081). Registered in England and Wales. Registered address 25 Canada Square\, Canary Wharf\, London E14 5LQ. VAT GB851527819.
+
+
+
+web-reset-password.headerTitle = Reset your password
+web-reset-password.newPassword = Confirm New Password
+web-reset-password.confirmPassword = Confirm New Password 
+web-reset-password.buttonSave = Update password
+web-reset-password.msgErrorInvalidNewPassword = Password must be at least 6 characters
+web-reset-password.msgErrorInvalidConfirmPassword = Passwords don't match. Please try again
+web-reset-password.newPasswordNote = Password must be at least 6 characters
+web-reset-password.email = Email
+web-reset-password.copyright =© 2\017 Truphone Limited. All rights reserved. Truphone Limited (4187\081). Registered in England and Wales. Registered address 25 Canada Square\, Canary Wharf\, London E14 5LQ. VAT GB851527819.
+
+web-create-account.headerTitle = Create Your Account
+web-create-account.newPassword = Password
+web-create-account.confirmPassword = Confirm password
+web-create-account.name = First name
+web-create-account.email = Email
+web-create-account.surname = Last Name
+web-create-account.emailPlaceHolder = someone@email.com
+web-create-account.buttonSave = Create account
+web-create-account.msgErrorInvalidName = Please type your first name
+web-create-account.msgErrorInvalidSurname = Please type your last name
+web-create-account.msgErrorInvalidEmail = Please use a valid email address
+web-create-account.msgErrorInvalidNewPassword = Password must be at least 6 characters
+web-create-account.msgErrorInvalidConfirmPassword = Your passwords don't match – please try again
+web-create-account.info = 
+web-create-account.featuresInfo = Almost there! Just tell us a few details to create your account\, so you can:
+web-create-account.features = Buy in one tap whenever you want;Transfer your plan to a different iPad;Securely manage your account
+web-create-account.newPasswordNote = (min 6 characters)
+web-create-account.copyright =© 2\017 Truphone Limited. All rights reserved. Truphone Limited (4187\081). Registered in England and Wales. Registered address 25 Canada Square\, Canary Wharf\, London E14 5LQ. VAT GB851527819.
+
+
+web-create-account-success.headerTitle = Thank you [x name]\,
+web-create-account-success.info = Welcome to Truphone. Welcome to a better connected world.<br/><br/> Now you've successfully created an account\, you can experience the Truphone difference:
+web-create-account-success.features = Low rates. Great coverage.;Use the same data plan free in 4\0 countries (just switch "Data Roaming" on when abroad);Buy in one tap
+web-create-account-success.copyright=© 2\017 Truphone Limited. All rights reserved. Truphone Limited (4187\081). Registered in England and Wales. Registered address 25 Canada Square\, Canary Wharf\, London E14 5LQ. VAT GB851527819.
+
+free-trial.costFree = FREE
+pre-paid.costFree = FREE
+plan-status.costFree = FREE
+payment.costFree = FREE
+payment-verified.costFree = FREE
+payment-failed.costFree = FREE
+email-page.costFree = FREE
+
+
+web-create-account.headTitle= Create account
+web-create-account-success.headTitle=Thank you for creating an account
+web-thank-you.INFO-EMAIL-CHANGE.headTitle=Your email is verified
+web-thank-you.INFO-ACCOUNT-EXISTS.headTitle = Create account
+web-thank-you.INFO-PASSWORD-RESET.headTitle = Reset your password
+web-thank-you.ERROR-ACCOUNT-CREATE.headTitle = Create account
+web-thank-you.ERROR-PASSWORD-RESET.headTitle = Reset your password
+web-thank-you.ERROR-EMAIL-CHANGE.headTitle = Change Email
+web-reset-password.headTitle=Reset your password

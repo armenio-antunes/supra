@@ -1,0 +1,525 @@
+﻿﻿# PG37 Free Products Page Model
+
+free-trial.headerTitle = Es su mundo. Explórelo
+free-trial.countriesIncluded =  Úselo sin coste adicional en los siguientes países:
+free-trial.forXDays = [x days] días
+free-trial.email = Solicite su plan GRATUITO
+free-trial.emailNote = No necesita realizar ninguna compra
+free-trial.emailPlaceHolder = Correo electrónico
+free-trial.termsOfServices =  Acepto los
+free-trial.termsOfServicesLink = términos y condiciones
+free-trial.buttonClaim = Consiga 1\0\0 MB gratis
+free-trial.msgErrorInvalidEmail = Indique un correo electrónico válido
+free-trial.msgErrorInvalidClaimedFree = Disculpe, ya reclamó su plan gratuito.
+
+
+pre-paid.headerTitle = Adquiéralo ahora. 1\0\0MB GRATIS
+pre-paid.countriesIncluded =  Úselo sin coste adicional en los siguientes países:
+pre-paid.mostPopular = la mejor
+pre-paid.forXDays = [x days] días
+pre-paid.buttonCheckout = Contratar
+pre-paid.buttonHelp = Ayuda
+pre-paid.msgErrorSelectProduct = Seleccione un plan
+pre-paid.NO-FREEBIES.reason = Ya ha utilizado su plan gratis. Elija un plan abajo.
+pre-paid.autoRenew= Auto Renew (Requires translation)
+pre-paid.msgAutoRenewInfo= Will renew after 30 days or when you've used your data. (Requires translation)
+
+transfer-plan.headerTitle = Transfiera su plan
+transfer-plan.countriesIncluded = * Disfrute del roaming sin ningún coste adicional:
+transfer-plan.order = Plan nº
+transfer-plan.ends = Finaliza el [x date]
+transfer-plan.buttonTransferPlan = Transferir ahora
+transfer-plan.buttonHelp = Ayuda
+transfer-plan.msgWarningTransfer = ¿Dispone de un nuevo iPad o ha reiniciado este? Transfiera su plan a este dispositivo. Una vez trasferido\, solo podrá usar el plan en este iPad. 
+transfer-plan.msgErrorSelectProduct = Seleccione un plan
+transfer-plan.msgInfo = Once transferred, you can only use your data on this iPad (Requires translation)
+transfer-plan.hrsLeft = hour left (Requires translation)
+transfer-plan.expired = Expired (Requires translation)
+transfer-plan.daysLeft = days left (Requires translation)
+transfer-plan.countriesIncluded =  You can use the data in any of these countries: (Requires translation)
+transfer-plan.hello = Hello [x name] (Requires translation)
+
+
+plan-status.headerTitle = Es su mundo. Disfrútelo.
+plan-status.hello = Hola [x name],
+plan-status.there = 
+plan-status.order = Plan nº
+plan-status.countriesIncluded =  Úselo sin coste adicional en los siguientes países:
+plan-status.ends = Finaliza el [x date]
+plan-status.transferred = Plan transferido
+plan-status.lastDay = último día
+plan-status.dataLeft = Le quedan
+plan-status.daysLeft = días
+plan-status.mostPopular = la mejor
+plan-status.welcomeBack = Bienvenido de nuevo,
+plan-status.addMoreData = Añadir más datos
+plan-status.forXDays = [x days] días
+plan-status.termsOfServicesLink = Términos y condiciones
+plan-status.truphoneLink = © 2\017 Truphone Limited
+plan-status.buttonMyDetails = Mi perfil
+plan-status.buttonLogout = Cerrar sesión
+plan-status.buttonHelp = Ayuda
+plan-status.buttonEmailIntructions = Enviar enlace<br/>por correo
+plan-status.buttonTransferPlan = Transferir el plan
+plan-status.buttonCheckout = Contratar
+plan-status.buttonHelp = Ayuda
+plan-status.hrsLeft = horas
+plan-status.expired = Caducado
+plan-status.warningTitle = Cree una cuenta
+plan-status.msgWarningCreateAccount = Para gestionar sus planes\, añadir rápidamente más datos a su plan o transferir planes entre iPads.
+plan-status.ROAMING.reason = ¿Quiere navegar en roaming sin costes añadidos? Si todavía no lo ha hecho\, active "Itinerancia de datos" en su configuración de "Ajustes > Datos móviles > Opciones"
+plan-status.NO-SERVICE.reason = Lo sentimos\, no puede usar su plan de datos en este país. 
+plan-status.OLD-DEVICE.reason = ¡Buenas noticias, su plan se ha transferido a iPad mini modelo [x]! Si no configuró esta transferencia, llame al +44 2\03 318 \0742 o envíe un correo electrónico a help@truphone.com inmediatamente.
+plan-status.NEW-DEVICE.reason = Gracias por elegirnos. Estamos activando su iPad\, estará listo para navegar muy pronto.
+plan-status.msgErrorSelectProduct = Seleccione un plan
+plan-status.ACCOUNT-EMAIL.reason = Le hemos enviado un correo electrónico con el enlace para crear su cuenta. Compruebe su correo electrónico.
+plan-status.NO-FREEBIES.reason = Ya ha utilizado su plan gratis. Elija un plan abajo.
+plan-status.NO-FREEBIES-TRANSFER.reason = Lo sentimos\, Ud. ya ha solicitado con anterioridad un plan gratuito. Por favor\, transfiera su plan a este iPad o añada más datos.
+plan-status.autoRenew= Auto Renew (requires translation)
+plan-status.msgAutoRenewWarning= Your data will auto renew as soon as you update your card. (requires translation)
+plan-status.msgAutoRenewInfo= Will renew after 30 days or when you've used your data (requires translation)
+plan-status.msgAutoRenewDate= [x date] or when you've used your data (requires translation)
+
+plan-status-autorenew.hello = Hello [x name] (Requires translation)
+plan-status-autorenew.there = there (Requires translation)
+plan-status-autorenew.order = Plan # (Requires translation)
+plan-status-autorenew.ends = Ends [x date] (Requires translation)
+plan-status-autorenew.transferred = Transferred (Requires translation)
+plan-status-autorenew.hrsLeft = hour left (Requires translation)
+plan-status-autorenew.expired = Expired (Requires translation)
+plan-status-autorenew.dataLeft = data left (Requires translation)
+plan-status-autorenew.daysLeft = days left (Requires translation)
+plan-status-autorenew.welcomeBack = Welcome Back, (Requires translation)
+plan-status-autorenew.addMoreData = Add data (Requires translation)
+plan-status-autorenew.warningTitle = Create Account (Requires translation)
+plan-status-autorenew.forXDays = for [x days] days (Requires translation)
+plan-status-autorenew.countriesIncluded =  You can use the data in any of these countries: (Requires translation)
+plan-status-autorenew.costFree = FREE (Requires translation)
+plan-status-autorenew.mostPopular =  most popular (Requires translation)
+plan-status-autorenew.termsOfServicesLink = Terms of Service (Requires translation)
+plan-status-autorenew.truphoneLink = © 2017 Truphone Limited (Requires translation)
+plan-status-autorenew.headerTitle = Your world. Explore it (Requires translation)
+plan-status-autorenew.buttonMyDetails = My profile (Requires translation)
+plan-status-autorenew.buttonLogout = Logout (Requires translation)
+plan-status-autorenew.buttonHelp = Help (Requires translation)
+plan-status-autorenew.buttonEmailIntructions = Unlock <br/> via email (Requires translation)
+plan-status-autorenew.buttonTransferPlan = Transfer existing plan (Requires translation)
+plan-status-autorenew.buttonCheckout = Checkout (Requires translation)
+plan-status-autorenew.buttonHelp = Help (Requires translation)
+plan-status-autorenew.buttonCancel = Cancel (Requires translation)
+plan-status-autorenew.buttonSave = Disable auto renew (Requires translation)
+plan-status-autorenew.msgWarningCreateAccount = Add data faster with a couple of clicks. Transfer your data to different iPads.<br/>  Store details and manage your plan more easily, and much more. <br/> Simply create an account. It’s quick and easy. (Requires translation)
+plan-status-autorenew.reason = You are covered in [x country] just switch on "Data Roaming" in your "Mobile Data Settings." (Requires translation)
+plan-status-autorenew.ROAMING.reason = You are covered in [x country] just switch on "Data Roaming" in your "Mobile Data Settings." (Requires translation)
+plan-status-autorenew.OLD-DEVICE.reason = Your Truphone Data Plan was transferred to iPad [x iPad model]. If this wasn't you contact Truphone Customer Services on +44 203 318 0742 or help@truphone.com (Requires translation)
+plan-status-autorenew.ACCOUNT-EMAIL.reason = We’ve sent you the link to create your account. Please check your inbox. (Requires translation)
+plan-status-autorenew.msgErrorSelectProduct = Select product (Requires translation)
+plan-status-autorenew.autoRenew= Auto Renew (Requires translation)
+plan-status-autorenew.msgAutoRenewWarning= Your data will auto renew as soon as you update your card. (Requires translation)
+plan-status-autorenew.msgAutoRenewInfo= Will renew after 30 days or when you've used your data (Requires translation)
+plan-status-autorenew.msgAutoRenewDate= [x date] or when you've used your data (Requires translation)
+plan-status-autorenew.disableAutoRenew= Are you sure you want to disable auto renew? If so, you will still be able to use your remaining data. (Requires translation)
+
+# Check the structure of this page, as we are having a more complex document than just these two sections:
+terms-conditions.headerTitle = Términos y condiciones
+terms-conditions.clauses = <ol><li>Servicio E-SIM<ol><li>Estos son los términos y las condiciones para la prestación y suministro de los servicios de datos de Truphone (“SERVICIO”) por parte de Truphone Limited (“TRUPHONE”) al usuario final (“USUARIO”). La adquisición y uso de este SERVICIO está sujeta a estos términos y condiciones (“ACUERDO”).</li><li>Una copia de estos términos y condiciones debería ser archivada como referencia futura y es responsabilidad del USUARIO el revisar periódicamente www.truphone.com para asegurase que está familiarizado con cualquier cambio o modificación de estos términos y condiciones.</li><li>El SERVICIO está diseñado para ser utilizado en dispositivos IPad y no en dispositivos iPhone. TRUPHONE no puede garantizar el buen funcionamiento del SERVICIO si el USUARIO lo utiliza en un iPhone o cualquier otro dispositivo.</li><li>Si el USUARIO no desea estar vinculado a estos términos y condiciones\, entonces el USUARIO no debería adquirir o usar este SERVICIO de TRUPHONE.</li></ol></li><li>El Servicio<ol><li>TRUPHONE deberá proporcionar el SERVICIO al USUARIO utilizando las capacidades de su E-SIM. La E-SIM incluye un perfil electrónico\, el cual se puede descargar en su dispositivo como parte de la activación del SERVICIO.</li><li>El volumen de datos disponibles para el uso del SERVICIO será claramente identificado durante el proceso de compra o de recarga del SERVICIO. El SERVICIO estará disponible durante el periodo especificado en el momento de la compra. Cuando venza dicho periodo\, la parte no utilizada del SERVICIO será cancelada y no se abonará ninguna cantidad por el SERVICIO no utilizado. El SERVICIO que se proporciona bajo este ACUERDO soló se ofrece bajo la modalidad de compra anticipada.</li><li>El USUARIO está de acuerdo en que la cantidad de datos disponibles que se refleja en la pantalla “Cuenta de datos móviles” del plan de Truphone (Ajustes>Datos móviles>Gestionar cuenta Truphone) es la correcta.</li><li class="subTitle">Disponibilidad</li><li>El SERVICIO se proporciona “tal como es” y “como está disponible”. TRUPHONE no garantiza o se compromete a ofrecer un servicio libre de fallos y no ofrece ningún compromiso o garantía en cuanto a la cobertura de la red\, la calidad o disponibilidad del SERVICIO. TRUPHONE deberá realizar todas las acciones necesarias para ofrecer un SERVICIO que esté disponible en cualquier momento\, condicionado a que tanto TRUPHONE como sus proveedores dispongan de capacidad de red y disponibilidad de conexión.</li><li>Ante cualquier fallo\, una vez identificado por TRUPHONE\, o al recibir una notificación de dicho fallo por parte del USUARIO\, TRUPHONE deberá realizar todos los esfuerzos razonables para solucionar de forma ágil el fallo.</li><li>TRUPHONE se reserva el derecho de elegir los proveedores de red y tecnología según considere oportuno y a proporcionar el acceso al SERVICIO de la forma más adecuada según sus requerimientos de negocio. El USUARIO acepta que TRUPHONE revele y use cualquiera de sus datos personales para el SERVICIO. Cualquier uso de sus datos personales está sujeto a los términos y condiciones de la Política de Privacidad de TRUPHONE reflejada en www.truphone.com.</li><li class="subTitle">Roaming</li><li>El uso del SERVICIO por parte del USUARIO mientras se encuentre en roaming puede estar sujeto a diferentes leyes y regulaciones. TRUPHONE no aceptará ninguna responsabilidad en el incumplimiento por parte del USUARIO de dichas leyes y normativa. Adicionalmente\, al utilizar el SERVICIO mientras se encuentre en roaming podrá incurrir en costes superiores relacionados con el país donde se encuentre\, lo que implicaría una disminución acelerada del Paquete de Datos.</li><li class="subTitle">Suspensión </li><li>Ocasionalmente TRUPHONE podrá solicitar mejorar\, modificar o realizar un mantenimiento del SERVICIO. En dichas ocasiones el SERVICIO puede verse afectado y no estar disponible de forma temporal\, sin embargo\, TRUPHONE llevará a cabo las acciones oportunas para reducir al mínimo cualquier indisponibilidad del SERVICIO y se lo notificará de forma anticipada cuando sea posible al USUARIO\, incluso publicando un mensaje en www.truphone.com</li><li>TRUPHONE se reserva el derecho de suspender el SERVICIO sin notificación previa al USUARIO cuando:<ol type="a"><li>TRUPHONE considere que el USUARIO está incumpliendo las condiciones de uso (cláusula 4 de este documento) o cualquiera de las políticas de TRUPHONE comunicadas al USUARIO a través de www.truphone.com.</li><li>hasta la resolución de una investigación después de haber recibido una reclamación contra el USUARIO.</li><li>el USUARIO no facilite a TRUPHONE la información requerida para satisfacer los requerimientos regulatorios (tales como verificar la identificación del USUARIO como cliente) en cualquiera de las jurisdicciones a las que estuviese previsto viajar y utilizar el SERVICIO.</li><li>TRUPHONE disponga de evidencias que le hagan sospechar de que el USUARIO está accediendo al SERVICIO de forma fraudulenta o en contra de la ley.</li><li>TRUPHONE esté obligada a cumplir con una orden\, instrucción o petición de cualquier gobierno\, órgano regulatorio u organización de servicios de emergencia o cualquier otra autoridad administrativa competente.</li><li>sea necesario prevenir cualquier impacto o degradación en la red de TRUPHONE o en la integridad de la red de sus proveedores causada por el USUARIO o alguien haciendo uso del SERVICIO.</li><li>haya razones operativas\, por motivos de emergencia o motivos de seguridad.</li></ol></li><li class="subTitle">Monitorización</li><li>TRUPHONE podrá monitorizar el SERVICIO y revelar información relacionada con dicha monitorización con el motivo de cumplir con la ley\, cubrir cualquier petición gubernamental o requerimiento legal\, para poner en funcionamiento o administrar el SERVICIO o para proteger tanto a TRUPHONE como a otros clientes de TRUPHONE.</li></ol></li><li>Adquisición del SERVICIO<ol><li>Una vez realizada la compra del SERVICIO\, TRUPHONE habilitará de forma remota una E-SIM en el dispositivo del USUARIO. La E-SIM se mantendrá en el dispositivo aun cuando se hayan consumido todos los SERVICIOS contratados.</li><li>Una vez realizada la compra del SERVICIO\, TRUPHONE habilitará de forma remota una E-SIM en el dispositivo del USUARIO. La E-SIM se mantendrá en el dispositivo aun cuando se hayan consumido todos los SERVICIOS contratados.</li></ol></li><li>Obligaciones del USUARIO<ol><li class="subTitle">Uso</li><li>El USUARIO acepta utilizar el SERVICIO conforme al contenido de este ACUERDO y que es responsable de cualquier uso que se haga del SERVICIO. Puede acceder a www.truphone.com para conocer el detalle de políticas “Acceptable Use Policy” y “Fair Use Policy”.</li><li>El USUARIO es responsable de la configuración de su dispositivo para el correcto funcionamiento del SERVICIO de acuerdo con cualquier requerimiento o instrucciones proporcionadas por TRUPHONE o por el fabricante del dispositivo.</li><li>El USUARIO deberá:<ol type="a"><li>no utilizar el SERVICIO con cualquier propósito fraudulento o en contra de la ley o para el envío de cualquier comunicación que se considere abusiva\, obscena o para acciones de naturaleza amenazante o de acoso.</li><li>no utilizar el SERVICIO para cometer o facilitar la comisión de un delito\, crimen o acto fuera de la ley.</li><li>no actuar de forma que pueda afectar las operaciones de cualquier red de TRUPHONE o gestionada por TRUPHONE.</li><li>no enviar o descargar cualquier contenido que infrinja los derechos de propiedad intelectual de terceros (salvo que el USUARIO tenga permiso);</li><li>utilizar el SERVICIO solamente para su uso personal y no venderlo\, revenderlo\, alquilarlo\, subarrendarlo o cualquier otro acuerdo comercial sobre el SERVICIO.</li><li>utilizar el SERVICIO sólo bajo el propósito y forma expresamente permitida por este ACUERDO.</li><li>utilizar el SERVICIO sólo bajo la normativa y leyes aplicables al país de origen\, el de residencia o en el que esté el USUARIO mientras utiliza el SERVICIO.</li><li>proporcionar a TRUPHONE cualquier prueba de identidad que TRUPHONE pueda requerir razonablemente.</li></ol></li><li>Es responsabilidad del USUARIO borrar la E-SIM de su dispositivo antes de entregárselo a otra persona. El no hacerlo permitirá que dicha persona pueda utilizar el SERVICIO contratado. El USUARIO puede borrar la E-SIM accediendo a “Ajustes”\, luego a “General” y luego a “Restablecer”\, y pulsando “Borrar contenidos y ajustes” y seleccionando reestablecer “Planes de Datos” cuando se le pregunte.</li><li>El USUARIO deberá cumplir con aquellos procedimientos razonables de seguridad en relación con el SERVICIO. TRUPHONE podrá comunicarle en cualquier momento y a través de cualquier mecanismo (incluido a través de www.truphone.com) cuando identifique problemas de seguridad o cuando observe un uso indebido relacionado con el SERVICIO.</li><li class="subTitle">Pérdida o robo del dispositivo</li><li>El USUARIO debe informar a TRUPHONE de forma inmediata si el dispositivo en el que se ha activado el SERVICIO ha sido robado o extraviado y será responsable del uso del SERVICIO en ese dispositivo hasta la comunicación de dicho evento. Si su dispositivo se extravía o es robado debe llamar a TRUPHONE a la mayor brevedad posible al teléfono +34 6681\0\02\0\0 o comunicándolo por correo electrónico a la dirección pregunta@truphone.com. TRUPHONE llevará a cabo todas las acciones oportunas para cancelar el SERVICIO en cualquier dispositivo perdido o robado dentro de las siguientes 72 horas a su notificación y sujeto a la verificación de la cuenta.</li><li class="subTitle">Contenido</li><li>El USUARIO es el único responsable de todo el contenido\, información o comunicación trasmitida bajo el uso del SERVICO y acepta que TRUPHONE no asuma ninguna responsabilidad por el borrado\, la corrupción o el fallo de almacenamiento de cualquier contenido trasmitido durante el uso del SERVICIO.</li></ol></li><li>Propriedad Intelectual del SERVICIO<ol><li>Toda la tecnología\, propiedad intelectual y documentación relacionada con el SERVICIO es y seguirá siendo propiedad de TRUPHONE. Al contratar el SERVICIO\, TRUPHONE concede una licencia para utilizar el SERVICIO\, la cual es revocable\, condicionada\, no exclusiva\, no transferible y no susceptible de cesión.</li></ol></li><li>Costes<ol><li>El coste de los paquetes de datos del SERVICIO estará a disposición del USUARIO antes de adquirir el SERVICIO. Mediante la compra del SERVICIO el USUARIO acepta que se le apliquen los correspondientes costes. TRUPHONE se reserva el derecho de\, en cualquier momento\, incrementar o realizar cambios en los costes del SERVICIO contratado mediante su publicación a través de www.truphone.com o mediante cualquier otra comunicación al USUARIO.</li><li class="subTitle">General</li><li>El coste / precio a abonar por la adquisición del SERVICIO incluye IVA o cualquier otro impuesto o tasa exigida por cualquier autoridad\, gobierno o agencia gubernamental.</li></ol></li><li>Pago y Políticas de Reembolso<ol><li>El SERVICIO se ofrece bajo un modelo de compra anticipada. El USUARIO debe abonar el SERVICIO antes de que TRUPHONE lo ponga a su disposición. TRUPHONE no tiene ninguna obligación de reembolsar el pago realizado excepto en los casos reflejados en estos términos y condiciones. Cuando TRUPHONE ofrezca al USUARIO un servicio gratuito o cualquier otra oferta especial de servicio no podrán ser sustituidos por dinero en efectivo.</li><li>Cuando el USARIO utiliza el SERVICIO\, la cantidad de datos disponibles en el Paquete de Datos se irá reduciendo según se vaya utilizando el SERVICIO. La cantidad de datos utilizados en cada sesión se redondeará al siguiente incremento de kilobyte completo y la cantidad de kilobytes utilizados se disminuirá de la cantidad disponible en el Paquete de Datos.</li></ol></li><li>Cancelación del SERVICIO<ol><li class="subTitle">Por parte de TRUPHONE</li><li>TRUPHONE se reserva el derecho a finalizar este ACUERDO y dejar de proporcionar el SERVICIO en el momento en el que el USUARIO incumpla los Términos y Condiciones de este ACUERDO. No se requerirá a TRUPHONE el reembolso al USUARIO de ninguna cantidad por el hecho de no haber usado el paquete de datos relacionado con el SERVICIO en el momento de la terminación del SERVICIO.</li><li class="subTitle">Por parte del USARIO</li><li>El USUARIO podrá finalizar el ACUERDO con TRUPHONE en cualquier momento mediante notificación de acuerdo con la cláusula 8.4.</li><li>Si el USUARIO envía a TRUPHONE una notificación de finalización del SERVICIO:<ol type="a"><li>dentro de los 14 días desde la aceptación de este ACUERDO; o</li><li>en cualquier momento en el que TRUPHONE no pueda proporcionar el SERVICIO al USUARIO y que no sea debido a ninguna acción por parte del USUARIO\,</li></ol>el USUARIO podrá requerir que TRUPHONE reembolse la parte proporcional del valor del SERVICIO no utilizado\, de otra manera\, la cancelación o finalización de los SERVICIOS no dará derecho al USUARIO al pago de ninguna cantidad.</li><li>Para finalizar este ACUERDO\, el USUARIO puede llamar al Centro de Atención al Cliente de TRUPHONE en el número +34 6681\0\02\0\0 o mediante el envío de un correo electrónico a la dirección pregunta@truphone.com desde la dirección de correo electrónico que proporcionó el USUARIO en el momento de aceptar este ACUERDO\, debiendo facilitar su nombre\, dirección y número de teléfono.</li><li>Cuando el USUARIO haya utilizado por completo el Paquete de Datos adquirido\, el USUARIO no podrá hacer uso del SERVICIO a no ser que adquiera un nuevo SERVICIO.</li></ol></li><li>Responsabilidades<ol><li>Esta cláusula fija la responsabilidad financiera de TRUPHONE hacia el USUARIO (incluyendo cualquier responsabilidad por los actos uomisiones de los empleados\, agentes\, consultores o subcontratistas de TRUPHONE) con respecto a:<ol type="a"><li>el suministro del SERVICIO;</li><li>cualquier incumplimiento de este ACUERDO\,</li><li>cualquier uso del SERVICIO por parte del USUARIO;</li><li>cualquier representación\, declaración\, hecho ilícito u omisión (incluida negligencia) debidas o relacionadas con este ACUERDO.</li></ol></li><li>Cualquier otra garantía\, términos y condiciones quedan excluidos del ACUERDO\, en la medida que la ley lo permita.</li><li>Nada de este ACUERDO debe limitar o excluir la responsabilidad de TRUPHONE hacia el USUARIO por:<ol type="a"><li>fallecimiento o daño personal causado por la negligencia de TRUPHONE;</li><li>cualquier declaración fraudulenta de TRUPHONE;</li><li>cualquier otra responsabilidad\, que bajo la Ley Inglesa\, no pueda limitarse o excluirse;</li></ol>A reserva de lo anterior\, bajo ningún concepto TRUPHONE será responsable hacia el USUARIO de pérdidas o daños indirectos o consecuenciales incurridos por el USUARIO\, o de cualquier pérdida de beneficio\, ingresos\, contratos\, datos\, fondo de comercio o cualquier otra pérdida similar.</li><li>La responsabilidad contractual total de TRUPHONE\, respecto a cualquier agravio (incluyendo negligencia o incumplimiento de obligaciones legales)\, tergiversación\, restitución o cualquier otra\, que surja en relación con el rendimiento o rendimiento previsto en este ACUERDO\, incluyendo el SERVICIO\, se limitará estrictamente al valor acumulado de los pagos que el USUARIO haya realizado a TRUPHONE por el SERVICIO durante los 12 meses anteriores.</li><li>TRUPHONE no será responsable por algún fallo o retraso en el cumplimiento de sus obligaciones o del SERVICIO<ol type="i"><li>cuando el retraso o fallo en el SERVICIO sea debido a cualquier acto u omisión del USUARIO\, por haber proporcionado datos o información incorrecta; o</li><li>por fallo en la red\, caída de la red\, congestión de red o fallo de suministro de energía; o</i><li>que sea causado por cualquier evento fuera del control razonable de TRUPHONE incluyendo\, pero no limitado a\, acciones relacionadas con huelgas\, paro forzoso o cualquier otro conflicto laboral (en el que esté involucrado el personal de TRUPHONE o terceras partes)\, desastres naturales\, actos terroristas\, actos dolosos o cumplimiento de cualquier requerimiento legal o gubernamental o por fallo de proveedores o subcontratas.</li></ol><li>TRUPHONE no tendrá ninguna responsabilidad sobre gastos\, costes o multas imputadas al USUARIO cuando éste no haya cumplido o satisfecho cualquier requerimiento regulatorio del algún país durante o anteriormente al uso del SERVICIO en dicho país.</li><li>El USUARIO reconoce que si un tercero reclama que el software que TRUPHONE le ha sublicenciado al USUARIO como consecuencia del SERVICIO infringe derechos de propiedad intelectual de dicho tercero\, TRUPHONE investigará\, defenderá\, acordará y arreglará esa reclamación de infracción de propiedad intelectual\, en el entendido que el USUARIO notificará de inmediato a TRUPHONE la recepción de la reclamación.</li><li>El USUARIO declara y garantiza que (i) no se encuentra en un país sujeto al embargo del gobierno de los Estados Unidos de América o que haya sido designado por dicho gobierno como un país que “apoya el terrorismo”; y (ii) que no aparece en ninguna lista de “grupos prohibidos o restringidos”. Si se determina que el USUARIO incumple con esta manifestación TRUPHONE tendrá la capacidad de finalizar inmediatamente el SERVICIO sin la obligación de abonar ninguna cantidad relacionada con el SERVICIO que no se haya utilizado todavía.</li><li>Responsabilidad del USUARIO:<br/>El USUARIO será responsable de los daños\, de cualquier tipo\, causados a TRUPHONE\, su red o sistemas o a terceras empresas debido al uso o mal uso de la E-SIM o del SERVICIO\, o por cualquier otra persona o dispositivo aun cuando se haya producido una pérdida o un robo del dispositivo\, y el USUARIO será responsable de indemnizar a TRUPHONE por cualquier daño causado\, incluyendo daños menores.</li></ol></li><li>Cambios en los términos y condiciones y en el SERVICIO<ol><li>TRUPHONE se reserva el derecho a cambiar los términos y condiciones de este ACUERDO cuando lo considere necesario\, así como a realizar en cualquier momento cambios en el SERVICIO\, o llevar a cabo promociones o cargos relacionados con el propio SERVICIO.</li><li>TRUPHONE deberá notificar al USUARIO cualquiera de estos cambios y el USUARIO acepta que dicha notificación se realice a través de la página web de TRUPHONE.</li></ol></li><li>Legislación aplicable y cumplimiento legal<ol><li>Este ACUERDO se regirá por la Ley Inglesa y estará sujeto a la jurisdicción de los Tribunales de Inglaterra. Siempre que el USUARIO viva en una parte del Reino Unido que no sea Inglaterra\, la ley aplicable será la del lugar donde resida y los Tribunales competentes serán aquellos donde resida el USUARIO.</li><li>Independientemente de la ley que rija según la cláusula anterior\, el USUARIO podrá estar sometido a otras normas\, regulaciones y leyes que pueden ser de aplicación en el país en el que el USUARIO esté utilizando el SERVICIO\, en particular cuando el USUARIO resida en un país que no sea el Reino Unido.</li><li>TRUPHONE puede necesitar obtener información personal adicional del USUARIO en com.mines.base a su Política de Privacidad con el objetivo de satisfacer cualquier requerimiento legal o regulatorio. Si TRUPHONE solicita dicha información al USUARIO e identifica que es debido a requerimientos legales o regulatorios\, el USUARIO se compromete a proporcionar a TRUPHONE dicha información y que ésta no sea falsa o engañosa.</li></ol></li><li>Reclamaciones<ol><li>Si el USUARIO quiere realizar cualquier reclamación o proporcionar cualquier opinión sobre el SERVICIO\, podrá hacerlo enviando un correo electrónico a la dirección pregunta@truphone.com</li></ol></li><li>Protección de datos<ol><li>TRUPHONE le da mucha relevancia a la protección de los datos de sus clientes. Por favor lea la Política de Privacidad de TRUPHONE publicada en www.truphone.com. Aun cuando TRUPHONE respeta en todo momento la privacidad de sus clientes\, el SERVICIO podrá ser interceptado debido al cumplimiento de la ley o al requerimiento de cualquier agencia gubernamental u órgano. TRUPHONE podrá verse en la situación de tener que entregar los datos personales del USUARIO cuando se le requiera mediante una orden de un representante gubernamental autorizado o mediante requerimiento judicial.</li><li>Al registrarse para utilizar el SERVICIO\, el USUARIO consiente que TRUPHONE transfiera sus datos personales a países que no proporcionen el mismo nivel de protección de datos que el Reino Unido si lo considera necesario para la prestación y suministro del SERVICIO.</li></ol></li><li>Otras condiciones<ol><li>TRUPHONE se reserva el derecho de todas aquellas licencias que no hayan sido específicamente concedidas al USUARIO en este ACUERDO. Mediante el ACUERDO no se otorgan licencias\, privilegios o derechos que no hayan sido expresamente concedidos en el mismo. Este ACUERDO no le da derecho al USUARIO a utilizar cualquier marca\, logotipo o marca de servicios que pertenezcan a TRUPHONE.</li><li>Cualquier notificación del USUARIO a TRUPHONE debe llevarse a cabo por escrito (fax\, correo electrónico o carta) a la dirección fijada en estos Términos y Condiciones.</li><li>El no ejercicio de alguno de los derechos previstos en estos Términos y Condiciones no significa la renuncia por TRUPHONE a ejercer dichos derechos.</li><li>TRUPHONE se reserva el derecho de asignar o ceder a terceros sus derechos y obligaciones en el ACUERDO.</li><li>El USUARIO reconoce y acepta que cualquier tercero que proporcione a TRUPHONE una licencia de uso de una aplicación es beneficiaria de este ACUERDO\, y con la aceptación por el USUARIO de los términos y condiciones de este ACUERDO\, ese tercero tendrá derecho (y se entenderá que acepta dicho derecho) como tercera empresa beneficiaria a hacer cumplir este ACUERDO al USUARIO.</li><li>Si cualquier cláusula de estos Términos y Condiciones se considerase no aplicable\, las restantes cláusulas se mantendrán inalteradas.</li><li>Estos Términos y Condiciones y cualquier otro documento expresamente identificado aquí o proporcionado al USUARIO en el momento de aceptación del SERVICIO\, representa la totalidad del ACUERDO entre el USUARIO y TRUPHONE en relación con el SERVICIO. TRUPHONE informa de que los contratos podrán celebrarse en Inglés y que no existe ninguna obligación de inscribir este ACUERDO en ningún registro público.</li><li>TRUPHONE es una compañía constituida en Inglaterra y Gales con el número de \04187\081 y con dirección en 25 Canada Square\, Londres\, E14 5LQ\, Reino Unido. TRUPHONE está regulada bajo la OFCOM. Su número de identificación a efectos fiscales (VAT identification number) es GB 851 5278 19.</li><li>Al contratar y utilizar el SERVICIO\, el USUARIO reconoce haber leído estos Términos y Condiciones\, que los entiende y que acepta acogerse a ellos.</li><li>Estos Términos y Condiciones están sujetos a cambios adicionales a discreción de TRUPHONE y la versión más actualizada estará publicada en www.truphone.com. Si existiese un conflicto entre los Términos y Condiciones impresos y la versión online publicada en la web de TRUPHONE\, los Términos y Condiciones publicados en dicha web serán los que prevalezcan sobre cualquier otro. Por favor revise periódicamente la página web de TRUPHONE para acceder a la versión más actualizada de estos términos y condiciones.</li><li>Version date: 31 Oct 2\016</li></ol></li></ol>
+
+faqs.headerTitle = Centro de ayuda
+faqs.contactUs= Contáctenos
+faqs.faqs = ¿Por qué debería elegir Truphone?::Aquí tiene los motivos:<ol><li><b>SENCILLO Y RAPIDO:</b> Sabemos que su tiempo es importante\, por ello hemos diseñado un proceso de compra que sea el más rápido y sencillo del mercado.</li><li><b>AMPLIA COBERTURA EN 4\\0 PAISES SIN COSTE ADICIONAL:</b>Disfrute de alta velocidad en casa y cuando viaje\, todo en un único plan y a un precio muy competitivo.</li><li><b>AL MEJOR PRECIO:</b> Y con la mejor relación calidad-precio. Todo esto nos hace insuperables.</li></ol>|;|¿Cómo y dónde puedo adquirir un plan de datos?::Puede comprar un nuevo plan de datos una vez haya consumido su plan existente. Si ha reclamado el plan de prueba gratuito\, también deberá esperar hasta haber consumido este plan.<br/><br/>Es rápido y sencillo adquirir un plan de datos online con su tarjeta de crédito. Una vez realizada una primera compra de un plan\, puede añadir más datos al plan en cualquiera de los 4\0 países incluidos en su plan de datos.<br/><br/>Cada plan es válido durante 3\0 días o hasta que haya consumido todos sus datos.|;|¿Dónde puedo usar mi plan de datos?::En cualquiera de los 4\0 países en los que operamos\, sin ningún coste adicional. Solo tiene que activar la opción "Itinerancia de datos" y se conectará automáticamente a nuestra red si dispone de datos en su plan.<br/><br/><b>Los 4\0 países son:</b><br/>Alemania\, Australia\, Austria\, Bélgica\, Bulgaria\, Chipre\, Croacia\, Ciudad del Vaticano\, Dinamarca\, EE.UU.\, Eslovaquia\, Eslovenia\, España\, Estonia\, Finlandia\, Francia\, Guyana Francesa\, Grecia\, Guadalupe\, Guernesey\, Hong Kong\, Hungría\, Islandia\, Irlanda\, Isla de Man\, Isla Reunión\, Italia\, Jersey\, Letonia\, Liechtenstein\, Lituania\, Luxemburgo\, Malta\, Martinica\, Mónaco\, Noruega\, Países Bajos\, Polonia\, Portugal\, Puerto Rico\, Reino Unido\, República Checa\, Rumanía y Suecia.|;|¿Cuántos datos me quedan?::Puede consultar el saldo disponible a través del menú <br/>a<br/>Ajustes > Datos móviles >Gestionar cuenta Truphone...<br/><br/>o\, si su plan ha caducado\, a través del menú<br/><br/>Ajustes > Datos móviles >Añadir más datos|;|¿Por qué necesito crear una cuenta?::Al crear una cuenta\, activa funcionalidades adicionales que son muy útiles:<br/><ol type="1"><li>Almacene de forma segura su tarjeta de crédito para poder adquirir más datos de forma muy ágil.</li><li>Transfiera fácilmente su plan de datos contratado si extravía el iPad\, lo reinicia o lo actualiza.</li><li>Gestione sus datos personales de forma instantánea</li></ol><br/><br/>Cuando adquiere su primer plan de datos\, recibirá un correo electrónico con la información necesaria para crear su cuenta.|;|¿Cómo gestiono mi cuenta?::Actualice los datos de su cuenta tales como su nombre\, dirección de correo electrónico o contraseña desde la sección "Mi Perfil"<br/><br/>Acceda a través de:<br/><b>Ajustes>Datos móviles>Gestionar cuenta Truphone … </b><br/><br/>Y seleccionando la opción "Mi Perfil" <br/><br/>Haga clic en editar (icono lapicero) para realizar los cambios y no olvide guardar los cambios.|;|¿Cómo transfiero mis planes?::Una vez que haya creado su cuenta\, puede transferir los planes activos que tenga en otro iPad a su nuevo iPad desde el menú: <br/><br/><b>Ajustes > Datos móviles > Añada un nuevo plan</b><br/><br/>Seleccione Truphone entre la lista de operadores<br/><br/>En la nueva ventana\, seleccione <b>¿Ya tiene un plan?/Transfiéralo aquí</b>|;|¿Por qué no funciona mi plan de datos?::Si está teniendo problemas con la conexión de datos\, compruebe que su plan no se haya caducado o que se haya agotado.<br/><br/>Si ha agotado todos sus datos\, tendrá que adquirir más datos. Si ese no es el motivo\, compruebe que su dispositivo tiene cobertura móvil y que tanto la opción "Datos móviles" en <b>Ajustes>Datos móviles</b> como "Itinerancia de datos" en Ajustes >Datos móviles>Opciones están activas. Si continúa teniendo problemas\, póngase en contacto con nosotros a cualquier hora.
+
+
+payment.headerTitle = Mi cesta
+payment.buttonAmendOrder = Cambiar
+payment.forXDays = [x days] días
+payment.email = Correo electrónico
+payment.emailPlaceHolder = juan@ejemplo.com
+payment.name = Nombre del titular de la tarjeta
+payment.namelPlaceHolder =
+payment.ccnumber = Número de la tarjeta
+payment.cardExpiry = Fecha de caducidad 
+payment.MM = MM
+payment.YY = AA
+payment.securityCode = Código de seguridad 
+payment.securityCodeNote = 3 dígitos en el reverso de la tarjeta
+payment.termsOfServices = Acepto los  
+payment.termsOfServicesLink = términos y condiciones
+payment.alreadyCustomer = ¿Es ya cliente? 
+payment.buttonPay = Pague ahora
+payment.buttonLogin = Identifíquese
+payment.msgErrorInvalidEmail = Use un correo válido
+payment.msgErrorInvalidName = Utilice su nombre
+payment.msgErrorCcnumber = Utilice un número válido
+payment.msgErrorRequiredData = Fecha 
+payment.msgErrorCustomData = No puede estar en el pasado
+payment.msgErrorSecurityCode = Código
+payment.BADCARD.msgErrorPaymentFailed = Lo sentimos\, su tarjeta de crédito no ha sido aceptada. Por favor, compruebe los datos de su tarjeta. 
+payment.EXCEPTION.msgErrorPaymentFailed = No ha podido realizarse la compra. Lo sentimos\, su pago no ha sido procesado.
+payment.msgErrorAttempts =  Demasiados intentos de pago. Cierre la ventana y empiece de nuevo
+payment.msgWarningCreateAccount = CHECK OUT with a different email OR CREATE ACCOUNT by following the link from your inbox. Check Copy
+payment.UNVERIFIED.warningTitle = Unlock extra features. Check copy
+payment.VERIFIED.warningTitle = Email used on another iPad. check copy
+payment.buttonEmailIntructions = EMAIL ME A LINK. check copy
+payment.VERIFIED.result = You have an account with us please login or use an alternative email address.
+payment.alert = Lo sentimos\, ya ha consumido todo su plan de prueba gratuito.
+payment.overrideWarning=Los detalles de la tarjeta no serán guardados
+payment.autoRenew = Auto renew (Requires translation)
+payment.msgAutoRenewInfo = Will renew after 30 days or when you've used your data (Requires translation)
+
+
+payment-verified.cardDetailTitle = Pague con esta tarjeta
+payment-verified.password = Contraseña
+payment-verified.requireInternetNote = (Requiere conexión a Internet)
+payment-verified.notRequirePasswordNote= (No se requiere contraseña)
+payment-verified.headerTitle = Mi cesta
+payment-verified.ccNumberFake = xxxx - xxxx - xxxx - 
+payment-verified.ccExpire = Fecha de caducidad: 
+payment-verified.forXDays = [x days] días
+payment-verified.buttonResetPassword = ¿Ha olvidado su contraseña?
+payment-verified.buttonPaySecurely = Pague ahora
+payment-verified.cardExpired = Lo sentimos\, su tarjeta está caducada. Por favor introduzca los datos de una nueva tarjeta.
+payment-verified.buttonCardManually = Otra tarjeta
+payment-verified.buttonAmendOrder = Cambiar
+payment-verified.msgErrorInvalidPassword = Contraseña invalida
+payment-verified.BADCARD.msgErrorPaymentFailed = Lo sentimos\, su tarjeta no fue aceptada. Revise los detalles de su pago y vuelva a intentarlo. 
+payment-verified.EXCEPTION.msgErrorPaymentFailed = No ha podido realizarse la compra. Lo sentimos\, su pago no ha sido procesado.
+payment-verified.PASS_RESET.msgErrorPaymentFailed = El restablecimiento de la contraseña no tuvo éxito. Vuelva a intentarlo.
+payment-verified.WRONGPASS.msgErrorPaymentFailed = Contraseña incorrecta
+payment-verified.alert = Ud. ya ha hecho uso de su plan gratuito. ¿Lo ha disfrutado? Puede añadir más datos una vez que haya consumido todo su plan.
+payment-verified.PASSWORD_RESETED.reason=Compruebe su correo electrónico. Le hemos enviado un mensaje con un enlace para restablecer su contraseña.
+
+3d-secure.headerTitle = Mi cesta
+3d-secure.info = Espere mientras le redirigimos a su banco. Si vuelve atrás o hace clic en Cancelar su compra puede interrumpirse.
+
+
+payment-success.headerTitle = Es su mundo. Disfrútelo.
+payment-success.hello = Gracias [x name], 
+payment-success.there = 
+payment-success.countriesIncluded =  Úselo sin coste adicional en los siguientes países:
+payment-success.yourOrder = Plan nº
+payment-success.lastDay = último día
+payment-success.dataLeft = Le quedan
+payment-success.buttonMyDetails = Cerrar
+payment-success.buttonHelp = Ayuda
+payment-success.msgWarningSettingDevice = Tan pronto vea "Truphone" en la barra de estado estará conectado a internet.
+payment-success.daysLeft = días
+payment-success.ends = Finaliza el [x date]
+payment-success.msgWarningACMEAlert = IMPORTANTE: Si Ud. ve este mensaje, es fundamental que pulse "Actualizar" o no podrá seguir utilizando nuestro servicio.
+payment-success.order = Plan # (Requires translation)
+payment-success.starts = Starts (Requires translation)
+payment-success.days = days (Requires translation)
+payment-success.costFree = FREE (Requires translation)
+payment-success.autoRenew = Auto Renew (Requires translation)
+payment-success.msgAutoRenewInfo = Will renew after 30 days or when you've used your data (Requires translation)
+
+payment-failed.headerTitle = Mi cesta
+payment-failed.buttonTryAgain = Inténtelo de nuevo
+payment-failed.contactUs =  Contáctenos
+payment-failed.forXDays = [x days] días
+payment-failed.msgWarningPaymentFailed =  No ha podido realizarse la compra. Lo sentimos\, su pago no ha sido procesado.
+
+# PG44 Change Card Page Model
+
+payment-update.name = Cardholder Name (needs translation)
+payment-update.namelPlaceHolder =
+payment-update.ccnumber = Card Number (needs translation)
+payment-update.cardExpiry = Card Expiry (needs translation)
+payment-update.MM = MM (needs translation)
+payment-update.YY = YY (needs translation)
+payment-update.securityCode = Security Code (needs translation)
+payment-update.securityCodeNote = 3-digit No. on the back of your card (needs translation)
+
+payment-update.msgErrorCcnumber = Invalid card (needs translation)
+payment-update.msgErrorRequiredData = Invalid date (needs translation)
+payment-update.msgErrorCustomData = Can't be in a past (needs translation)
+payment-update.msgErrorSecurityCode = Invalid code (needs translation)
+
+payment-update.msgErrorPaymentFailed = Your Card has been rejected. Do you want to try again or use another alternative payment method? (needs translation)
+payment-update.msgErrorAttempts =  To many payment attempts. Please close the screen and try again. (needs translation)
+
+payment-update.buttonSave = Save (needs translation)
+payment-update.buttonCancel = Cancel (needs translation)
+
+payment-create.buttonCancel = Cancel (Requires translation)
+payment-create.buttonSave = Save (Requires translation)
+payment-create.cardExpiry = Card Expiry (Requires translation)
+payment-create.ccnumber = Card Number (Requires translation)
+payment-create.costFree = FREE (Requires translation)
+payment-create.headerTitle = Add Payment Method (Requires translation)
+payment-create.MM = MM (Requires translation)
+payment-create.msgErrorCcnumber = Invalid car (Requires translation)d
+payment-create.msgErrorCustomData = Can't be in a past (Requires translation)
+payment-create.msgErrorInvalidName = Invalid name (Requires translation)
+payment-create.msgErrorRequiredData = Invalid date (Requires translation)
+payment-create.msgErrorSecurityCode = Invalid code (Requires translation)
+payment-create.msgNotificationCreateAccount = We’ve sent you an email with instructions. Please check your inbox (Requires translation)
+payment-create.name = Cardholder Name (Requires translation)
+payment-create.overrideWarning = Payment warning messages (Requires translation)
+payment-create.securityCode = Security Code (Requires translation)
+payment-create.securityCodeNote = 3-digit No. on the back of your card (Requires translation)
+payment-create.termsOfServices = Accept (Requires translation)
+payment-create.termsOfServicesLink = Terms of Service (Requires translation)
+payment-create.YY = YY (Requires translation)
+
+login.email = Indique un correo electrónico válido
+login.emailPlaceHolder = Correo electrónico
+login.headerTitle = Inicie sesión
+login.buttonEmail = Tramitar pedido
+login.msgErrorInvalidEmail = Indique un correo electrónico válido
+
+email-page.email = Indique un correo electrónico válido
+email-page.emailPlaceHolder = Correo electrónico
+email-page.headerTitle = Mi cesta
+email-page.buttonEmail = Tramitar pedido
+email-page.buttonAmendOrder = Cambiar
+email-page.msgErrorInvalidEmail = Indique un correo electrónico válido 
+email-page.forXDays = [x days] días
+
+
+login-unverified.email = Indique un correo electrónico válido
+login-unverified.emailPlaceHolder = Correo electrónico
+login-unverified.warningTitle = Crear una cuenta
+login-unverified.warningMsg = Hemos reconocido su dirección de correo, pero Ud. no ha creado todavía una cuenta. Créela ahora para adquirir planes de datos y transferir planes entre iPads de forma sencilla. Lo sentimos, Ud. no podrá solicitar de nuevo el plan gratuito.
+
+login-unverified.headerTitle = Inicie sesión
+login-unverified.buttonEmail = Retroceder
+login-unverified.buttonSendEmail = Crear cuenta
+login-unverified.msgErrorInvalidEmail = Lo sentimos\, pero Ud. no ha creado una cuenta con esta dirección.
+
+
+login-verified.email = Correo electrónico
+login-verified.emailPlaceHolder = Correo electrónico
+login-verified.password = Contraseña
+login-verified.requireInternetNote = (Requiere conexión a Internet)
+login-verified.headerTitle = Inicie sesión
+login-verified.buttonResetPassword = ¿Ha olvidado su contraseña?
+login-verified.buttonLogin = Inicie sesión
+login-verified.msgErrorInvalidPassword = Contraseña incorrecta
+login-verified.msgErrorInvalidEmail = Por favor, utilice un correo electrónico válido
+login-verified.MAXIMUM_LOGIN_TRIES_EXCEEDED.reason = Ha realizado demasiados intentos fallidos de inicio de sesión. Cierre la ventana y empiece de nuevo.
+login-verified.LOGIN_FAILED.reason = Por favor inserte un correo electrónico y contraseña válidos
+login-verified.NOT_SAME_ACCOUNT.reason = USE un correo electrónico distinto O CREE UNA CUENTA siguiendo el enlace desde su Bandeja de Entrada.
+login-verified.PASSWORD_RESET_UNVALIDATED_EMAIL.reason = Lo sentimos\, pero Ud. no ha creado una cuenta con esta dirección.
+login-verified.PASSWORD_RESET_INVALID_EMAIL.reason = Lo sentimos, este correo electrónico no lo tenemos registrado. Utilice un correo electrónico distinto.
+login-verified.PASSWORD_RESETED.reason=Compruebe su correo electrónico. Le hemos enviado un mensaje con un enlace para restablecer su contraseña.
+
+reset-password.email = Correo electrónico
+reset-password.emailPlaceHolder = user@email.com
+reset-password.headerTitle = Reestablecer contraseña
+reset-password.buttonResetPassword = Reestablecer contraseña
+reset-password.msgErrorInvalidEmail = Lo sentimos\, este correo electrónico no lo tenemos registrado. Utilice un correo electrónico distinto.
+
+account.name = Nombre
+account.email = Correo electrónico
+account.password = Contraseña
+account.requireInternetNote = (Requiere conexión a Internet)
+account.cardDetailTitle = Método de pago
+account.headerTitle = Mi perfil
+account.buttonResetPassword = ¿Ha olvidado su contraseña?
+account.buttonUpdateCard = Update (needs translation)
+account.buttonRemoveCard = Eliminar tarjeta de crédito
+account.ccNumberFake = xxxx - xxxx - xxxx - 
+account.ccExpire = Fecha de caducidad:
+account.warningTitle = Cree una cuenta
+account.buttonEmailIntructions = Enviar enlace<br/>por correo
+account.addCard = Add card (Requires translation)
+
+
+
+account.msgWarningCreateAccount = Para gestionar sus planes\, añadir rápidamente más datos a su plan o transferir planes entre iPads.
+account.EMAIL_CHANGED_VERIFIED.reason=Le hemos enviado un mensaje con un enlace para validar su correo electrónico. Compruebe su correo electrónico.
+account.EMAIL_CHANGED_UNVERIFIED.reason=Su dirección de correo electrónico se ha actualizado. Para crear una cuenta\, acceda a su buzón de correo electrónico.
+account.ACCOUNT_UPDATED.reason=La información de su cuenta ha sido actualizada correctamente.
+account.PASSWORD_CHANGED.reason=Su contraseña ha sido actualizada
+account.NAME_CHANGED.reason=Su nombre ha sido actualizado
+account.CARD_REMOVED.reason=Los datos de su tarjeta de crédito se han eliminado
+account.PASSWORD_RESETED.reason=Compruebe su correo electrónico. Le hemos enviado un enlace para restablecer su contraseña
+account.ACCOUNT-EMAIL.reason = Le hemos enviado un correo electrónico con el enlace para crear su cuenta. Compruebe su correo electrónico.
+
+
+
+edit-name.name = Nombre
+edit-name.surname = Apellidos
+edit-name.headerTitle = Cambiar nombre
+# made up
+edit-name.buttonSave = Guardar
+# made up
+edit-name.buttonCancel = Cancelar
+# made up
+edit-name.msgErrorInvalidName = Por favor introduzca su nombre
+# made up
+edit-name.msgErrorInvalidSurname = Por favor introduzca sus apellidos
+
+edit-email.currentEmail = Correo electrónico actual
+edit-email.email = Nuevo correo electrónico
+edit-email.emailPlaceHolder = name@email.com
+edit-email.password = Introduzca la contraseña para cambiar su correo electrónico
+edit-email.headerTitle = Cambiar correo electrónico
+edit-email.buttonSave = Guardar
+edit-email.buttonCancel = Cancelar
+edit-email.msgErrorInvalidEmail = Correo electrónico inválido
+edit-email.msgErrorInvalidPassword = La contraseña debe tener un mínimo de 6 caracteres
+edit-email.invalidPassword = Contraseña incorrecta
+edit-email.existingUser = Este correo ya se ha utilizado en otro iPad. Utilice uno distinto
+
+edit-password.password = Contraseña actual
+edit-password.newPassword = Nueva contraseña (min. 6 caracteres)
+edit-password.confirmPassword = Confirmar la nueva contraseña
+edit-password.headerTitle = Cambiar la contraseña
+edit-password.buttonSave = Guardar
+edit-password.buttonCancel = Cancelar
+edit-password.msgErrorInvalidPassword = Introduzca contraseña actual
+edit-password.msgErrorInvalidNewPassword = La contraseña debe contener como mínimo 6 caracteres
+edit-password.msgErrorInvalidConfirmPassword = Las contraseñas no coinciden. Por favor, vuelva a introducirla
+edit-password.invalidOldPassword = Contraseña incorrecta
+
+
+
+remove-card.headerTitle = Eliminar tarjeta
+remove-card.buttonSave = Eliminar tarjeta
+remove-card.buttonCancel = Cancelar
+remove-card.warningMsg = Una vez que elimine esta tarjeta no podrá añadir una nueva hasta que no compre un nuevo plan de datos.
+
+
+monitor-mode.message = Gracias por elegirnos. Estamos activando su iPad\, estará listo para navegar muy pronto.
+
+
+generic-error.PASSWORD_RESET_INVALID_EMAIL.message = No existe un usuario con la dirección de correo electrónico indicada.
+generic-error.PASSWORD_RESET_INVALID_EMAIL.headerTitle= Restablecer contraseña
+generic-error.PASSWORD_RESET_INVALID_EMAIL.warningTitle= Error
+
+generic-error.PASSWORD_RESET_UNVALIDATED_EMAIL.message = Le hemos enviado un enlace para crear su cuenta. Compruebe su bandeja de entrada.
+generic-error.PASSWORD_RESET_UNVALIDATED_EMAIL.headerTitle= Restablecer contraseña
+generic-error.PASSWORD_RESET_UNVALIDATED_EMAIL.warningTitle= Error
+
+generic-error.GENERIC_ERROR.message =  Lo sentimos\, algo ha ido mal. 
+generic-error.GENERIC_ERROR.headerTitle= Error Genérico
+generic-error.GENERIC_ERROR.warningTitle= Error
+
+generic-error.INVALID_DEVICE.message = Lo sentimos\, ha habido algún problema durante la carga de esta página. Por favor\, cierre la ventana e inténtelo de nuevo.
+generic-error.INVALID_DEVICE.headerTitle= Error Genérico
+generic-error.INVALID_DEVICE.warningTitle= Error
+
+generic-error.INVALID_OS_VERSION.message = Actualice su versión de iOS para continuar.
+generic-error.INVALID_OS_VERSION.headerTitle= Error Genérico
+generic-error.INVALID_OS_VERSION.warningTitle= Error
+
+generic-error.INVALID_PAYMENT_DATA.message = Ha realizado demasiados intentos de pago. Cierre por favor la ventana y empiece de nuevo.
+generic-error.INVALID_PAYMENT_DATA.headerTitle= Error Genérico
+generic-error.INVALID_PAYMENT_DATA.warningTitle= Error
+
+generic-error.ESIM_INSTALLATION_ERROR.message = La conexión ha fallado. No se le ha cargado ninguna cantidad. Lamentamos las molestias.
+generic-error.ESIM_INSTALLATION_ERROR.headerTitle= Generic Error
+generic-error.ESIM_INSTALLATION_ERROR.warningTitle= Error
+
+generic-error.INVALID_EMAIL_CHANGE_LINK.message = Disculpe, este enlace ya no es válido.
+generic-error.INVALID_EMAIL_CHANGE_LINK.headerTitle= Lo sentimos, algo ha ido mal.
+generic-error.INVALID_EMAIL_CHANGE_LINK.warningTitle= Error
+
+generic-error.DUPLICATED_EMAIL.message = Ud. tiene ya una cuenta. Identifíquese o introduzca otro correo electrónico.
+generic-error.DUPLICATED_EMAIL.headerTitle= Dirección duplicada
+generic-error.DUPLICATED_EMAIL.warningTitle= Error
+
+generic-error.UNABLE_TO_BIND.message = Lo sentimos\, su plan de datos no ha podido activarse. No se le ha cargado ninguna cantidad. <br/><br/>Por favor\, inténtelo de nuevo más tarde. 
+generic-error.UNABLE_TO_BIND.headerTitle= Processo incompleto
+generic-error.UNABLE_TO_BIND.warningTitle= Error
+
+generic-error.SESSION_TIMEOUT.message=Su sesión ha terminado. Por favor cierre la ventana e intente de nuevo.
+generic-error.SESSION_TIMEOUT.headerTitle=Sesión ha terminado
+generic-error.SESSION_TIMEOUT.warningTitle= Error
+
+generic-info.PASSWORD_RESET_SUCCESS.message = Compruebe su correo electrónico. Le hemos enviado un mensaje con un enlace para restablecer su contraseña.
+generic-info.PASSWORD_RESET_SUCCESS.headerTitle= Restablecer contraseña
+generic-info.PASSWORD_RESET_SUCCESS.warningTitle= Info
+
+generic-info.PROCESS_ONGOING_PAGE.message = Gracias por elegirnos. Podrá empezar a navegar en unos minutos. Tan pronto como vea "Truphone" en la barra de estado\, estará listo para navegar.
+generic-info.PROCESS_ONGOING_PAGE.headerTitle= E-SIM Descargando
+generic-info.PROCESS_ONGOING_PAGE.warningTitle= Info
+
+# made up - waiting for better message from copywriter (Check with Denni and Davide)
+generic-info.ICCID_CSN_NOT_PRESENT.message = Este dispositivo contiene un E-Sim asignado a un abonado diferente. Reinicie su iPad para comprar y comenzar a beneficiarse de nuestros planes de datos inmediatamente.
+generic-info.ICCID_CSN_NOT_PRESENT.headerTitle= E-SIM Inválido
+generic-info.ICCID_CSN_NOT_PRESENT.warningTitle= Info
+
+
+generic-info.ACTIVATION_LINK_SENT.message = Compruebe su correo electrónico y valide su cuenta.
+generic-info.ACTIVATION_LINK_SENT.headerTitle= Enlace de activación enviado
+generic-info.ACTIVATION_LINK_SENT.warningTitle= Info
+
+
+generic-info.ACTIVATION_LINK_NOT_SENT.message = No puede configurar un dispositivo nuevo con una cuenta no verificada
+generic-info.ACTIVATION_LINK_NOT_SENT.headerTitle= Activación necesaria
+generic-info.ACTIVATION_LINK_NOT_SENT.warningTitle= Info
+
+web-thank-you.headerTitle = Hola [x name],
+web-thank-you.INFO-ACCOUNT-CREATE.message = ¡Buenas noticias\, su cuenta está ya activada! Ya está listo para empezar a navegar.
+web-thank-you.INFO-ACCOUNT-EXISTS.message = ¡Buenas noticias\, ya dispone de una cuenta! Ya no tiene que hacer nada más\, sólo disfrute del servicio móvil Truphone que le ofrece más datos por menos.
+# made up
+web-thank-you.INFO-PASSWORD-RESET.message = Enhorabuena. Su contraseña ha sido actualizada.<br/><br/>Si necesita adquirir más datos\, hágalo a través del menú Ajustes>Datos móviles>Gestionar cuenta Truphone …
+web-thank-you.INFO-EMAIL-CHANGE.message = Gracias por validar su dirección de correo electrónico. Ya se la hemos actualizado.
+
+# made up
+web-thank-you.ERROR-ACCOUNT-CREATE.message = Lo sentimos\, algo salió mal al crear su cuenta. Por favor\, inténtelo de nuevo más tarde.
+# made up
+web-thank-you.ERROR-PASSWORD-RESET.message = Lo sentimos\, algo ha fallado al cambiar su contraseña. Por favor\, inténtelo de nuevo más tarde.
+#made up
+web-thank-you.ERROR-EMAIL-CHANGE.message = Lo sentimos\, algo ha fallado al cambiar su correo electrónico. Por favor\, inténtelo de nuevo más tarde.
+web-thank-you.copyright =© 2\017 Truphone Limited (4187\081). Todos los derechos reservados. Registrada en Inglaterra y Gales. Domicilio social: 25 Canada Square\, Londres E14 5LQ\, Reino Unido. CIF intracomunitario: GB851527819
+
+
+
+web-reset-password.headerTitle = Restablecer contraseña
+web-reset-password.newPassword = Nueva contraseña
+web-reset-password.confirmPassword = Confirmar contraseña
+web-reset-password.buttonSave = Actualizar contraseña
+web-reset-password.msgErrorInvalidNewPassword = Introduzca una contraseña válida
+web-reset-password.msgErrorInvalidConfirmPassword = Las contraseñas no coinciden. Inténtelo de nuevo.
+web-reset-password.newPasswordNote = La contraseña debe contener como mínimo 6 caracteres
+web-reset-password.email = Correo electrónico
+web-reset-password.copyright =© 2\017 Truphone Limited (4187\081). Todos los derechos reservados. Registrada en Inglaterra y Gales. Domicilio social: 25 Canada Square\, Londres E14 5LQ\, Reino Unido. CIF intracomunitario: GB851527819
+
+web-create-account.headerTitle = Crear una cuenta
+web-create-account.newPassword = Contraseña
+web-create-account.confirmPassword = Confirmar la contraseña
+web-create-account.name = Nombre
+web-create-account.email = Correo electrónico
+web-create-account.surname = Apellidos
+web-create-account.emailPlaceHolder = someone@email.com
+web-create-account.buttonSave = Crear cuenta
+web-create-account.msgErrorInvalidName = Por favor introduzca su nombre
+web-create-account.msgErrorInvalidSurname = Por favor introduzca sus apellidos
+web-create-account.msgErrorInvalidEmail = Por favor utilice correo electrónico válido
+web-create-account.msgErrorInvalidNewPassword = Las contraseñas no coinciden. Por favor, vuelva a introducirla
+web-create-account.msgErrorInvalidConfirmPassword = Vuelva a ingresar una contraseña
+web-create-account.info = 
+web-create-account.newPasswordNote = La contraseña debe contener como mínimo 6 caracteres
+web-create-account.featuresInfo = Casi ha terminado. Introduzca por favor sus datos para crear su cuenta y así poder:
+web-create-account.features = Comprar cuando lo desee fácilmente y en un solo paso;Transferir su plan a otro iPad;Gestionar su cuenta de forma segura
+web-create-account.copyright =© 2\017 Truphone Limited (4187\081). Todos los derechos reservados. Registrada en Inglaterra y Gales. Domicilio social: 25 Canada Square\, Londres E14 5LQ\, Reino Unido. CIF intracomunitario: GB851527819
+
+web-create-account-success.headerTitle =  Gracias [x name],
+web-create-account-success.info =  Bienvenido a Truphone. Bienvenido a un mundo mejor conectado.<br/><br/>Ahora que ha credo una cuenta\, puede empezar a disfrutar de una mejor experiencia con Truphone:
+web-create-account-success.features =  Tarifas muy competitivas con una amplia cobertura.;Use el mismo plan de datos sin costes adicionales de roaming en 4\0 países. Sólo active "Itinerancia de datos" cuando se encuentre en el extranjero;Compre nuevos planes con un solo clic 
+web-create-account-success.copyright=© 2\017 Truphone Limited (4187\081). Todos los derechos reservados. Registrada en Inglaterra y Gales. Domicilio social: 25 Canada Square\, Londres E14 5LQ\, Reino Unido. CIF intracomunitario: GB851527819
+
+
+
+free-trial.costFree = GRATIS
+pre-paid.costFree = GRATIS
+plan-status.costFree = GRATIS
+payment.costFree = GRATIS
+payment-verified.costFree = GRATIS
+payment-failed.costFree = GRATIS
+email-page.costFree = GRATIS
+
+
+
+web-create-account.headTitle= Crear cuenta
+web-create-account-success.headTitle=Gracias por crear cuenta
+web-thank-you.INFO-EMAIL-CHANGE.headTitle=Correo validado
+web-thank-you.INFO-ACCOUNT-EXISTS.headTitle = Crear una cuenta
+web-thank-you.INFO-PASSWORD-RESET.headTitle = Restablecer contraseña
+web-thank-you.ERROR-ACCOUNT-CREATE.headTitle = Crear una cuenta
+web-thank-you.ERROR-PASSWORD-RESET.headTitle = Restablecer contraseña
+web-thank-you.ERROR-EMAIL-CHANGE.headTitle = Cambiar correo electrónico
+web-reset-password.headTitle=Reestablecer contraseña

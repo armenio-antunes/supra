@@ -1,0 +1,23 @@
+version: '2'
+
+networks:
+  {{backend_network_name}}:
+    external: true
+
+services:
+  fulfilment_service:
+    image: docker.truphone.com:5000/acme/fulfilment_service:{{dockerImageVersion}}
+    ports:
+      - "8400:7001"
+      - "8401:7002"
+    container_name: fulfilment_service
+    volumes:
+      - /opt/truphone/fulfilment_service/config:/data/config
+    environment:
+      - SPRING_PROFILES_ACTIVE=prod
+      - SPRING_CONFIG_LOCATION=/data/config/
+      - BASE_JVM_ARGS=-Djgroups.tcp.port=7002 -Djgroups.tcp.external_address={{inventory_hostname}}.be.ldn.truphone.com -Djgroups.tcpping.initial_hosts=peldneco01.be.ldn.truphone.com[8401],peldneco02.be.ldn.truphone.com[8401]
+    networks:
+      - {{backend_network_name}}
+    logging:
+{{docker_logging_config}}

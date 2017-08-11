@@ -1,0 +1,536 @@
+# PG37 Free Products Page Model	
+	
+free-trial.headerTitle = To Twój świat – eksploruj go	
+free-trial.countriesIncluded =  Roaming bez dodatkowych opłat:	
+free-trial.forXDays = [x days] dni	
+free-trial.email = Wpisz adres e-mail\, aby skorzystać z DARMOWEGO internetu
+free-trial.emailNote =
+free-trial.emailPlaceHolder = Adres e-mail	
+free-trial.termsOfServices =  Akceptuję 	
+free-trial.termsOfServicesLink = zasady i warunki	
+free-trial.buttonClaim = Wypróbuj darmowy pakiet
+free-trial.msgErrorInvalidEmail = Wpisz adres e-mail	
+free-trial.msgErrorInvalidClaimedFree = Niestety skorzystałeś już z darmowego pakietu 	
+	
+	
+#PG6 paid product page	
+	
+pre-paid.headerTitle = Kup teraz. 1\0\0 MB ZA DARMO
+pre-paid.countriesIncluded =  Roaming bez dodatkowych opłat:	
+pre-paid.mostPopular =  świetny wybór	
+pre-paid.forXDays = [x days] dni	
+pre-paid.buttonCheckout = Do kasy	
+pre-paid.buttonHelp = Pomoc	
+pre-paid.msgErrorSelectProduct = Wybierz pakiet	
+pre-paid.NO-FREEBIES.reason = Niestety skorzystałeś już z darmowego pakietu. Wybierz płatny pakiet.
+pre-paid.autoRenew= Auto Renew (Requires translation)
+pre-paid.msgAutoRenewInfo= Will renew after 30 days or when you've used your data. (Requires translation)
+	
+transfer-plan.headerTitle = Przenieś pakiet	
+transfer-plan.countriesIncluded = Roaming bez dodatkowych opłat:
+transfer-plan.order = Pakiet nr
+transfer-plan.ends = Wygaśnie [x date]
+transfer-plan.buttonTransferPlan = Przenieś teraz	
+transfer-plan.buttonHelp = Pomoc	
+transfer-plan.msgWarningTransfer = Przenieś dane tutaj. Po przeniesieniu możesz używać swoich danych tylko na tym iPadzie.
+transfer-plan.msgErrorSelectProduct = Wybierz pakiet
+transfer-plan.msgInfo = Once transferred, you can only use your data on this iPad (Requires translation)
+transfer-plan.hrsLeft = hour left (Requires translation)
+transfer-plan.expired = Expired (Requires translation)
+transfer-plan.daysLeft = days left (Requires translation)
+transfer-plan.countriesIncluded =  You can use the data in any of these countries: (Requires translation)
+transfer-plan.hello = Hello [x name] (Requires translation)
+	
+# PG24 Verified Account Management Page Model (serves both verified and unverified users):	
+	
+plan-status.headerTitle = To Twój świat – kochaj go	
+plan-status.hello = Witamy [x name]	
+plan-status.there =
+plan-status.order = Pakiet nr
+plan-status.countriesIncluded =  Roaming bez dodatkowych opłat:	
+plan-status.ends = Wygaśnie [x date]
+plan-status.transferred = Przeniesiono	
+plan-status.lastDay = ostatni dzień	
+plan-status.dataLeft = pozostało	
+plan-status.daysLeft = pozostało dni	
+plan-status.mostPopular = świetny wybór	
+plan-status.welcomeBack = Witamy ponownie\,	
+plan-status.addMoreData = Dodaj więcej danych	
+plan-status.forXDays = [x days] dni	
+plan-status.termsOfServicesLink = Zasady i warunki	
+plan-status.truphoneLink = © 2\017 Truphone Limited
+plan-status.buttonMyDetails = Mój profil	
+plan-status.buttonLogout = Wyloguj się	
+plan-status.buttonHelp = Pomoc	
+plan-status.buttonEmailIntructions =  Wyślij mi link	
+plan-status.buttonTransferPlan = Przenieś pakiet	
+plan-status.buttonCheckout = Do kasy	
+plan-status.hrsLeft = pozostało godzin	
+plan-status.expired = Wygasł	
+plan-status.warningTitle = Utwórz konto	
+plan-status.msgWarningCreateAccount = Możesz kupić pakiet danych szybciej i przenieść go na innego iPada.	
+plan-status.ROAMING.reason = Chcesz korzystać z roamingu bez dodatkowych kosztów? W „Opcjach danych mobilnych” możesz włączyć „Roaming danych”.	
+plan-status.NO-SERVICE.reason = Niestety w tym kraju nie możesz korzystać z pakietu danych.	
+plan-status.OLD-DEVICE.reason = Twój pakiet danych został przeniesiony na iPada mini [x]. Jeśli o to nie prosiłeś\, zadzwoń pod numer +44 2\03 318 \0742 lub wyślij e-mail na adres help@truphone.com.
+plan-status.NEW-DEVICE.reason = Dziękujemy za wybranie Truphone. Zaraz zostaniesz podłączony do sieci.	
+plan-status.msgErrorSelectProduct = Wybierz pakiet	
+plan-status.ACCOUNT-EMAIL.reason = Przesłaliśmy Ci link do utworzenia konta. Sprawdź swoją pocztę e-mail.	
+plan-status.NO-FREEBIES.reason = Już skorzystałeś z bezpłatnego pakietu próbnego. Podoba Ci się to? Dodaj więcej danych\, gdy wyczerpiesz pakiet.
+plan-status.NO-FREEBIES-TRANSFER.reason = Niestety już skorzystałeś(-aś) z bezpłatnego pakietu próbnego. Przenieś aktualny pakiet lub zasil go.
+plan-status.autoRenew= Auto Renew (requires translation)
+plan-status.msgAutoRenewWarning= Your data will auto renew as soon as you update your card. (requires translation)
+plan-status.msgAutoRenewInfo= Will renew after 30 days or when you've used your data (requires translation)
+plan-status.msgAutoRenewDate= [x date] or when you've used your data (requires translation)
+
+plan-status-autorenew.hello = Hello [x name] (Requires translation)
+plan-status-autorenew.there = there (Requires translation)
+plan-status-autorenew.order = Plan # (Requires translation)
+plan-status-autorenew.ends = Ends [x date] (Requires translation)
+plan-status-autorenew.transferred = Transferred (Requires translation)
+plan-status-autorenew.hrsLeft = hour left (Requires translation)
+plan-status-autorenew.expired = Expired (Requires translation)
+plan-status-autorenew.dataLeft = data left (Requires translation)
+plan-status-autorenew.daysLeft = days left (Requires translation)
+plan-status-autorenew.welcomeBack = Welcome Back, (Requires translation)
+plan-status-autorenew.addMoreData = Add data (Requires translation)
+plan-status-autorenew.warningTitle = Create Account (Requires translation)
+plan-status-autorenew.forXDays = for [x days] days (Requires translation)
+plan-status-autorenew.countriesIncluded =  You can use the data in any of these countries: (Requires translation)
+plan-status-autorenew.costFree = FREE (Requires translation)
+plan-status-autorenew.mostPopular =  most popular (Requires translation)
+plan-status-autorenew.termsOfServicesLink = Terms of Service (Requires translation)
+plan-status-autorenew.truphoneLink = © 2017 Truphone Limited (Requires translation)
+plan-status-autorenew.headerTitle = Your world. Explore it (Requires translation)
+plan-status-autorenew.buttonMyDetails = My profile (Requires translation)
+plan-status-autorenew.buttonLogout = Logout (Requires translation)
+plan-status-autorenew.buttonHelp = Help (Requires translation)
+plan-status-autorenew.buttonEmailIntructions = Unlock <br/> via email (Requires translation)
+plan-status-autorenew.buttonTransferPlan = Transfer existing plan (Requires translation)
+plan-status-autorenew.buttonCheckout = Checkout (Requires translation)
+plan-status-autorenew.buttonHelp = Help (Requires translation)
+plan-status-autorenew.buttonCancel = Cancel (Requires translation)
+plan-status-autorenew.buttonSave = Disable auto renew (Requires translation)
+plan-status-autorenew.msgWarningCreateAccount = Add data faster with a couple of clicks. Transfer your data to different iPads.<br/>  Store details and manage your plan more easily, and much more. <br/> Simply create an account. It’s quick and easy. (Requires translation)
+plan-status-autorenew.reason = You are covered in [x country] just switch on "Data Roaming" in your "Mobile Data Settings." (Requires translation)
+plan-status-autorenew.ROAMING.reason = You are covered in [x country] just switch on "Data Roaming" in your "Mobile Data Settings." (Requires translation)
+plan-status-autorenew.OLD-DEVICE.reason = Your Truphone Data Plan was transferred to iPad [x iPad model]. If this wasn't you contact Truphone Customer Services on +44 203 318 0742 or help@truphone.com (Requires translation)
+plan-status-autorenew.ACCOUNT-EMAIL.reason = We’ve sent you the link to create your account. Please check your inbox. (Requires translation)
+plan-status-autorenew.msgErrorSelectProduct = Select product (Requires translation)
+plan-status-autorenew.autoRenew= Auto Renew (Requires translation)
+plan-status-autorenew.msgAutoRenewWarning= Your data will auto renew as soon as you update your card. (Requires translation)
+plan-status-autorenew.msgAutoRenewInfo= Will renew after 30 days or when you've used your data (Requires translation)
+plan-status-autorenew.msgAutoRenewDate= [x date] or when you've used your data (Requires translation)
+plan-status-autorenew.disableAutoRenew= Are you sure you want to disable auto renew? If so, you will still be able to use your remaining data. (Requires translation)
+
+
+terms-conditions.headerTitle = Zasady i warunki
+terms-conditions.clauses = <ol> <li>Usługi E-SIM <ol> <li>Niniejsze warunki to warunki\, na jakich Truphone Limited („my”\, „nas” oraz „nasze”)  świadczy usług transmisji danych Truphone (“Usługi”) użytkownikowi końcowemu („ty” oraz „twoje”). Twój zakup oraz korzystanie z tych Usług podlega tym warunkom (“Agreement”).</li> <li>Egzemplarz niniejszych warunków powinien być zachowany na przyszłość i jesteś odpowiedzialny za okresowe sprawdzanie strony truphone.com\, by zapewnić\, że znasz wszelkie zmiany lub aktualizacje niniejszych warunków.</li> <li>Usługi są przeznaczone do korzystania na iPad-ach\, lecz nie na iPhone-ach. Nie możemy zagwarantować funkcjonowania Usług\, jeżeli korzystasz z nich na iPhone-ie lub na innym urządzeniu.</li> <li>Jeżeli nie chcesz\, by obowiązywały cię niniejsze warunki\, nie powinieneś kupować ani korzystać z Usług Truphone.</li> </ol> </li> <li>Usługi <ol> <li>Będziemy świadczyć ci usługi transmisji danych według możliwości naszego E-SIM. E-SIM zawiera profil elektroniczny\, który będzie pobrany do twojego urządzenia jako części aktywacji Usług.</li> <li>Wielkość pakietu danych dostępnego dla działania Usług będzie określona w trakcie zakupu lub uzupełniania Usług. Usługi będą dostępne dla ciebie na okres określony przy zakupie. Po upływie tego okresu pozostałe Usługi będą utracone a za niewykorzystane Usługi nie będzie wypłacany żaden zwrot. Nasze Usługi według tej Umowy są świadczone tylko na podstawie wcześniejszego zakupu.</li> <li>Wyrażasz zgodę na to\, że ilość pozostałych do wykorzystania usług transmisji danych wyświetlona na stronie Konto Danych Mobilnych Truphone  (ustawienia > dane mobilne (lub komórkowe) > zarządzaj kontem Truphone)\, jest rozstrzygająca.</li> <li class="subTitle">Dostępność</li> <li>Usługi są świadczone na zasadzie “tak\, jak jest” i  „tak\, jak dostępne”.  Nie zapewniamy ani nie gwarantujemy\, że Usługi będą pozbawione usterek oraz nie składamy żadnych zapewnień lub gwarancji co do pokrycia sieci\, jakości i dostępności. Podejmiemy wszelkie rozsądne kroki\, by Usługi były dostępne dla ciebie przez cały czas\, pod warunkiem jednak zdolności naszej lub naszego dostawcy usług do utrzymania pojemności sieci i możliwości połączeń.</li> <li>W razie usterki\,  po jej stwierdzeniu lub otrzymaniu od ciebie zawiadomienia o jej istnieniu\, podejmiemy wszelkie rozsądne starania\, by niezwłocznie naprawić tę usterkę.</li> <li>Zastrzegamy sobie prawo do wyboru naszych operatorów sieciowych  i  partnerów technologicznych według naszego uznania  oraz do zapewniania dostępu do Usług w sposób\, jaki uważamy za będące w najlepszym interesie naszych wymagań biznesowych. W tym względzie niniejszym wyrażasz zgodę na ujawnienie oraz korzystanie przez nas z twoich danych osobowych w celu świadczenia Usług. Korzystanie z twoich danych osobowych będzie podlegać warunkom Polityki Prywatności dostępnej na truphone.com.</li> <li class="subTitle">Roaming</li> <li>Korzystanie przez ciebie z Usług podczas Roamingu może podlegać różnym prawom i przepisom.  Nie będziemy ponosić żadnej odpowiedzialności za nieprzestrzeganie przez ciebie tych praw lub przepisów. Poza tym\, korzystanie z Usług podczas Roamingu może spowodować wyższe opłaty w kraju\, w którym korzystasz z Roamingu\, powodujące szybsze zużycie twojego pakietu danych.</li> <li class="subTitle">Zawieszenie </li> <li>Od czasu do czasu możemy być zobowiązani do aktualizacji\, zmiany lub konserwacji Usług. W takich przypadkach Usługi będą czasowo niedostępne\, jednak postaramy się ograniczyć takie przerwy do minimum oraz jeżeli możliwe\, uprzedzić cię\, w tym przez umieszczenie wiadomości na truphone.com.</li> <li>Rezerwujemy sobie prawo zawieszenia Usług bez uprzedniego zawiadomienia\, gdy: <ol type="a"> <li>mamy powód uważać\, że naruszasz warunki korzystania (klauzula 4 poniżej) lub którąkolwiek z polityk\, o których zostałeś powiadomiony na truphone.com.</li> <li>oczekiwany jest wynik dochodzenia\, które nastąpiło po otrzymania skargi złożonej przeciwko tobie.</li> <li>nie dostarczasz nam potrzebnych informacji wymaganych dla wypełnienia wymogów regulacyjnych (takich jak weryfikacja identyfikacji klienta dla poznania klienta) w jakiejkolwiek jurysdykcji\, w której chcesz podróżować i korzystać z Usług.</li> <li>mamy uzasadniony powód\, by podejrzewać cię\, że uzyskałeś dostęp do Usług w sposób oszukańczy lub bezprawny.</li> <li>jesteśmy zobowiązani przestrzegać nakazu\, instrukcji lub prośby jakiejkolwiek organizacji służby rządowej\, regulacyjnej lub bezpieczeństwa lub innej kompetentnej władzy administracyjnej.</li> <li>w celu zapobieżenia szkodzie lub degradacji integralności sieci naszej lub naszego kontraktowego partnera\, która może być spowodowana przez ciebie lub kogokolwiek korzystającego z twojego dostępu.</li> <li>w celach operacyjnych lub w nagłym wypadku lub w celach bezpieczeństwa.</li> </ol> </li> <li class="subTitle">Monitoring</li> <li>Możemy monitorować Usługi oraz ujawniać informacje uzyskane z takiego monitoringu\, by spełnić jakąkolwiek prośbę prawną\, regulacyjną lub inną rządową\, by wykonywać lub administrować Usługami lub by chronić nas lub innych naszych klientów.</li> </ol> </li> <li>Zakup Usług <ol> <li>Przy zakupie Usług zapewnimy ci zdalnie E-SIM. E-SIM pozostanie na twoim urządzeniu nawet po wykorzystaniu przez ciebie wszystkich Usług\, które kupiłeś.</li> <li>Usługa rozpocznie się natychmiast po aktywacji E-SIM tak\, że Usługa jest dostępna operacyjnie do korzystania przez ciebie (“Aktywacja”).</li> </ol> </li> <li>Twoje zobowiązania  <ol> <li class="subTitle">Korzystanie </li> <li>Zgadzasz się\, że będzie korzystał z Usług zgodnie z niniejszą Umową oraz że  ponosisz odpowiedzialność za wszelkie korzystanie z Usług. Należy zapoznać się z aktualną Polityką  Dopuszczalnego Korzystania oraz Polityką Dozwolonego Korzystania na truphone.com.</li> <li>Będziesz ponosić odpowiedzialność za konfigurację twojego urządzenia tak by mogło właściwie korzystać z Usług zgodnie z wszelkimi przepisami oraz odnośnymi instrukcjami wydanymi przez nas lub przez dostawcę urządzenia.</li> <li>Jesteś zobowiązany: <ol type="a"> <li>nie korzystać z Usług dla jakichkolwiek celów oszukańczych lub bezprawnych ani nie korzystać z Usług do wysyłania jakichkolwiek wiadomości o naturze obraźliwej\, obscenicznej\, nękającej lub zagrażającej;</li> <li>nie korzystać z Usług\, by popełnić lub ułatwić popełnienie przestępstwa lub innego aktu bezprawnego;</li> <li>nie działać w jakikolwiek sposób\, który może wpłynąć na lub osłabić działalnie jakiejkolwiek sieci używanej lub obsługiwanej przez nas;</li> <li>nie wysyłać ani nie umieszczać niczego\, co narusza prawa własności intelektualnej osoby trzeciej (chyba\, że posiadasz pozwolenie);</li> <li>korzystać z Usługi tylko do osobistego użytku i nie sprzedawać\, odsprzedawać\, wynajmować\, podnajmować lub w jakikolwiek inny sposób  mieć komercyjnie do czynienia z Usługami;</li> <li>korzystać z Usługi tylko dla celów i w sposób wyraźnie dozwolony przez tę Umowę;</li> <li>korzystać z Usług tylko zgodnie z odnośnymi ustawami i przepisami twojej narodowości\, kraju\, w którym mieszkasz lub w kraju\, w którym jesteś obecny podczas korzystania z Usługi;</li> <li>dostarczyć nam wszelkich dowodów twojej tożsamości\, o jakie możemy rozsądnie poprosić;</li> </ol> </li> <li>Ponosisz odpowiedzialność za usunięcie E-SIM ze swojego urządzenia przed przekazaniem go innej osobie. Jeżeli tego nie zrobisz\, bilans wcześniej zakupionych przez Ciebie Usług może być wykorzystany przez tę osobę. Możesz usunąć E-SIM przechodząc do “Ustawień”\, następnie do “Ogólne”\, potem “Ponowne Ustawienia” i wybierając "Usuń całą zawartość i ustawienia" oraz  włączyć ponowne ustawienie “Planów Transmisji Danych”\, gdy pojawi się podpowiedź.</li> <li>Musisz przestrzegać wszelkich rozsądnych procedur i standardów bezpieczeństwa dotyczących Usługi. Od czasu do czasu\, gdy nadużycie lub niewłaściwe użycie zostanie zaobserwowane lub zgłoszone przez innych\, możemy cię powiadomić w jakikolwiek sposób\, w tym za pomocą www.truphone.com\, o problemach z bezpieczeństwem\, wraz z ogólną informacją dotyczącą świadczenia przez nas Usługi.</li> <li class="subTitle">Zgubione lub skradzione urządzenie</li> <li>Musisz poinformować nas natychmiast\, jeżeli urządzenie\, na którym są aktywowane są Usługi\, jest zgubione lub skradzione oraz pozostaniesz odpowiedzialny za użycie Usług na tym urządzeniu\, dopóki tego nie zrobisz. Jeżeli twoje urządzenie jest zgubione lub skradzione\, prosimy zadzwoń do nas natychmiast na numer +48 73235\\0\013 lub wyślij do nas e-mail na adres zapytaj@truphone.com. Podejmiemy wszelkie rozsądne działanie\, by przerwać świadczenie Usług na jakimkolwiek zgubionym lub skradzionym urządzeniu w ciągu 72 godzin od otrzymania powiadomienia oraz pod warunkiem weryfikacji konta.</li> <li class="subTitle">Zawartość </li> <li>Jesteś wyłącznie odpowiedzialny za wszelką zawartość\, informacje i wiadomości przekazywane z użyciem Usługi oraz zgadzasz się\, że nie ponosimy żadnej odpowiedzialności za usunięcie\, uszkodzenie lub awarię przechowania jakiejkolwiek zawartości przekazywanej z użyciem Usługi.</li> </ol> </li> <li>Własność Intelektualna w Usługach <ol> <li>Całość technologii\, własności intelektualnej i dokumentacji dotyczącej Usług pozostanie naszą własnością. Przy zakupie Usług udzielamy ci odwoływalnej\, warunkowej\, niewyłącznej\, nieprzenoszalnej i nie podlegającej sublicencjonowaniu licencji na korzystanie z Usług.</li> </ol> </li> <li>Opłaty <ol> <li>Opłaty związane z pakietem (pakietami) danych zakupionym (zakupionych) dla Usług są dostępne dla ciebie\, zanim kupisz Usługę i kupując Usługę godzisz się na zastosowanie tych opłat. Rezerwujemy sobie prawo do podwyższenia lub wszelkich innych zmian opłat za Usługi\, które zakupiłeś\, w każdym czasie przez opublikowanie zmian na www.truphone.com lub powiadomienie cię w inny sposób.</li> <li class="subTitle">Ogólne </li> <li>Opłata płatna za zakup Usług zawiera podatek od towarów i usług oraz wszelkie inne podobne podatki od sprzedaży\, należności lub obciążenia nałożone przez jakąkolwiek władzę\, rząd lub agencję rządową.</li> </ol> </li> <li>Polityka płatności i zwrotów  <ol> <li>Niniejsza Usługa działa na podstawie wcześniejszego zakupu. Zanim udostępnimy ci usługi\, jesteś zobowiązany za nie zapłacić. Nie mamy żadnego zobowiązania do zwrotu jakichkolwiek kwot zapłaconych wcześniej\, chyba że postanowienia niniejszych warunków stanowią inaczej. W przypadkach\, gdy oferujemy ci świadczenie darmowych Usług lub inne specjalne oferty Usług\, nie będzie dawana żadna alternatywa gotówkowa.</li> <li>W miarę\, jak będziesz korzystać z Usług\, bilans pozostałych\, dostępnych dla ciebie zakupionych pakietów danych będzie zmniejszany zgodnie z twoim użyciem Usług. Każda podjęta przez ciebie sesja użycia danych będzie zaokrąglona do najbliższego kilobajta i ta liczba kilobajtów będzie odjęta z twojego pozostałego pakietu danych dla Usługi.</li> </ol> </li> <li>Zakończenie Usługi <ol> <li class="subTitle">Przez nas</li> <li>Rezerwujemy prawo do rozwiązania niniejszej Umowy i zaprzestania świadczenia Usług w przypadku\, gdy w istotny sposób naruszasz jakikolwiek z warunków tej Umowy. Nie będziemy zobowiązaniu do zwrócenia tobie jakichkolwiek kwot za niezużyte pakiety danych związanych z Usługami w czasie rozwiązania.</li> <li class="subTitle">Przez ciebie</li> <li>Możesz rozwiązać niniejszą Umowę z nami w każdym czasie powiadamiając nas zgodnie z klauzulą 8.4.</li> <li>Jeżeli wyślesz nam powiadomienie o rozwiązaniu: <ol type="a"> <li>w ciągu 14 dni od dnia zawarcia Umowy; lub</li> <li>w każdym czasie – ponieważ nie jesteśmy dalej w stanie świadczyć tobie Usług a niemożność świadczenia Usług nie jest związana z jakąkolwiek twoją czynnością\, </li> </ol> możesz prosić o zwrot przez nas proporcjonalnej wartości niewykorzystanych Usług. Poza tym\, zakończenie Usług nie uprawnia cię do zapłaty jakiejkolwiek kwoty. </li> <li>By rozwiązać niniejszą Umowę\, zadzwoń do Obsługi Klienta Truphone na numer +48 73235\0\013 lub możesz wysłać email na adres zapytaj@truphone.com z adresu emailowego podanego w czasie zawierania Umowy oraz podawania nam twojego imienia i nazwiska\, adresu i numeru telefonu.</li> <li>W przypadku\, gdy w całości zużyłeś pakiet danych\, który kupiłeś\, nie będziesz mógł korzystać z Usług\, o ile i dopóki dokonasz dalszego zakupu Usług.</li> </ol> </li> <li>Odpowiedzialność  <ol> <li>Niniejsza klauzula określa naszą całkowitą odpowiedzialność finansową wobec ciebie (w tym jakąkolwiek odpowiedzialność za działania lub zaniechania naszych pracowników\, agentów\, konsultantów i podwykonawców) w odniesieniu do: <ol type="a"> <li>świadczenia Usług;</li> <li>naruszenia Umowy;</li> <li>jakiegokolwiek korzystania przez Ciebie z Usług;</li> <li>jakiegokolwiek stwierdzenia\, oświadczenia\, niedozwolonego działania lub zaniechania (w tym zaniedbania) wynikającego z lub w związku z Umową.</li> </ol> </li> <li>Wszystkie zapewnienia i gwarancje\, warunki i inne postanowienia wynikające z ustawy lub prawa zwyczajowego są wyłączone z Umowy w najszerszym dopuszczalnym przez prawo zakresie.</li> <li>Nic w tej Umowie nie ograniczy lub nie wyłączy naszej odpowiedzialności wobec ciebie: <ol type="a"> <li>za śmierć lub szkody na osobie spowodowane naszym zaniedbaniem;</li> <li>za oszukańcze fałszywe stwierdzenie;</li> <li>za jakąkolwiek inną odpowiedzialność\, która zgodnie z prawem angielskim nie może być ograniczona lub wyłączona;</li> </ol> Z tym zastrzeżeniem\, w żadnym wypadku nie będziemy wobec ciebie odpowiedzialni za jakiekolwiek pośrednie lub wynikowe straty poniesione przez ciebie\, lub za jakąkolwiek utratę zysków\, przychodów\, kontraktów\, danych\, renomy lub innych podobnych strat. </li> <li>Nasza całkowita odpowiedzialność w umowie\, czynie niedozwolonym\, (w tym zaniedbaniu lub naruszeniu obowiązku ustawowego)\, fałszywym stwierdzeniu\, restytucji lub w jakikolwiek inny sposób\, wynikająca w związku z wykonaniem lub przewidywanym wykonaniem niniejszej Umowy\, w tym świadczeniem Usług\, będzie ściśle ograniczona do łącznej wartości płatności\, które nam zapłaciłeś za Usługi podczas 12 poprzedzających miesięcy.</li> <li>Nie będziemy ponosić odpowiedzialności za jakiekolwiek niewykonanie lub opóźnienie w wykonaniu któregokolwiek z naszych zobowiązań lub w świadczeniu Usług (i) gdy opóźnienie takie lub niewykonanie wynika z jakichkolwiek twoich działań lub zaniechań\, gdy podałeś nieprawidłowe dane lub infromacje; lub (ii) awarii sieci\, przeciążenia sieci\, awarii zasilania; lub (iii) które  jest spowodowane wydarzeniami poza naszą rozsądną kontrolą\, w tym\, lecz bez ograniczeń\, strajkami\, lokautami lub innymi sporami przemysłowymi (zarówno z udziałem naszych sił roboczych\, jak jakiejkolwiek innej strony)\, siłą wyższą\, wojną\, działalnością terrorystyczną\, umyślną szkodą\, spełnianiem jakiegokolwiek nakazu prawnego lub rządowego lub naruszeniem ze strony dostawców lub podwykonawców.</li> <li>Truphone nie będzie ponosić wobec ciebie odpowiedzialności za jakiekolwiek koszty\, opłaty lub kary pieniężne poniesione przez ciebie za niedotrzymanie zgodności i niespełnienie jakiegokolwiek rządowego wymogu kraju przed korzystaniem z Usług w tym kraju.</li> <li>Niniejszym potwierdzasz\, że w razie roszczenia osoby trzeciej\, że jakakolwiek sublicencjonowana aplikacja będącego osobą trzecią Dostawcy Licencjonowanej Aplikacji posiadanej przez ciebie podczas użycia jako część Usług\, narusza prawa własności intelektualnej osoby trzeciej\, będziemy ponosić odpowiedzialność za zbadanie\, obronę\, rozstrzygnięcie i rozliczenie takiego roszczenia o naruszenie praw własności intelektualnej\, pod warunkiem\, że natychmiast zawiadomisz nas na piśmie o otrzymaniu takiego powiadomienia o naruszeniu\, jeżeli zostałeś powiadomiony\, że przez korzystanie z Usług naruszasz prawa własności intelektualnej osoby trzeciej.</li> <li>Stwierdzasz i zapewniasz\, że (i) nie znajdujesz się w kraju podlegającym embargo Rządu Stanów Zjednoczonych lub który został określony przez Rząd Stanów Zjednoczonych jako kraj „wspierający terroryzm”; oraz (ii) nie jesteś wymieniony na żadnej prowadzonej przez Rząd Stanów Zjednoczonych liście stron zakazanych lub ograniczonych. Jeżeli zostanie ustalone\, że naruszasz to zapewnienie\, będziemy mieli prawo natychmiast zakończyć Usługi i nie będzie ci przysługiwała płatność żadnej kwoty za niewykorzystane Usługi.</li> <li>Twoja odpowiedzialność:<br/> Będziesz ponosić odpowiedzialność za wszelkie szkody jakiegokolwiek rodzaju wyrządzone nam\, naszym sieciom lub systemom\, lub jakimkolwiek osobom trzecim przez twoje korzystanie lub niewłaściwe korzystanie z E-SIM lub Usług\, lub przez jakiekolwiek inne osoby lub jakiekolwiek urządzenia\, nawet w przypadku zgubienia lub kradzieży i będziesz ponosić odpowiedzialność za zrekompensowanie nam wszelkich szkód spowodowanych przez ciebie lub przez nich\, w tym drobnych błędów;</li> </ol> </li> <li>Zmiany niniejszych warunków oraz Usług <ol> <li>Zastrzegamy sobie prawo do zmiany od czasu do czasu niniejszych warunków tej Umowy oraz do zmiany Usług lub jakichkolwiek promocji lub opłat dotyczących Usługi w każdym czasie.</li> <li>Powiadomimy cię o takich zmianach\, zaś ty zgadzasz się\, że odpowiednia publikacja na stronie internetowej jest akceptowalnym powiadomieniem.</li> </ol> </li> <li>Prawo właściwe i zgodność z prawem <ol> <li>Niniejsza Umowa będzie podlegać prawu angielskiemu oraz jurysdykcji sądów angielskich\, z zastrzeżeniem\, że jeżeli żyjesz w części Zjednoczonego Królestwa innej niż Anglia\, odnośne prawo tej części Zjednoczonego Królestwa będzie właściwe i wszelkie spory będą rozstrzygane przez tamtejsze sądy.</li> <li>Niezależnie do prawa właściwego przewidzianego powyżej\, możesz podlegać różnym zasadom\, przepisom i prawom\, które mogą mieć zastosowanie do ciebie w kraju\, w którym korzystasz z Usług\, w szczególności\, gdy jako kraj zamieszkania wybierasz kraj inny\, niże Zjednoczone Królestwo.</li> <li>Z zastrzeżeniem warunków naszej Polityki Prywatności możemy podlegać wymaganiu\, by uzyskać od ciebie dalsze informacje osobiste dla celów spełnienia przez nas wszelkich wymagań prawnych lub regulacyjnych. Jeżeli poprosimy cię o takie informacje i wskażemy\, że jest to dla celów zgodności prawnej lub regulacyjnej\, wówczas zgadzasz się\, że dostarczysz nam informacje\, o które prosimy i nie dostarczysz nam informacji fałszywych lub wprowadzających w błąd.</li> </ol> </li> <li>Skargi <ol> <li>Jeżeli masz jakiekolwiek skargi lub informacje zwrotne o Usłudze\, powinieneś je wysłać do zapytaj@truphone.com.</li> </ol> </li> <li>Prywatność <ol> <li>Traktujemy z powagą prywatność naszych klientów. Dla pełnego zapoznania się ze szczegółami\, prosimy przeczytaj naszą Politykę Prywatności\, którą można znaleźć na www.truphone.com. Podczas gdy szanujemy prywatność naszych klientów\, Usługa może być przejęta przez agencje i organy ścigania. Możemy być zmuszeni do ujawnienia twoich danych osobowych\, gdy jest to wymagane wobec nas przez ważny nakaz upoważnionego przedstawiciela rządowego lub nakaz sądu.</li> <li>Rejestrując się na Usługi wyrażasz zgodę na przekazanie twoich danych osobowych do krajów\, które nie zapewniają tego samego poziomu ochrony danych osobowych\, co Zjednoczone Królestwo\, jeżeli uważamy to za potrzebne dla świadczenia Usług.</li> </ol> </li> <li>Postanowienia różne <ol> <li>Wszelkie licencje\, które nie zostały wyraźnie udzielone w tej umowie są zastrzeżone i żadne inne licencje\, immunitety lub prawa\, wyraźne lub dorozumiane\, nie są przez nas udzielone\, przez domniemanie\, wykluczenie lub w inny sposób. Niniejsza umowa nie udziela ci żadnych praw do korzystania z jakichkolwiek  należących do nas znaków towarowych\, logo lub oznaczeń usług.</li> <li>Wszelkie zawiadomienia do nas wymagane są na piśmie (faksem\, emailem\, listem lub tekstem) na adresy podane w niniejszych warunkach.</li> <li>Nieskorzystanie z któregokolwiek z naszych praw wynikających z niniejszych warunków nie powoduje zrzeczenia się tego prawa.</li> <li>Zastrzegamy sobie prawo przeniesienia praw i obowiązków zawartych w niniejszych warunkach na osobę trzecią.</li> <li>Potwierdzasz i zgadzasz się\, że jakikolwiek będący Osobą Trzecią Dostawca Licencjonowanej Aplikacji jest będącym osobą trzecią beneficjentem tej umowy oraz że po akceptacji warunków tej Umowy taki Dostawca (lub Dostawcy) Licencjonowanej Aplikacji będący osobami trzecimi będą mieli prawo (które będzie uznane za zaakceptowane przez nich)\, by wyegzekwować tę Umowę przeciw tobie jako jej beneficjenci będący osobami trzecimi.</li> <li>Jeżeli jakiekolwiek z postanowień niniejszych warunków zostanie uznany za niewykonalny\, nie wpłynie to na wszystkie pozostałe warunki.</li> <li>Niniejsze warunki oraz jakiekolwiek dokumenty wyraźnie w nich wymienione lub dostarczone tobie podczas korzystania lub akceptowania Usług\, stanowią całość umowy pomiędzy tobą i nami w odniesieniu do przedmiotu każdej umowy zawartej na Usługi. Jesteśmy zobowiązani powiadomić cię\, że umowy mogą być zawarte tylko w języku angielskim i nie ma żadnych wymogów publicznych zgłoszeń.</li> <li>Truphone Limited jest spółką zarejestrowaną w England i Walii pod numerem \04187\081\, której siedziba i adres to 25 Canada Square\, Londyn\, E14 5LQ\, Zjednoczone Królestwo. Podlegamy regulacji Ofcom.  Nasz numer rejestracji VAT to GB 851 5278 19</li> <li>Przez zakup i korzystanie z Usług potwierdzasz\, że przeczytałeś niniejsze warunki\, rozumiesz je i zgadzasz się\, by cię obowiązywały.</li> <li>Niniejsze warunki podlegają od czasu do czasu zmianom według uznania Truphone\, zaś ich najbardziej aktualna wersja jest publikowana na www.truphone.com. W razie sprzeczności między jakimikolwiek wydrukowanymi warunkami oraz ich wersją internetową\, wersja internetowa będzie nadrzędna. Prosimy o okresowe sprawdzanie na stronie internetowej najbardziej aktualnych warunków\, które mogą być stosowane wobec ciebie.</li> <li>Data wersji: 31 października 2\016 r.</li> </ol> </li> </ol>
+	
+faqs.headerTitle = Centrum pomocy	
+faqs.contactUs= Kontakt z nami	
+faqs.faqs = Dlaczego akurat Truphone?::Oto trzy powody:<br/><ol><li><b>TO ŁATWE I PROSTE:</b> Wiemy\, że masz wiele spraw na głowie\, więc stworzyliśmy taki proces zakupu\, który jest najszybszy i najprostszy spośród dostępnych na rynku.</li><li><b>ZNAKOMITY ZASIĘG W 4\0 KRAJACH BEZ DODATKOWYCH OPŁAT:</b> Szybka transmisja danych do wykorzystania w kraju i zagranicą\, w jednym pakiecie\, w tej samej atrakcyjnej cenie.</li><li><b>NAJLEPSZA OFERTA CENOWA:</b> Wszystkie te korzyści za najniższą cenę. Uważamy\, że ta oferta jest nie do przebicia.</li></ol>|;|Jak i gdzie mogę kupić pakiet danych?::Możesz dokupić nowy pakiet tylko po wykorzystaniu poprzedniego. Jeżeli korzystasz z darmowego pakietu\, musisz poczekać\, aż wygaśnie.<br/><br/>Łatwo i prosto zrobisz to online\, płacąc kartą kredytową lub debetową. Po pierwszym zakupie możesz dokupić więcej pakietów danych w dowolnym z 4\0 krajów\, wchodzących w skład twojego planu.<br/><br/>Każdy pakiet danych jest ważny przez 3\0 dni lub do wyczerpania limitu danych.|;|Gdzie mogę korzystać z pakietu danych?::W dowolnym z 4\0 krajów\, w których świadczymy usługi – bez dodatkowych opłat. Wystarczy\, że włączysz „Roaming danych”\, a automatycznie połączysz się z naszą siecią\, jeśli jeszcze masz dane do wykorzystania.<br/><br/><b>Te 4\0 krajów to:</b><br/><br/>Australia\, Austria\, Belgia\, Bułgaria\, Chorwacja\, Cypr\, Czechy\, Dania\, Estonia\, Finlandia\, Francja\, Gujana Francuska\, Grecja\, Gwadelupa\, Guernsey\, Hiszpania\, Holandia\, Hongkong\, Irlandia\, Islandia\, Jersey\, Łotwa\, Liechtenstein\, Litwa\, Luksemburg\, Malta\, Martynika\, Monako\, Niemcy\, Norwegia\, Polska\, Portoryko\, Portugalia\, Reunion\, Rumunia\, Słowacja\, Słowenia\, Szwecja\, USA\, Watykan\, Węgry\, Wielka Brytania\, Włochy\, Wyspa Man. |;|Ile danych mi zostało?::Ilość danych pozostałych w pakiecie możesz sprawdzić po wejściu w<br/><br/>Ustawienia > Dane sieci kom. > Zarządzaj kontem Truphone…<br/>albo<br/>Ustawienia > Dane sieci kom. > Dodaj więcej danych...|;|Po co mi konto?::Zapiszesz bezpiecznie dane karty kredytowej i możesz kupować pakiety błyskawicznie.</li><li>Łatwo przeniesiesz dane\, jeśli stracisz\, zresetujesz lub zaktualizujesz swojego iPada (lub masz więcej niż jednego iPada).</li><li>Gdy kupisz swój pierwszy pakiet danych\, prześlemy Ci e-maila ze wszystkimi informacjami potrzebnymi do otwarcia konta.|;|Jak zarządzać kontem?::Dane na swoim koncie\, takie jak imię i nazwisko\, adres e-mail i hasło\, możesz łatwo aktualizować w sekcji „Mój profil”. <br/><br/>Po prostu otwórz<b>Ustawienia > Dane sieci kom. > Dodaj więcej danych.../ Zarządzaj kontem Truphone… > Mój profil</b><br/><br/> Naciśnij ikonę ołówka\, aby wprowadzić zmianę\, a następnie naciśnij Zapisz|;|Jak przenieść pakiet danych na inne urządzenie?::Po utworzeniu konta możesz przenosić pakiety danych ze swojego iPada na inne urządzenie w menu:<br/><br/> <b>Ustawienia > Dane sieci kom. >Dodaj nowy plan > Truphone > Masz już pakiet danych? > Przenieś pakiet</b>|;|Dlaczego mój pakiet nie działa?::Jeśli masz problemy techniczne\, sprawdź\, czy pakiet nie wygasł lub dostępna ilość danych się nie wyczerpała.<br/><br/>W takim przypadku trzeba dokupić dane. Jeśli dane wciąż są dostępne\, a pakiet nie wygasł\, sprawdź\, czy urządzenie znajduje się w zasięgu sieci komórkowej i czy w menu Ustawienia > Dane sieci kom. włączona jest zarówno opcja Dane sieci kom.\, jak i Roaming danych.<br/><br/>Jeśli problem nadal nie ustaje\, skontaktuj się z nami.
+	
+# PG40/32 Payment Page Model	
+	
+payment.headerTitle = Mój koszyk	
+payment.buttonAmendOrder = Zmień	
+payment.forXDays = [x days] dni	
+payment.email = Email
+payment.emailPlaceHolder = Adres e-mail	
+payment.name = Nazwa posiadacza karty
+payment.namelPlaceHolder =	
+payment.ccnumber = Numer karty	
+payment.cardExpiry = Data ważności 	
+payment.MM = MM	
+payment.YY = RR	
+payment.securityCode = Kod zabezpieczający 	
+payment.securityCodeNote = 3 cyfry na odwrocie karty	
+payment.termsOfServices = Akceptuję 	
+payment.termsOfServicesLink = zasady i warunki	
+payment.alreadyCustomer = Jesteś już naszym klientem? 	
+payment.buttonPay = Płać bezpiecznie	
+payment.buttonLogin = Zaloguj się	
+payment.msgErrorInvalidEmail = Podaj prawidłowy adres e-mail	
+payment.msgErrorInvalidName = Podaj swoje imię\, nazwisko
+payment.msgErrorCcnumber = Podaj prawidłowy numer	
+payment.msgErrorRequiredData = Data	
+payment.msgErrorCustomData = Nie można użyć daty przeszłej	
+payment.msgErrorSecurityCode = Wpisz kod	
+payment.BADCARD.msgErrorPaymentFailed = Niestety karta nie została zaakceptowana. Sprawdź dane karty.	
+payment.EXCEPTION.msgErrorPaymentFailed = Nie udało się zrealizować transakcji. Płatność została odrzucona.	
+payment.msgErrorAttempts =  Zbyt wiele prób płatności. Zamknij okno i spróbuj jeszcze raz	
+payment.msgWarningCreateAccount = ZAPŁAĆ\, używając innego adresu e-mail\, lub UTWÓRZ KONTO\, korzystając z przesłanego linku. 	
+payment.UNVERIFIED.warningTitle = Skorzystaj z dodatkowych funkcji. Sprawdź treść	
+payment.VERIFIED.warningTitle = Adres e-mail używany na innym iPadzie. sprawdź treść	
+payment.buttonEmailIntructions =  WYŚLIJ MI LINK. 	
+payment.VERIFIED.result = Jeśli masz u nas założone konto\, zaloguj się i użyj alternatywnego adresu e-mail.	
+payment.alert = Skorzystałeś już z darmowego pakietu. Dodaj więcej danych\, gdy go wyczerpiesz.	
+payment.overrideWarning=Ta forma płatności nie zostanie zapisana
+payment.autoRenew = Auto renew (Requires translation)
+payment.msgAutoRenewInfo = Will renew after 30 days or when you've used your data (Requires translation)
+	
+	
+payment-verified.cardDetailTitle = Zapłać tą kartą	
+payment-verified.password = Hasło	
+payment-verified.requireInternetNote = (Wymaga dostępu do internetu)
+payment-verified.notRequirePasswordNote= (Hasło nie jest wymagane)	
+payment-verified.headerTitle = Mój koszyk	
+payment-verified.ccNumberFake = xxxx - xxxx - xxxx - 	
+payment-verified.ccExpire = Ważna do 	
+payment-verified.forXDays = [x days] dni	
+payment-verified.buttonResetPassword = Nie pamiętasz hasła?	
+payment-verified.buttonPaySecurely = Płać bezpiecznie	
+payment-verified.cardExpired = Niestety karta utraciła ważność. Wpisz ręcznie dane nowej karty.	
+payment-verified.buttonCardManually = Użyj innej karty
+payment-verified.buttonAmendOrder = Zmień	
+payment-verified.msgErrorInvalidPassword = Nieprawidłowe hasło	
+payment-verified.BADCARD.msgErrorPaymentFailed = Niestety karta nie została zaakceptowana.  Sprawdź dane karty i spróbuj jeszcze raz.	
+payment-verified.EXCEPTION.msgErrorPaymentFailed = Nie udało się zrealizować transakcji. Płatność została odrzucona.	
+payment-verified.PASS_RESET.msgErrorPaymentFailed = Nie udało się zresetować hasła. Spróbuj jeszcze raz.	
+payment-verified.WRONGPASS.msgErrorPaymentFailed = Nieprawidłowe hasło	
+payment-verified.alert = Już skorzystałeś z bezpłatnego pakietu próbnego. Podoba Ci się to? Dodaj więcej danych\, gdy wyczerpiesz pakiet.
+payment-verified.PASSWORD_RESETED.reason=Sprawdź swoją pocztę e-mail. Przesłaliśmy Ci link do zresetowania hasła.	
+	
+3d-secure.headerTitle = Mój koszyk	
+3d-secure.info = Trwa próba połączenia z bankiem. Nie wciskaj żadnych przycisków.	
+	
+# PG35 Thank You Page Model	
+	
+payment-success.headerTitle = To Twój świat – kochaj go	
+payment-success.hello = Dziękujemy [x name]	
+payment-success.there =	
+payment-success.countriesIncluded =  Roaming bez dodatkowych opłat:	
+payment-success.yourOrder = Pakiet nr
+payment-success.lastDay = ostatni dzień	
+payment-success.dataLeft = pozostało	
+payment-success.buttonMyDetails = Zamknij okno	
+payment-success.buttonHelp = Pomoc	
+payment-success.msgWarningSettingDevice = Gdy zobaczysz Truphone na pasku stanu, będziesz mógł korzystać z internetu.
+payment-success.daysLeft = pozostało dni	
+payment-success.ends = Wygaśnie [x date]
+payment-success.hrsLeft = pozostało godzin	
+payment-success.expired = Wygasł	
+payment-success.msgWarningACMEAlert = WAŻNE: Aby mieć dostęp do naszych usług kliknij ,,Uaktualnij’’ - kiedy widzisz ten komunikat.
+payment-success.order = Plan # (Requires translation)
+payment-success.starts = Starts (Requires translation)
+payment-success.days = days (Requires translation)
+payment-success.costFree = FREE (Requires translation)
+payment-success.autoRenew = Auto Renew (Requires translation)
+payment-success.msgAutoRenewInfo = Will renew after 30 days or when you've used your data (Requires translation)
+
+payment-failed.headerTitle = Transakcja została odrzucona	
+payment-failed.buttonTryAgain = Spróbuj jeszcze raz	
+payment-failed.contactUs =  Kontakt z nami	
+payment-failed.forXDays = [x days] dni	
+payment-failed.msgWarningPaymentFailed =  Nie udało się zrealizować transakcji. Niestety płatność nie została przekazana. 	
+
+# PG44 Change Card Page Model
+
+payment-update.name = Cardholder Name (needs translation)
+payment-update.namelPlaceHolder =
+payment-update.ccnumber = Card Number (needs translation)
+payment-update.cardExpiry = Card Expiry (needs translation)
+payment-update.MM = MM (needs translation)
+payment-update.YY = YY (needs translation)
+payment-update.securityCode = Security Code (needs translation)
+payment-update.securityCodeNote = 3-digit No. on the back of your card (needs translation)
+
+payment-update.msgErrorCcnumber = Invalid card (needs translation)
+payment-update.msgErrorRequiredData = Invalid date (needs translation)
+payment-update.msgErrorCustomData = Can't be in a past (needs translation)
+payment-update.msgErrorSecurityCode = Invalid code (needs translation)
+
+payment-update.msgErrorPaymentFailed = Your Card has been rejected. Do you want to try again or use another alternative payment method? (needs translation)
+payment-update.msgErrorAttempts =  To many payment attempts. Please close the screen and try again. (needs translation)
+
+payment-update.buttonSave = Save (needs translation)
+payment-update.buttonCancel = Cancel (needs translation)
+
+payment-create.buttonCancel = Cancel (Requires translation)
+payment-create.buttonSave = Save (Requires translation)
+payment-create.cardExpiry = Card Expiry (Requires translation)
+payment-create.ccnumber = Card Number (Requires translation)
+payment-create.costFree = FREE (Requires translation)
+payment-create.headerTitle = Add Payment Method (Requires translation)
+payment-create.MM = MM (Requires translation)
+payment-create.msgErrorCcnumber = Invalid car (Requires translation)d
+payment-create.msgErrorCustomData = Can't be in a past (Requires translation)
+payment-create.msgErrorInvalidName = Invalid name (Requires translation)
+payment-create.msgErrorRequiredData = Invalid date (Requires translation)
+payment-create.msgErrorSecurityCode = Invalid code (Requires translation)
+payment-create.msgNotificationCreateAccount = We’ve sent you an email with instructions. Please check your inbox (Requires translation)
+payment-create.name = Cardholder Name (Requires translation)
+payment-create.overrideWarning = Payment warning messages (Requires translation)
+payment-create.securityCode = Security Code (Requires translation)
+payment-create.securityCodeNote = 3-digit No. on the back of your card (Requires translation)
+payment-create.termsOfServices = Accept (Requires translation)
+payment-create.termsOfServicesLink = Terms of Service (Requires translation)
+payment-create.YY = YY (Requires translation)
+
+login.email = Wpisz prawidłowy adres e-mail	
+login.emailPlaceHolder = Adres e-mail	
+login.headerTitle = Zaloguj się	
+login.buttonEmail = Dalej	
+login.msgErrorInvalidEmail = Wpisz prawidłowy adres e-mail	
+email-page.email = Podaj adres e-mail	
+email-page.emailPlaceHolder = Adres e-mail	
+email-page.headerTitle = Mój koszyk	
+email-page.buttonEmail = Dalej	
+email-page.buttonAmendOrder = Zmień	
+email-page.msgErrorInvalidEmail = Wpisz prawidłowy adres e-mail 	
+email-page.forXDays = [x days] dni	
+	
+	
+login-unverified.email = Adres e-mail	
+login-unverified.emailPlaceHolder = Adres e-mail	
+login-unverified.warningTitle = Utwórz konto	
+login-unverified.warningMsg = Niestey już skorzystaleś z darmowego pakietu. Utwórz konto używając podanego adresu e-mail\, aby wykonywać zakupy jednym kliknięciem i móc przenosić dane między iPadami. Niestey już skorzystaleś z darmowego pakietu.	
+login-unverified.headerTitle = Zaloguj się	
+login-unverified.buttonEmail = Wstecz	
+login-unverified.buttonSendEmail = Utwórz konto	
+login-unverified.msgErrorInvalidEmail = Wpisz prawidłowy adres e-mail	
+	
+# PG3 Login Page Model	
+	
+login-verified.email = Adres e-mail	
+login-verified.emailPlaceHolder = Adres e-mail	
+login-verified.password = Hasło	
+login-verified.requireInternetNote = (Wymaga połączenia z internetem)	
+login-verified.headerTitle = Zaloguj się	
+login-verified.buttonResetPassword = Nie pamiętasz hasła?	
+login-verified.buttonLogin = Zaloguj się	
+login-verified.msgErrorInvalidPassword = Nieprawidłowe hasło	
+login-verified.msgErrorInvalidEmail = Wpisz prawidłowy adres e-mail	
+login-verified.MAXIMUM_LOGIN_TRIES_EXCEEDED.reason = Zbyt wiele prób logowania. Zamknij okno i spróbuj jeszcze raz	
+login-verified.LOGIN_FAILED.reason = Wpisz prawidłowy adres e-mail lub hasło	
+login-verified.NOT_SAME_ACCOUNT.reason = ZAPŁAĆ\, używając innego adresu e-mail\, lub UTWÓRZ KONTO\, korzystając z przesłanego linku.	
+login-verified.PASSWORD_RESET_UNVALIDATED_EMAIL.reason = Twój adres e-mail nie został zweryfikowany.	
+login-verified.PASSWORD_RESET_INVALID_EMAIL.reason = Nieprawidłowy e-mail.	
+login-verified.PASSWORD_RESETED.reason=Sprawdź swoją pocztę e-mail. Przesłaliśmy Ci link do zresetowania hasła.	
+	
+# PG43 Reset Password Page Model	
+	
+reset-password.email = Adres e-mail	
+reset-password.emailPlaceHolder = john@example.com	
+reset-password.headerTitle = Nie pamiętasz hasła?	
+reset-password.buttonResetPassword = Zresetuj hasło	
+reset-password.msgErrorInvalidEmail = Wpisz adres e-mail\, którego używasz na tym koncie\, a prześlemy Ci link do zresetowania hasła.	
+	
+# PG25 Verified My Details Page Model (serves both verified and unverified users)	
+	
+account.name = Imię i nazwisko	
+account.email = Adres e-mail	
+account.password = Hasło	
+account.requireInternetNote = (Wymaga połączenia z internetem)	
+account.cardDetailTitle = Forma płatności	
+account.headerTitle = Mój profil	
+account.buttonResetPassword = Nie pamiętasz hasła?
+account.buttonUpdateCard = Update (needs translation)
+account.buttonRemoveCard = Usuń kartę	
+account.ccNumberFake = xxxx - xxxx - xxxx - 	
+account.ccExpire = Ważna do	
+account.warningTitle = Utwórz konto	
+account.buttonEmailIntructions = Wyślij mi link
+account.msgWarningCreateAccount = Możesz kupić pakiet danych szybciej i przenieść go na innego iPada.	
+account.EMAIL_CHANGED_VERIFIED.reason=Przesłaliśmy Ci link do weryfikacji adresu e-mail. Sprawdź swoją pocztę e-mail.  	
+account.EMAIL_CHANGED_UNVERIFIED.reason=Adres e-mail został zaktualizowany. Aby utworzyć konto\, sprawdź swoją pocztę e-mail.	
+account.ACCOUNT_UPDATED.reason=Dane Twojego konta zostały zaktualizowane.	
+account.PASSWORD_CHANGED.reason=Twoje hasło zostało zaktualizowane.	
+account.NAME_CHANGED.reason=Twoje dane zostały zaktualizowane.	
+account.CARD_REMOVED.reason=Dane Twojej karty zostały usunięte.	
+account.PASSWORD_RESETED.reason=Sprawdź swoją pocztę e-mail. Przesłaliśmy Ci link do zresetowania hasła.	
+account.ACCOUNT-EMAIL.reason = Przesłaliśmy Ci link do utworzenia konta. Sprawdź swoją pocztę e-mail.
+account.addCard = Add card (Requires translation)
+	
+	
+#PG26 Change Name Page Model	
+	
+edit-name.name = Imię	
+edit-name.surname = Nazwisko	
+edit-name.headerTitle = Zmień imię i nazwisko	
+edit-name.buttonSave = Zapisz	
+edit-name.buttonCancel = Anuluj	
+edit-name.msgErrorInvalidName = Wpisz swoje imię	
+edit-name.msgErrorInvalidSurname = Wpisz swoje nazwisko	
+	
+	
+	
+# PG28 Change Email Page Model	
+	
+edit-email.email = Nowy adres e-mail	
+edit-email.emailPlaceHolder = email@something.com	
+edit-email.password = Wpisz hasło\, by zmienić adres e-mail	
+edit-email.headerTitle = Zmień adres e-mail	
+edit-email.buttonSave = Zapisz	
+edit-email.buttonCancel = Anuluj	
+edit-email.msgErrorInvalidEmail = Nieprawidłowy e-mail	
+edit-email.msgErrorInvalidPassword = Hasło musi zawierać przynajmniej 6 znaków	
+edit-email.invalidPassword = Nieprawidłowe hasło	
+edit-email.existingUser = Ten adres e-mail już jest używany – spróbuj wpisać inny adres	
+	
+# PG27 Change Password Page Model	
+	
+edit-password.password = Aktualne hasło	
+edit-password.newPassword = Nowe hasło (min. 6 znaków)	
+edit-password.confirmPassword = Potwierdź nowe hasło	
+edit-password.headerTitle = Zmień hasło	
+edit-password.buttonSave = Zapisz	
+edit-password.buttonCancel = Anuluj	
+edit-password.msgErrorInvalidPassword = Nieprawidłowe hasło	
+edit-password.msgErrorInvalidNewPassword = Hasło musi mieć przynajmniej 6 znaków	
+edit-password.msgErrorInvalidConfirmPassword = Hasła nie są takie same – spróbuj jeszcze raz	
+edit-password.invalidOldPassword = Twoje stare hasło jest nieprawidłowe	
+	
+	
+remove-card.headerTitle = Usuń kartę	
+remove-card.buttonSave = Usuń kartę	
+remove-card.buttonCancel = Anuluj	
+remove-card.warningMsg =  Jeśli usuniesz tę kartę\, nie będziesz w stanie dodać nowej do momentu wykupienia nowego pakietu.	
+	
+monitor-mode.message = Dziękujemy za wybranie naszej oferty. Podłączamy Twojego iPada do sieci\, zaraz wszystko będzie gotowe.	
+	
+	
+generic-error.PASSWORD_RESET_INVALID_EMAIL.message = Użytkownik z tym adresem e-mail nie istnieje.	
+generic-error.PASSWORD_RESET_INVALID_EMAIL.headerTitle= Zresetuj hasło	
+generic-error.PASSWORD_RESET_INVALID_EMAIL.warningTitle= Błąd	
+	
+generic-error.PASSWORD_RESET_UNVALIDATED_EMAIL.message = Ten adres e-mail należy do niezweryfikowanego konta. Poszukaj w poczcie e-maila do weryfikacji konta.	
+generic-error.PASSWORD_RESET_UNVALIDATED_EMAIL.headerTitle= Zresetuj hasło	
+generic-error.PASSWORD_RESET_UNVALIDATED_EMAIL.warningTitle= Błąd	
+	
+#PG4 - Generic Error	
+generic-error.GENERIC_ERROR.message = Niestety wystąpił błąd. 	
+generic-error.GENERIC_ERROR.headerTitle= Błąd ogólny	
+generic-error.GENERIC_ERROR.warningTitle= Błąd	
+	
+#PG2 - Invalid device - To be changed	
+generic-error.INVALID_DEVICE.message = Niestety pojawił się problem z ładowaniem strony. Zamknij okno i spróbuj jeszcze raz.	
+generic-error.INVALID_DEVICE.headerTitle= Błąd ogólny	
+generic-error.INVALID_DEVICE.warningTitle= Błąd	
+	
+generic-error.INVALID_OS_VERSION.message = Zaktualizuj wersję systemu iOS\, by kontynuować.	
+generic-error.INVALID_OS_VERSION.headerTitle= Błąd ogólny	
+generic-error.INVALID_OS_VERSION.warningTitle= Błąd	
+	
+generic-error.INVALID_PAYMENT_DATA.message = Niestety pojawiło się zbyt wiele nieudanych prób płatności. Zamknij okno i spróbuj jeszcze raz.	
+generic-error.INVALID_PAYMENT_DATA.headerTitle= Błąd ogólny	
+generic-error.INVALID_PAYMENT_DATA.warningTitle= Błąd	
+	
+#PG44	
+generic-error.ESIM_INSTALLATION_ERROR.message = Nie udało się nawiązać połączenia. Opłata nie została pobrana. Przepraszamy za kłopot	
+generic-error.ESIM_INSTALLATION_ERROR.headerTitle= Błąd ogólny	
+generic-error.ESIM_INSTALLATION_ERROR.warningTitle= Błąd	
+	
+#made up	
+
+generic-error.INVALID_EMAIL_CHANGE_LINK.message = Przepraszamy, ten link już wygasł.
+generic-error.INVALID_EMAIL_CHANGE_LINK.headerTitle= Nieprawidłowy link
+generic-error.INVALID_EMAIL_CHANGE_LINK.warningTitle= Błąd	
+	
+generic-error.DUPLICATED_EMAIL.message = Ten adres e-mail już jest używany – spróbuj wpisać inny adres	
+generic-error.DUPLICATED_EMAIL.headerTitle= Aktualny adres e-mail	
+generic-error.DUPLICATED_EMAIL.warningTitle= Błąd	
+	
+#PG46 - Unable to bind - To be changed	
+generic-error.UNABLE_TO_BIND.message = Niestety pakiet nie został pobrany. Nie pobraliśmy płatności. Spróbuj ponownie później	
+generic-error.UNABLE_TO_BIND.headerTitle= Nie udało się zrealizować transakcji	
+generic-error.UNABLE_TO_BIND.warningTitle= Błąd	
+
+generic-error.SESSION_TIMEOUT.message= Ta sesja wygasła. Zamknij okno i spróbuj ponownie.
+generic-error.SESSION_TIMEOUT.headerTitle=Sesja wygasła
+generic-error.SESSION_TIMEOUT.warningTitle=Błąd
+
+	
+generic-info.PASSWORD_RESET_SUCCESS.message = Sprawdź swoją pocztę e-mail. Przesłaliśmy Ci link do zresetowania hasła.	
+	
+generic-info.PASSWORD_RESET_SUCCESS.headerTitle= Zresetuj hasło	
+generic-info.PASSWORD_RESET_SUCCESS.warningTitle= Informacje	
+	
+generic-info.PROCESS_ONGOING_PAGE.message = Gdy zobaczysz Truphone na pasku stanu\, będziesz mógł korzystać z internetu.
+generic-info.PROCESS_ONGOING_PAGE.headerTitle= Trwa pobieranie karty e-SIM	
+generic-info.PROCESS_ONGOING_PAGE.warningTitle= Informacje	
+	
+# waiting for better message from copywriter (Check with Denni and Davide)=	
+generic-info.ICCID_CSN_NOT_PRESENT.message = To urządzenie zawiera kartę e-SIM przypisaną do innego abonenta. Zresetuj iPada\, by od razu dokonać zakupu i zacząć korzystać z naszych pakietów danych.	
+generic-info.ICCID_CSN_NOT_PRESENT.headerTitle= Nieprawidłowa karta E-SIM	
+generic-info.ICCID_CSN_NOT_PRESENT.warningTitle= Informacje	
+	
+	
+generic-info.ACTIVATION_LINK_SENT.message = Sprawdź pocztę e-mail i zweryfikuj swoje konto.	
+generic-info.ACTIVATION_LINK_SENT.headerTitle= Link aktywacyjny został wysłany	
+generic-info.ACTIVATION_LINK_SENT.warningTitle= Informacje	
+	
+	
+generic-info.ACTIVATION_LINK_NOT_SENT.message = Nie możesz skonfigurować nowego urządzenia na niezweryfikowanym koncie	
+generic-info.ACTIVATION_LINK_NOT_SENT.headerTitle= Wymagana jest aktywacja	
+generic-info.ACTIVATION_LINK_NOT_SENT.warningTitle= Informacje	
+	
+web-thank-you.headerTitle = Witamy[x name]\,	
+web-thank-you.INFO-ACCOUNT-CREATE.message = Twoje konto jest aktywne. Surfuj po internecie częściej i płać za to mniej.	
+web-thank-you.INFO-ACCOUNT-EXISTS.message = Już masz konto. Nie musisz robić nic więcej. Surfuj po internecie częściej i płać za to mniej.	
+	
+web-thank-you.INFO-PASSWORD-RESET.message = Twoje hasło zostało zmienione.</b>Jeśli chcesz kupić więcej danych\, otwórz > Ustawienia > Dane sieci kom. > Dodaj więcej danych...
+web-thank-you.INFO-EMAIL-CHANGE.message = Dziękujemy za zweryfikowanie adresu e-mail. Zaktualizowaliśmy go.	
+
+# made up	
+web-thank-you.ERROR-ACCOUNT-CREATE.message = Niestety podczas tworzenia konta wystąpił błąd. Spróbuj ponownie później.	
+# made up	
+web-thank-you.ERROR-PASSWORD-RESET.message = Niestety podczas zmieniania hasła wystąpił błąd. Spróbuj ponownie później.	
+# made up	
+web-thank-you.ERROR-EMAIL-CHANGE.message = Niestety podczas zmieniania adresu e-mail wystąpił błąd. Spróbuj ponownie później.	
+web-thank-you.copyright =© 2\017 Truphone Limited (4187\081). Wszelkie prawa zastrzeżone. Firma zarejestrowana w Anglii i Walii. Firma zarejestrowana pod adresem: 25 Canada Square\, Londyn E14 5LQ. Nr VAT: GB851527819.
+
+web-reset-password.headerTitle = Zresetuj hasło	
+web-reset-password.newPassword = Nowe hasło (min. 6 znaków)
+web-reset-password.confirmPassword = Potwierdź nowe hasło 	
+web-reset-password.buttonSave = Zaktualizuj hasło	
+web-reset-password.msgErrorInvalidNewPassword = Hasło musi mieć przynajmniej 6 znaków	
+web-reset-password.msgErrorInvalidConfirmPassword = Hasła nie są takie same. Spróbuj jeszcze raz	
+web-reset-password.newPasswordNote = Hasło musi mieć przynajmniej 6 znaków	
+web-reset-password.email = Adres e-mail	
+web-reset-password.copyright =© 2\017 Truphone Limited (4187\081). Wszelkie prawa zastrzeżone. Firma zarejestrowana w Anglii i Walii. Firma zarejestrowana pod adresem: 25 Canada Square\, Londyn E14 5LQ. Nr VAT: GB851527819.
+
+	
+web-create-account.headerTitle = Utwórz konto	
+web-create-account.newPassword = Hasło	
+web-create-account.confirmPassword = Potwierdź hasło	
+web-create-account.name = Imię	
+web-create-account.email = Adres e-mail	
+web-create-account.surname = Nazwisko	
+web-create-account.emailPlaceHolder = someone@email.com	
+web-create-account.buttonSave = Utwórz konto	
+web-create-account.msgErrorInvalidName = Wpisz swoje imię	
+web-create-account.msgErrorInvalidSurname = Wpisz swoje nazwisko	
+web-create-account.msgErrorInvalidEmail = Podaj prawidłowy adres e-mail	
+web-create-account.msgErrorInvalidNewPassword = Hasło musi mieć przynajmniej 6 znaków	
+web-create-account.msgErrorInvalidConfirmPassword = Hasła nie są takie same – spróbuj jeszcze raz	
+web-create-account.info =	
+web-create-account.featuresInfo = Jeszcze tylko kilka szczegółów potrzebnych do utworzenia konta\, które pozwoli Ci na:	
+web-create-account.features = szybki zakup pakietów; przenoszenie danych pomiędzy iPadami; bezpiecznie zarządzanie kontem
+web-create-account.newPasswordNote = (min. 6 znaków)	
+web-create-account.copyright =© 2\017 Truphone Limited (4187\081). Wszelkie prawa zastrzeżone. Firma zarejestrowana w Anglii i Walii. Firma zarejestrowana pod adresem: 25 Canada Square\, Londyn E14 5LQ. Nr VAT: GB851527819.
+
+web-create-account-success.headerTitle = Dziękujemy[x name]!	
+web-create-account-success.info = Witaj w Truphone - niech żyje swoboda! <br/><br/> Masz już konto – teraz możesz skorzystać z:	
+web-create-account-success.features =  niskich opłat. Znakomitego zasięgu.;jednego pakietu bez dodatkowych opłat w 4\0 krajach (włącz „Roaming danych” za granicą);szybkiego zakupu pakietów
+web-create-account-success.copyright=© 2\017 Truphone Limited (4187\081). Wszelkie prawa zastrzeżone. Firma zarejestrowana w Anglii i Walii. Firma zarejestrowana pod adresem: 25 Canada Square\, Londyn E14 5LQ. Nr VAT: GB851527819.
+
+	
+free-trial.costFree = ZA DARMO	
+pre-paid.costFree = ZA DARMO	
+plan-status.costFree = ZA DARMO	
+payment.costFree = ZA DARMO	
+payment-verified.costFree = ZA DARMO	
+payment-failed.costFree = ZA DARMO	
+email-page.costFree = ZA DARMO	
+
+
+web-create-account.headTitle= Utwórz konto
+web-create-account-success.headTitle=Dziękujemy za aktywację konta
+web-thank-you.INFO-EMAIL-CHANGE.headTitle=Twój e-mail został zweryfikowany
+web-thank-you.INFO-ACCOUNT-EXISTS.headTitle = Utwórz konto
+web-thank-you.INFO-PASSWORD-RESET.headTitle = Zresetuj hasło
+web-thank-you.ERROR-ACCOUNT-CREATE.headTitle = Utwórz konto
+web-thank-you.ERROR-PASSWORD-RESET.headTitle = Zresetuj hasło
+web-thank-you.ERROR-EMAIL-CHANGE.headTitle = Zmień adres e-mail
+web-reset-password.headTitle=Zresetuj hasło

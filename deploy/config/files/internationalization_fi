@@ -1,0 +1,523 @@
+# PG37 Free Products Page Model
+
+free-trial.headerTitle = Maailma on sinun. Tutustu siihen
+free-trial.countriesIncluded =  Käytä verkkovierailua ilman lisäkustannuksia seuraavissa maissa:
+free-trial.forXDays = [x days] päivää
+free-trial.email = Anna sähköpostiosoitteesi, niin saat MAKSUTONTA dataa
+free-trial.emailNote = (Ei ostovelvoitetta)
+free-trial.emailPlaceHolder = Sähköposti
+free-trial.termsOfServices =  Hyväksyn
+free-trial.termsOfServicesLink = käyttöehdot
+free-trial.buttonClaim = Saat 1\0\0 Mt maksutta
+free-trial.msgErrorInvalidEmail = Anna hyväksyttävä sähköpostiosoite
+free-trial.msgErrorInvalidClaimedFree = Valitettavasti olet jo käyttänyt maksuttoman kokeilusi
+
+
+#PG6 paid product page
+
+pre-paid.headerTitle = Osta nyt. Saat 1\0\0 Mt MAKSUTTA
+pre-paid.countriesIncluded =  Käytä verkkovierailua ilman lisäkustannuksia seuraavissa maissa:
+pre-paid.mostPopular =  hyvä valinta
+pre-paid.forXDays = [x days] päivää
+pre-paid.buttonCheckout = Kassalle
+pre-paid.buttonHelp = Ohjeet
+pre-paid.msgErrorSelectProduct = Valitse sopimus
+pre-paid.NO-FREEBIES.reason = Valitettavasti olet jo käyttänyt kokeilun. Valitse sen sijaan sopimus.
+
+transfer-plan.headerTitle = Siirrä sopimus
+transfer-plan.countriesIncluded = * Käytä verkkovierailua ilman lisäkustannuksia seuraavissa maissa:
+transfer-plan.order = Sopimuksen nro
+transfer-plan.ends = Päättyy [x date]
+transfer-plan.buttonTransferPlan = Siirrä nyt
+transfer-plan.buttonHelp = Ohjeet
+transfer-plan.msgWarningTransfer = Siirrä datasi tästä. Siirron jälkeen voit käyttää dataasi vain tällä iPadilla.
+transfer-plan.msgErrorSelectProduct = Valitse sopimus
+
+# PG24 Verified Account Management Page Model (serves both verified and unverified users):
+
+plan-status.headerTitle = Maailma on sinun. Rakasta sitä.
+plan-status.hello = Hei [x name]
+plan-status.there = siellä\,
+plan-status.yourOrder = Sopimuksen nro
+plan-status.countriesIncluded =  Käytä verkkovierailua ilman lisäkustannuksia seuraavissa maissa:
+plan-status.ends = Päättyy [x date]
+plan-status.transferred = Siirretty
+plan-status.lastDay = viimeinen päivä
+plan-status.dataLeft = jäljellä
+plan-status.daysLeft = päivää jäljellä
+plan-status.mostPopular = hyvä valinta
+plan-status.welcomeBack = Tervetuloa takaisin\,
+plan-status.addMoreData = Lisää dataa
+plan-status.forXDays = [x days] päivää
+plan-status.termsOfServicesLink = Käyttöehdot
+plan-status.truphoneLink = ¬© 2\017 Truphone Limited
+plan-status.buttonMyDetails = Oma profiili
+plan-status.buttonLogout = Kirjaudu ulos
+plan-status.buttonHelp = Ohjeet
+plan-status.buttonEmailIntructions = Lähetä linkki sähköpostilla
+plan-status.buttonTransferPlan = Siirrä sopimus
+plan-status.buttonCheckout = Kassalle
+plan-status.hrsLeft = tuntia jäljellä
+plan-status.expired = Erääntynyt
+plan-status.warningTitle = Luo tili
+plan-status.msgWarningCreateAccount = Voit ostaa dataa nopeammin ja siirtää tietosi toiseen iPadiin.
+plan-status.ROAMING.reason = Haluatko käyttää verkkovierailua ilman lisäkustannuksia? Ellet ole vielä tehnyt niin\, ota käyttöön "Dataroaming" "Mobiilidatavalinnoissa"
+plan-status.NO-SERVICE.reason = Valitettavasti et voi käyttää dataasi tässä maassa.
+plan-status.OLD-DEVICE.reason = Hyviä uutisia\, sopimuksesi on siirretty iPad mini -malliisi [x]. Ellet ole pyytänyt tätä siirtoa\, soita numeroon +44 7\40 881 \6186 tai lähetä sähköpostia osoitteeseen ask@truphone.com viipymättä.
+plan-status.NEW-DEVICE.reason = Kiitos\, että valitsit meidät. Yhdistämme juuri iPadiasi\, ja saat sen pian käyttöösi.
+plan-status.msgErrorSelectProduct = Valitse sopimus
+plan-status.ACCOUNT-EMAIL.reason = Olemme lähettäneet sinulle linkin tilin luomista varten. Tarkasta sähköpostisi.
+plan-status.NO-FREEBIES.reason = Valitettavasti olet jo käyttänyt maksuttoman kokeilusi
+plan-status.NO-FREEBIES-TRANSFER.reason = Valitettavasti olet jo käyttänyt maksuttoman kokeilusi. Siirrä nykyinen sopimuksesi tai lisää dataa
+
+plan-status-autorenew.hello = Hello [x name] (Requires translation)
+plan-status-autorenew.there = there (Requires translation)
+plan-status-autorenew.order = Plan # (Requires translation)
+plan-status-autorenew.ends = Ends [x date] (Requires translation)
+plan-status-autorenew.transferred = Transferred (Requires translation)
+plan-status-autorenew.hrsLeft = hour left (Requires translation)
+plan-status-autorenew.expired = Expired (Requires translation)
+plan-status-autorenew.dataLeft = data left (Requires translation)
+plan-status-autorenew.daysLeft = days left (Requires translation)
+plan-status-autorenew.welcomeBack = Welcome Back, (Requires translation)
+plan-status-autorenew.addMoreData = Add data (Requires translation)
+plan-status-autorenew.warningTitle = Create Account (Requires translation)
+plan-status-autorenew.forXDays = for [x days] days (Requires translation)
+plan-status-autorenew.countriesIncluded =  You can use the data in any of these countries: (Requires translation)
+plan-status-autorenew.costFree = FREE (Requires translation)
+plan-status-autorenew.mostPopular =  most popular (Requires translation)
+plan-status-autorenew.termsOfServicesLink = Terms of Service (Requires translation)
+plan-status-autorenew.truphoneLink = © 2017 Truphone Limited (Requires translation)
+plan-status-autorenew.headerTitle = Your world. Explore it (Requires translation)
+plan-status-autorenew.buttonMyDetails = My profile (Requires translation)
+plan-status-autorenew.buttonLogout = Logout (Requires translation)
+plan-status-autorenew.buttonHelp = Help (Requires translation)
+plan-status-autorenew.buttonEmailIntructions = Unlock <br/> via email (Requires translation)
+plan-status-autorenew.buttonTransferPlan = Transfer existing plan (Requires translation)
+plan-status-autorenew.buttonCheckout = Checkout (Requires translation)
+plan-status-autorenew.buttonHelp = Help (Requires translation)
+plan-status-autorenew.buttonCancel = Cancel (Requires translation)
+plan-status-autorenew.buttonSave = Disable auto renew (Requires translation)
+plan-status-autorenew.msgWarningCreateAccount = Add data faster with a couple of clicks. Transfer your data to different iPads.<br/>  Store details and manage your plan more easily, and much more. <br/> Simply create an account. It’s quick and easy. (Requires translation)
+plan-status-autorenew.reason = You are covered in [x country] just switch on "Data Roaming" in your "Mobile Data Settings." (Requires translation)
+plan-status-autorenew.ROAMING.reason = You are covered in [x country] just switch on "Data Roaming" in your "Mobile Data Settings." (Requires translation)
+plan-status-autorenew.OLD-DEVICE.reason = Your Truphone Data Plan was transferred to iPad [x iPad model]. If this wasn't you contact Truphone Customer Services on +44 203 318 0742 or help@truphone.com (Requires translation)
+plan-status-autorenew.ACCOUNT-EMAIL.reason = We’ve sent you the link to create your account. Please check your inbox. (Requires translation)
+plan-status-autorenew.msgErrorSelectProduct = Select product (Requires translation)
+plan-status-autorenew.autoRenew= Auto Renew (Requires translation)
+plan-status-autorenew.msgAutoRenewWarning= Your data will auto renew as soon as you update your card. (Requires translation)
+plan-status-autorenew.msgAutoRenewInfo= Will renew after 30 days or when you've used your data (Requires translation)
+plan-status-autorenew.msgAutoRenewDate= [x date] or when you've used your data (Requires translation)
+plan-status-autorenew.disableAutoRenew= Are you sure you want to disable auto renew? If so, you will still be able to use your remaining data. (Requires translation)
+
+
+terms-conditions.headerTitle = Käyttöehdot
+terms-conditions.clauses=<ol> <li>E-SIM-palvelu <ol> <li> Juridinen tiimi toimittaa </ol>
+
+faqs.headerTitle = Tukikeskus
+faqs.contactUs= Ota meihin yhteys
+faqs.faqs = Miksi valita Truphone?::Tässä kolme syytä:<br/><ol><li><b>NOPEA JA HELPPO:</b> tiedämme\, että sinulla on kiire\, joten olemme varmistaneet\, että meiltä ostaminen on markkinoiden nopeinta ja helpointa.</li><li><b>TOIMINTA-ALUEENA 4\0 MAATA ILMAN LISÄKUSTANNUKSIA:</b> nopea data sekä kotona että matkoilla\, kaikki samassa sopimuksessa\, samaan edulliseen hintaan.</li><li><b>PARAS HINTA:</b> kaiken lisäksi tarjoamme parhaan arvon. Mielestämme se tekee meistä lyömättömiä.</li></ol>|;|Miten ja mistä voin ostaa dataa?::Voit ostaa dataa vasta\, kun olet käyttänyt kiintiösi. Jos olet jo kokeillut maksutonta datasopimusta\, sinun on odotettava\, kunnes maksuton datasi on käytetty.<br/><br/>Ostaminen sujuu nopeasti ja helposti verkossa pankki- tai luottokortilla. Ensimmäisen oston jälkeen voit lisätä dataa missä tahansa sopimukseesi sisältyvässä 4\0 maassa.<br/><br/>Jokainen datasopimus kestää 3\0 päivää tai kunnes olet käyttänyt kaiken datan.|;|Missä voin käyttää dataani?::Missä tahansa 4\0 maassa\, jossa toimimme – ilman lisäkustannuksia. Ota "Dataroaming" käyttöön\, ja sinut yhdistetään automaattisesti verkkoomme\, jos sinulla on dataa jäljellä.<br/><br/><b>Nämä 4\0 maata ovat:</b><br/><br/>Alankomaat\, Belgia\, Bulgaria\, Espanja\, Guadeloupe\, Guernsey\, Hongkong\, Islanti\, Irlanti\, Itävalta\, Jersey\, Kreikka\, Kroatia\, Kypros\, Latvia\, Liechtenstein\, Liettua\, Luxemburg\, Malta\, Mansaari\, Martinique\, Monaco\, Norja\, Portugali\, Puerto Rico\, Puola\, Romania\, Ranska\, Ranskan Guyana\, Réunion\, Romania\, Ruotsi\, Saksa\, Slovakia\, Slovenia\, Suomi\, Tanska\, Tšekin tasavalta\, Unkari\, Vatikaanivaltio\, Viro\, Yhdistynyt kuningaskunta ja Yhdysvallat. |;|Kuinka paljon dataa minulla on jäljellä?::Voit tarkastaa jäljellä olevan saldosi kohdasta <br/><br/>Settings (Asetukset) > Mobile Data (Mobiilidata) > Manage Truphone Account (Hallitse Truphone-tiliä¶ /Add More Data... (Lisää dataa...)|;|Miksi minun pitää luoda tili?::<ol><li>Talleta luottokorttitietosi turvallisesti ja tee ostokset salamannopeasti.</li><li>Voit siirtää datasi helposti\, jos kadotat\, nollaat tai päivität iPadisi tai jos sinulla on monta iPadia.</li></ol><br/>Kun ostat meiltä\, lähetämme sähköpostiviestin, jossa on kaikki tilin avaamiseen tarvitut tiedot.|;|Miten hallitsen tiliäni?::Voit päivittää tilitietosi, kuten nimesi\, sähköpostiosoitteesi ja salasanasi\, "My profile" (Oma profiili) -osiosta. <br/><br/>Siirry vain kohtaan: <b> Settings (Asetukset) > Cellular/Mobile Data (Mobiiliverkko/Mobiilidata) > Manage Truphone Account (Hallitse Truphone-tiliä) > My profile (Oma profiili)</b><br/><br/> Napauta kynän kuvaketta, jotta voit tehdä muutoksen, ja napauta sitten tallennusta|;|Miten voin siirtää sopimukseni?::Kun olet luonut tilisi\, voit siirtää sopimuksesi iPadistasi toiseen siirtymällä kohtaan:<br/><br/> <b>Settings (Asetukset) > Cellular/Mobile Data (Mobiiliverkko/Mobiilidata) >Add a New Plan (Lisää uusi sopimus) > Truphone > Login (Kirjaudu sisään) > Transfer Plan (Siirrä sopimus)</b>|;|Miksi datani ei toimi?::Jos sinulla on ongelmia\, tarkista, onko sopimuksesi rauennut tai oletko käyttänyt kaiken datan.<br/><br/>Jos niin on\, sinun pitää ostaa lisää. Ellei niin ole\, tarkista\, että laitteessasi on mobiiliverkkoa ja että sekä Mobiilidata- että Dataroaming-asetukset on otettu käyttöön kohdasta Settings (Asetukset) > Cellular/Mobile (Mobiiliverkko/Mobiilidata).<br/><br/>Jos ongelmat jatkuvat, voit ottaa meihin yhteyttä milloin tahansa.
+
+# PG40/32 Payment Page Model
+
+payment.headerTitle = Oma kori
+payment.buttonAmendOrder = Vaihda
+payment.forXDays = [x days] päivää
+payment.email = Kirjoita sähköpostiosoitteesi kuittiasi varten
+payment.emailPlaceHolder = Sähköposti
+payment.name = Kortinhaltijan nimi
+payment.namelPlaceHolder =
+payment.ccnumber = Kortin numero
+payment.cardExpiry = Viimeinen voimassaolopäivä
+payment.MM = KK
+payment.YY = VV
+payment.securityCode = Turvakoodi
+payment.securityCodeNote = 3 merkkiä kortin takaa
+payment.termsOfServices = Hyväksyn
+payment.termsOfServicesLink = käyttöehdot
+payment.alreadyCustomer = Oletko jo asiakas?
+payment.buttonPay = Maksa turvallisesti
+payment.buttonLogin = Kirjaudu sisään
+payment.msgErrorInvalidEmail = Käytä hyväksyttävää sähköpostiosoitetta
+payment.msgErrorInvalidName = Käytä nimeäsi
+payment.msgErrorCcnumber = Käytä hyväksyttävää numeroa
+payment.msgErrorRequiredData = Päiväys
+payment.msgErrorCustomData = Ei voi olla menneisyydessä
+payment.msgErrorSecurityCode = Kirjoita koodi
+payment.BADCARD.msgErrorPaymentFailed = Valitettavasti korttiasi ei hyväksytty. Tarkista korttitietosi.
+payment.EXCEPTION.msgErrorPaymentFailed = Osto epäonnistui. Valitettavasti maksusi ei onnistunut.
+payment.msgErrorAttempts =  Liian monta maksuyritystä. Sulje ikkuna ja aloita uudelleen
+payment.msgWarningCreateAccount = Voit silti lunastaa ostosi toisella sähköpostiosoitteella. Tai luo tili seuraamalla sähköpostiisi tullutta linkkiä.
+payment.UNVERIFIED.warningTitle = Avaa lisäominaisuuksia
+payment.VERIFIED.warningTitle = Sähköposti käytetty toisessa iPadissa
+payment.buttonEmailIntructions = Lähetä minulle linkki sähköpostilla
+payment.VERIFIED.result = Olet luonut meille tilin. Kirjaudu sisään tai käytä toista sähköpostiosoitetta.
+payment.alert = Olet käyttänyt maksuttoman kokeilusi. Piditkö siitä? Lisää dataa\, kun olet käyttänyt kiintiösi.
+payment.overrideWarning=Tätä maksutapaa ei tallenneta
+payment.autoRenew = Auto renew (Requires translation)
+payment.msgAutoRenewInfo = Will renew after 30 days or when you've used your data (Requires translation)
+
+
+payment-verified.cardDetailTitle = Maksa tällä kortilla
+payment-verified.password = Salasana
+payment-verified.requireInternetNote = (Edellyttää internetyhteyttä)
+payment-verified.notRequirePasswordNote= (Salasanaa ei tarvita)
+payment-verified.headerTitle = Oma kori
+payment-verified.ccNumberFake = xxxx - xxxx - xxxx -
+payment-verified.ccExpire = Erääntyy
+payment-verified.forXDays = [x days] päivää
+payment-verified.buttonResetPassword = Unohditko salasanan?
+payment-verified.buttonPaySecurely = Maksa turvallisesti
+payment-verified.cardExpired = Valitettavasti korttisi on erääntynyt. Anna uusi kortti manuaalisesti.
+payment-verified.buttonCardManually = Anna kortti manuaalisesti
+payment-verified.buttonAmendOrder = Vaihda
+payment-verified.msgErrorInvalidPassword = Väärä salasana
+payment-verified.BADCARD.msgErrorPaymentFailed = Valitettavasti korttiasi ei hyväksytty.  Tarkista maksutietosi ja yritä uudelleen.
+payment-verified.EXCEPTION.msgErrorPaymentFailed = Osto epäonnistui. Valitettavasti maksuasi ei hyväksytty.
+payment-verified.PASS_RESET.msgErrorPaymentFailed = Salasanan palautus epäonnistui. Yritä uudelleen.
+payment-verified.WRONGPASS.msgErrorPaymentFailed = Väärä salasana
+payment-verified.alert = Olet käyttänyt maksuttoman kokeilusi. Piditkö siitä? Lisää dataa\, kun olet käyttänyt kiintiösi.
+payment-verified.PASSWORD_RESETED.reason=Tarkasta sähköpostisi. Olemme lähettäneet linkin salasanan palauttamiseen.
+
+3d-secure.headerTitle = Oma kori
+3d-secure.info = Odota\, että pankkisi siirtää sinut eteenpäin. Ostosi saattaa keskeytyä, jos palaat takaisin tai napsautat Peruuta.
+
+# PG35 Thank You Page Model
+
+payment-success.headerTitle = Maailma on sinun. Rakasta sitä.
+payment-success.hello = Kiitos [x name]
+payment-success.there =
+payment-success.countriesIncluded =  Käytä verkkovierailua ilman lisäkustannuksia seuraavissa maissa:
+payment-success.yourOrder = Sopimuksen nro
+payment-success.lastDay = viimeinen päivä
+payment-success.dataLeft = jäljellä
+payment-success.buttonMyDetails = Sulje ikkuna
+payment-success.buttonHelp = Ohjeet
+payment-success.msgWarningSettingDevice = Heti\, kun tilapalkissa lukee "Truphone"\, olet valmis.
+payment-success.daysLeft = päivää jäljellä
+payment-success.ends = Päättyy [x date]
+payment-success.hrsLeft = tuntia jäljellä
+payment-success.expired = Erääntynyt
+payment-success.msgWarningACMEAlert = TÄRKEÄÄ: Jos näet tämän viestin\, sinun pitää ehdottomasti napsauttaa "Update" ("Päivitä")\, tai et pysty käyttämään palveluamme
+payment-success.starts = Starts (Requires translation)
+payment-success.days = days (Requires translation)
+payment-success.costFree = FREE (Requires translation)
+payment-success.autoRenew = Auto Renew (Requires translation)
+payment-success.msgAutoRenewInfo = Will renew after 30 days or when you've used your data (Requires translation)
+
+payment-failed.headerTitle = Osto epäonnistui.
+payment-failed.buttonTryAgain = Yritä uudelleen
+payment-failed.contactUs =  Ota meihin yhteys
+payment-failed.forXDays = [x days] päivää
+payment-failed.msgWarningPaymentFailed =  Osto epäonnistui. Valitettavasti maksusi ei onnistunut.
+
+# PG44 Change Card Page Model
+
+payment-update.name = Cardholder Name (Requires translation)
+payment-update.namelPlaceHolder =
+payment-update.ccnumber = Card Number (Requires translation)
+payment-update.cardExpiry = Card Expiry (Requires translation)
+payment-update.MM = MM (Requires translation)
+payment-update.YY = YY (Requires translation)
+payment-update.securityCode = Security Code (Requires translation)
+payment-update.securityCodeNote = 3-digit No. on the back of your card (Requires translation)
+
+payment-update.msgErrorCcnumber = Invalid card (Requires translation)
+payment-update.msgErrorRequiredData = Invalid date (Requires translation)
+payment-update.msgErrorCustomData = Can't be in a past (Requires translation)
+payment-update.msgErrorSecurityCode = Invalid code (Requires translation)
+
+payment-update.msgErrorPaymentFailed = Your Card has been rejected. Do you want to try again or use another alternative payment method? (Requires translation)
+payment-update.msgErrorAttempts =  To many payment attempts. Please close the screen and try again. (Requires translation)
+
+payment-update.buttonSave = Save (Requires translation)
+payment-update.buttonCancel = Cancel (Requires translation)
+
+payment-create.buttonCancel = Cancel (Requires translation)
+payment-create.buttonSave = Save (Requires translation)
+payment-create.cardExpiry = Card Expiry (Requires translation)
+payment-create.ccnumber = Card Number (Requires translation)
+payment-create.costFree = FREE (Requires translation)
+payment-create.headerTitle = Add Payment Method (Requires translation)
+payment-create.MM = MM (Requires translation)
+payment-create.msgErrorCcnumber = Invalid car (Requires translation)d
+payment-create.msgErrorCustomData = Can't be in a past (Requires translation)
+payment-create.msgErrorInvalidName = Invalid name (Requires translation)
+payment-create.msgErrorRequiredData = Invalid date (Requires translation)
+payment-create.msgErrorSecurityCode = Invalid code (Requires translation)
+payment-create.msgNotificationCreateAccount = We’ve sent you an email with instructions. Please check your inbox (Requires translation)
+payment-create.name = Cardholder Name (Requires translation)
+payment-create.overrideWarning = Payment warning messages (Requires translation)
+payment-create.securityCode = Security Code (Requires translation)
+payment-create.securityCodeNote = 3-digit No. on the back of your card (Requires translation)
+payment-create.termsOfServices = Accept (Requires translation)
+payment-create.termsOfServicesLink = Terms of Service (Requires translation)
+payment-create.YY = YY (Requires translation)
+
+login.email = Anna hyväksyttävä sähköpostiosoite
+login.emailPlaceHolder = Sähköposti
+login.headerTitle = Kirjaudu sisään
+login.buttonEmail = Seuraava
+login.msgErrorInvalidEmail = Anna hyväksyttävä sähköpostiosoite
+email-page.email = Anna sähköpostiosoite
+email-page.emailPlaceHolder = Sähköposti
+email-page.headerTitle = Oma kori
+email-page.buttonEmail = Seuraava
+email-page.buttonAmendOrder = Vaihda
+email-page.msgErrorInvalidEmail = Anna hyväksyttävä sähköpostiosoite
+email-page.forXDays = [x days] päivää
+
+
+login-unverified.email = Sähköposti
+login-unverified.emailPlaceHolder = Sähköposti
+login-unverified.warningTitle = Luo tili
+login-unverified.warningMsg = Tunnistamme sähköpostiosoitteesi\, mutta sinulla ei ole vielä tiliä. Luo tili nyt\, jotta voit ostaa uudelleen yhdellä napautuksella ja siirtää datasi iPadista toiseen. Valitettavasti et voi saada toista maksutonta kokeilua.
+login-unverified.headerTitle = Kirjaudu sisään
+login-unverified.buttonEmail = Takaisin
+login-unverified.buttonSendEmail = Luo tili
+login-unverified.msgErrorInvalidEmail = Anna hyväksyttävä sähköpostiosoite
+
+# PG3 Login Page Model
+
+login-verified.email = Sähköposti
+login-verified.emailPlaceHolder = Sähköposti
+login-verified.password = Salasana
+login-verified.requireInternetNote = (Edellyttää internetyhteyttä)
+login-verified.headerTitle = Kirjaudu sisään
+login-verified.buttonResetPassword = Unohditko salasanan?
+login-verified.buttonLogin = Kirjaudu sisään
+login-verified.msgErrorInvalidPassword = Väärä salasana
+login-verified.msgErrorInvalidEmail = Anna hyväksyttävä sähköpostiosoite
+login-verified.MAXIMUM_LOGIN_TRIES_EXCEEDED.reason = Liian monta sisäänkirjautumisyritystä. Sulje ruutu ja yritä uudelleen
+login-verified.LOGIN_FAILED.reason = Kirjoita hyväksyttävä sähköpostiosoite tai salasana
+login-verified.NOT_SAME_ACCOUNT.reason = SIIRRY KASSALLE toisella sähköpostiosoitteella TAI LUO TILI seuraamalla sähköpostiisi tullutta linkkiä.
+login-verified.PASSWORD_RESET_UNVALIDATED_EMAIL.reason = Sähköpostiasi ei ole vahvistettu.
+login-verified.PASSWORD_RESET_INVALID_EMAIL.reason = Virheellinen sähköpostiosoite.
+login-verified.PASSWORD_RESETED.reason=Tarkasta sähköpostisi. Olemme lähettäneet linkin salasanan palauttamiseen.
+
+# PG43 Reset Password Page Model
+
+reset-password.email = Sähköposti
+reset-password.emailPlaceHolder = nimi@esimerkki.com
+reset-password.headerTitle = Unohditko salasanan?
+reset-password.buttonResetPassword = Palauta salasanasi
+reset-password.msgErrorInvalidEmail = Kirjoita sähköpostiosoite\, jota käytät tälle tilille\, ja me lähetämme sinulle sähköpostiisi linkin salasanasi palauttamiseen.
+
+# PG25 Verified My Details Page Model (serves both verified and unverified users)
+
+account.name = Nimi
+account.email = Sähköposti
+account.password = Salasana
+account.requireInternetNote = (Edellyttää internetyhteyttä)
+account.cardDetailTitle = Maksutapa
+account.headerTitle = Oma profiili
+account.buttonResetPassword = Unohditko salasanan?
+account.buttonRemoveCard = Poista kortti
+account.ccNumberFake = xxxx - xxxx - xxxx -
+account.ccExpire = Erääntyy
+account.warningTitle = Luo tili
+account.buttonEmailIntructions = Lähetä minulle linkki sähköpostilla
+account.msgWarningCreateAccount = Sitten voit ostaa dataa nopeammin ja siirtää sopimuksesi toiseen iPadiin.
+account.EMAIL_CHANGED_VERIFIED.reason=Olemme lähettäneet sinulle linkin uuden sähköpostisi vahvistusta varten. Tarkasta sähköpostisi.
+account.EMAIL_CHANGED_UNVERIFIED.reason=Sähköpostisi on päivitetty. Luo tili tarkastamalla sähköpostisi.
+account.ACCOUNT_UPDATED.reason=Tilitietosi on päivitetty onnistuneesti.
+account.PASSWORD_CHANGED.reason=Salasanasi on päivitetty.
+account.NAME_CHANGED.reason=Nimesi on päivitetty.
+account.CARD_REMOVED.reason=Korttitietosi on poistettu.
+account.PASSWORD_RESETED.reason=Tarkasta sähköpostisi. Olemme lähettäneet linkin salasanan palauttamiseen.
+account.ACCOUNT-EMAIL.reason = Olemme lähettäneet sinulle linkin tilin luomista varten. Tarkasta sähköpostisi.
+account.addCard = Add card (Requires translation)
+
+
+#PG26 Change Name Page Model
+
+edit-name.name = Etunimi
+edit-name.surname = Sukunimi
+edit-name.headerTitle = Vaihda nimeä
+edit-name.buttonSave = Tallenna
+edit-name.buttonCancel = Peruuta
+edit-name.msgErrorInvalidName = Kirjoita etunimesi
+edit-name.msgErrorInvalidSurname = Kirjoita sukunimesi
+
+
+
+# PG28 Change Email Page Model
+
+edit-email.email = Uusi sähköpostiosoite
+edit-email.emailPlaceHolder = osoite@malli.com
+edit-email.password = Anna salasana sähköpostin muuttamista varten
+edit-email.headerTitle = Vaihda sähköpostiosoitetta
+edit-email.buttonSave = Tallenna
+edit-email.buttonCancel = Peruuta
+edit-email.msgErrorInvalidEmail = Virheellinen sähköpostiosoite
+edit-email.msgErrorInvalidPassword = Salasanassa on oltava vähintään 6 merkkiä
+edit-email.invalidPassword = Väärä salasana
+edit-email.existingUser = Tämä sähköpostiosoite on jo käytössä. Kokeile toista.
+
+# PG27 Change Password Page Model
+
+edit-password.password = Nykyinen salasana
+edit-password.newPassword = Uusi salasana (väh. 6 merkkiä)
+edit-password.confirmPassword = Vahvista uusi salasana
+edit-password.headerTitle = Vaihda salasanaa
+edit-password.buttonSave = Tallenna
+edit-password.buttonCancel = Peruuta
+edit-password.msgErrorInvalidPassword = Väärä salasana
+edit-password.msgErrorInvalidNewPassword = Salasanassa on oltava vähintään 6 merkkiä
+edit-password.msgErrorInvalidConfirmPassword = Salasanasi eivät täsmää – yritä uudelleen
+edit-password.invalidOldPassword = Vanha salasanasi on virheellinen
+
+
+remove-card.headerTitle = Poista kortti
+remove-card.buttonSave = Poista kortti
+remove-card.buttonCancel = Peruuta
+remove-card.warningMsg = Jos poistat tämän kortin\, et pysty lisäämään uutta\, ennen kuin lisäät dataa.
+
+monitor-mode.message = Kiitos, että valitsit meidät. Yhdistämme juuri iPadiasi\, ja saat palvelun pian käyttöösi.
+
+
+generic-error.PASSWORD_RESET_INVALID_EMAIL.message = Annetulla sähköpostiosoitteella ei ole käyttäjää.
+generic-error.PASSWORD_RESET_INVALID_EMAIL.headerTitle= Palauta salasana
+generic-error.PASSWORD_RESET_INVALID_EMAIL.warningTitle= Virhe
+
+generic-error.PASSWORD_RESET_UNVALIDATED_EMAIL.message = Tämä sähköposti kuuluu vahvistamattomalle tilille. Etsi sähköpostistasi tilin vahvistusviesti.
+generic-error.PASSWORD_RESET_UNVALIDATED_EMAIL.headerTitle= Palauta salasana
+generic-error.PASSWORD_RESET_UNVALIDATED_EMAIL.warningTitle= Virhe
+
+#PG4 - Generic Error
+generic-error.GENERIC_ERROR.message = Valitettavasti jokin meni pieleen.
+generic-error.GENERIC_ERROR.headerTitle= Yleinen virhe
+generic-error.GENERIC_ERROR.warningTitle= Virhe
+
+#PG2 - Invalid device - To be changed
+generic-error.INVALID_DEVICE.message = Valitettavasti sivun lataamisessa on ongelma. Sulje tämä ikkuna ja yritä uudelleen.
+generic-error.INVALID_DEVICE.headerTitle= Yleinen virhe
+generic-error.INVALID_DEVICE.warningTitle= Virhe
+
+generic-error.INVALID_OS_VERSION.message = Päivitä iOS-versiosi\, jotta voit jatkaa.
+generic-error.INVALID_OS_VERSION.headerTitle= Yleinen virhe
+generic-error.INVALID_OS_VERSION.warningTitle= Virhe
+
+generic-error.INVALID_PAYMENT_DATA.message = Valitettavasti olet tehnyt liian monta epäonnistunutta maksuyritystä. Sulje tämä ikkuna ja aloita uudelleen.
+generic-error.INVALID_PAYMENT_DATA.headerTitle= Yleinen virhe
+generic-error.INVALID_PAYMENT_DATA.warningTitle= Virhe
+
+#PG44
+generic-error.ESIM_INSTALLATION_ERROR.message = Yhteysvirhe. Sinua ei ole veloitettu. Pahoittelemme häiriötä
+generic-error.ESIM_INSTALLATION_ERROR.headerTitle= Yleinen virhe
+generic-error.ESIM_INSTALLATION_ERROR.warningTitle= Virhe
+
+#updated by davy and copywriter=
+generic-error.INVALID_EMAIL_CHANGE_LINK.message = Valitettavasti tämä linkki ei ole enää voimassa.
+generic-error.INVALID_EMAIL_CHANGE_LINK.headerTitle= Virheellinen linkki
+generic-error.INVALID_EMAIL_CHANGE_LINK.warningTitle= Virhe
+
+generic-error.DUPLICATED_EMAIL.message = Valitettavasti tämä sähköpostiosoite on jo käytössä. Anna toinen osoite.
+generic-error.DUPLICATED_EMAIL.headerTitle= Nykyinen sähköpostiosoite
+generic-error.DUPLICATED_EMAIL.warningTitle= Virhe
+
+#PG46 - Unable to bind - To be changed
+generic-error.UNABLE_TO_BIND.message = Valitettavasti sopimuksesi ei ole latautunut. Emme ole perineet sinulta maksua. Yritä uudelleen myöhemmin
+generic-error.UNABLE_TO_BIND.headerTitle= Oston viimeistely ei onnistunut
+generic-error.UNABLE_TO_BIND.warningTitle= Virhe
+
+generic-error.SESSION_TIMEOUT.message= Valitettavasti istuntosi on aikakatkaistu. Ei hätää\, sulje vain ikkuna ja aloita uudelleen
+generic-error.SESSION_TIMEOUT.headerTitle=Istunnon aikakatkaisu
+generic-error.SESSION_TIMEOUT= Virhe
+
+
+generic-info.PASSWORD_RESET_SUCCESS.message = Tarkasta sähköpostisi. Olemme lähettäneet linkin salasanan palauttamiseen.
+
+generic-info.PASSWORD_RESET_SUCCESS.headerTitle= Palauta salasana
+generic-info.PASSWORD_RESET_SUCCESS.warningTitle= Tiedot
+
+generic-info.PROCESS_ONGOING_PAGE.message = Heti\, kun tilapalkissa lukee "Truphone"\, olet valmis.
+generic-info.PROCESS_ONGOING_PAGE.headerTitle= eSIM latautuu
+generic-info.PROCESS_ONGOING_PAGE.warningTitle= Tiedot
+
+# Updated by Davy and copywriter on 12 may 2017
+generic-info.ICCID_CSN_NOT_PRESENT.message = Valitettavasti tässä laitteessa on jo toiselle tilaajalle osoitettu eSIM. Nollaa iPad\, tee osto loppuun ja olet valmis.
+generic-info.ICCID_CSN_NOT_PRESENT.headerTitle= Virheellinen eSIM
+generic-info.ICCID_CSN_NOT_PRESENT.warningTitle= Tiedot
+
+
+generic-info.ACTIVATION_LINK_SENT.message = Tarkasta sähköpostisi ja vahvista tilisi.
+generic-info.ACTIVATION_LINK_SENT.headerTitle= Aktivointilinkki lähetetty
+generic-info.ACTIVATION_LINK_SENT.warningTitle= Tiedot
+
+
+generic-info.ACTIVATION_LINK_NOT_SENT.message = Et voi määrittää uutta laitetta vahvistamattomalla tilillä
+generic-info.ACTIVATION_LINK_NOT_SENT.headerTitle= Aktivointia vaaditaan
+generic-info.ACTIVATION_LINK_NOT_SENT.warningTitle= Tiedot
+
+web-thank-you.headerTitle = Hei [x name]\,
+web-thank-you.INFO-ACCOUNT-CREATE.message = Hyviä uutisia\, tilisi on nyt valmis. Nyt voit selailla verkossa enemmän ja maksaa vähemmän.
+web-thank-you.INFO-ACCOUNT-EXISTS.message = Hyviä uutisia\, sinulla on jo tili. Sinun ei tarvitse tehdä mitään muuta\, vaan voit nyt verkkovierailla enemmän ja maksaa vähemmän.
+
+web-thank-you.INFO-PASSWORD-RESET.message = Onneksi olkoon. Salasanasi on vaihdettu. Jos haluat ostaa lisää dataa\, siirry kohtaan > Settings (Asetukset) > Mobile Data (Mobiilidata) > Manage Truphone Account... (Hallitse Truphone-tiliä...)
+web-thank-you.INFO-EMAIL-CHANGE.message = Kiitos sähköpostiosoitteesi vahvistamisesta. Olemme nyt päivittäneet sen.
+
+# reviewed
+web-thank-you.ERROR-ACCOUNT-CREATE.message = Valitettavasti jokin meni vikaan tilisi luomisessa. Yritä uudelleen myöhemmin.
+# reviewed
+web-thank-you.ERROR-PASSWORD-RESET.message = Valitettavasti jokin meni vikaan salasanasi vaihtamisessa. Yritä uudelleen myöhemmin.
+# reviewed
+web-thank-you.ERROR-EMAIL-CHANGE.message = Valitettavasti jokin meni vikaan sähköpostiosoitteesi vaihtamisessa. Yritä uudelleen myöhemmin.
+web-thank-you.copyright =¬© 2\017 Truphone Limited. Kaikki oikeudet pidätetään. Truphone Limited (4187\081). Rekisteröity Englannissa ja Walesissa. Rekisteröity toimipaikka 25 Canada Square\, Canary Wharf\, London E14 5LQ. ALV GB851527819.
+
+
+
+web-reset-password.headerTitle = Palauta salasanasi
+web-reset-password.newPassword = Vahvista uusi salasana
+web-reset-password.confirmPassword = Vahvista uusi salasana 
+web-reset-password.buttonSave = Päivitä salasana
+web-reset-password.msgErrorInvalidNewPassword = Salasanassa on oltava vähintään 6 merkkiä
+web-reset-password.msgErrorInvalidConfirmPassword = Salasanat eivät täsmää. Yritä uudelleen
+web-reset-password.newPasswordNote = Salasanassa on oltava vähintään 6 merkkiä
+web-reset-password.email = Sähköposti
+web-reset-password.copyright =¬© 2\017 Truphone Limited. Kaikki oikeudet pidätetään. Truphone Limited (4187\081). Rekisteröity Englannissa ja Walesissa. Rekisteröity toimipaikka 25 Canada Square\, Canary Wharf\, London E14 5LQ. ALV GB851527819.
+
+web-create-account.headerTitle = Luo tili
+web-create-account.newPassword = Salasana
+web-create-account.confirmPassword = Vahvista salasana
+web-create-account.name = Etunimi
+web-create-account.email = Sähköposti
+web-create-account.surname = Sukunimi
+web-create-account.emailPlaceHolder = nimi@email.com
+web-create-account.buttonSave = Luo tili
+web-create-account.msgErrorInvalidName = Kirjoita etunimesi
+web-create-account.msgErrorInvalidSurname = Kirjoita sukunimesi
+web-create-account.msgErrorInvalidEmail = Käytä hyväksyttävää sähköpostiosoitetta
+web-create-account.msgErrorInvalidNewPassword = Salasanassa on oltava vähintään 6 merkkiä
+web-create-account.msgErrorInvalidConfirmPassword = Salasanasi eivät täsmää ‚Äì yritä uudelleen
+web-create-account.info = 
+web-create-account.featuresInfo = Melkein valmista! Kerro vielä muutamia tietoja tilisi luomista varten\, jotta voit:
+web-create-account.features = Ostaa yhdellä napautuksella milloin haluat;Siirtää sopimuksesi toiselle iPadille;Hallita tiliäsi turvallisesti
+web-create-account.newPasswordNote = (väh. 6 merkkiä)
+web-create-account.copyright =¬© 2\017 Truphone Limited. Kaikki oikeudet pidätetään. Truphone Limited (4187\081). Rekisteröity Englannissa ja Walesissa. Rekisteröity toimipaikka 25 Canada Square\, Canary Wharf\, London E14 5LQ. ALV GB851527819.
+
+
+web-create-account-success.headerTitle = Kiitos [x name]\,
+web-create-account-success.info = Tervetuloa Truphonen käyttäjäksi. Tervetuloa parempien yhteyksien maailmaan.<br/><br/> Nyt olet luonut onnistuneesti tilin ja voit kokea Truphonen kaikki edut:
+web-create-account-success.features = Edulliset hinnat. Hyvä peittoalue.;Käytä samaa datasopimusta maksutta 4\0 maassa (ota vain "Dataroaming" käyttöön ulkomailla);Ostot yhdellä napautuksella
+web-create-account-success.copyright=¬© 2\017 Truphone Limited. Kaikki oikeudet pidätetään. Truphone Limited (4187\081). Rekisteröity Englannissa ja Walesissa. Rekisteröity toimipaikka 25 Canada Square\, Canary Wharf\, London E14 5LQ. ALV GB851527819.
+
+free-trial.costFree = MAKSUTTA
+pre-paid.costFree = MAKSUTTA
+plan-status.costFree = MAKSUTTA
+payment.costFree = MAKSUTTA
+payment-verified.costFree = MAKSUTTA
+payment-failed.costFree = MAKSUTTA
+email-page.costFree = MAKSUTTA
+
+
+web-create-account.headTitle= Luo tili
+web-create-account-success.headTitle=Kiitos tilin luomisesta
+web-thank-you.INFO-EMAIL-CHANGE.headTitle=Sähköpostiosoitteesi on vahvistettu
+web-thank-you.INFO-ACCOUNT-EXISTS.headTitle = Luo tili
+web-thank-you.INFO-PASSWORD-RESET.headTitle = Palauta salasanasi
+web-thank-you.ERROR-ACCOUNT-CREATE.headTitle = Luo tili
+web-thank-you.ERROR-PASSWORD-RESET.headTitle = Palauta salasanasi
+web-thank-you.ERROR-EMAIL-CHANGE.headTitle = Vaihda sähköpostiosoitetta
+web-reset-password.headTitle= Palauta salasanasi
+

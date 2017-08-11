@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+	
+    <parent>
+        <groupId>com.mines.base</groupId>
+        <artifactId>service</artifactId>
+        <version>1.0.0-SNAPSHOT</version>
+    </parent>
+
+    <artifactId>base-service-infrastructure</artifactId>
+	
+    <name>Mines :: Base Service :: Service :: Infrastructure</name>
+	
+    <properties>
+        <!--<docker.registry>docker.truphone.com:5000/</docker.registry>-->
+        <!--<docker.image.name>fulfilment_service</docker.image.name>-->
+        <!--<docker.script.name>start-acme-fulfilmentservice</docker.script.name>-->
+    </properties>
+	
+    <dependencies>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
+        </dependency>
+		
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-test</artifactId>
+            <scope>test</scope>
+        </dependency>
+        
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-actuator</artifactId>
+		</dependency>
+		
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-log4j2</artifactId>
+		</dependency>
+		
+		<dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-api</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>com.mines.base</groupId>
+            <artifactId>base-service-rest-api</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+    </dependencies>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+            </plugin>
+            <plugin>
+                <groupId>org.codehaus.mojo</groupId>
+                <artifactId>cobertura-maven-plugin</artifactId>
+                <!--<configuration>-->
+                    <!--<instrumentation>-->
+                        <!--<ignores>-->
+                            <!--<ignore>com.truphone.fulfilment.infrastructure.*</ignore>-->
+                        <!--</ignores>-->
+                        <!--<excludes>-->
+                            <!--<exclude>&gt;com/truphone/fulfilment/infrastructure/**/*.class</exclude>-->
+                        <!--</excludes>-->
+                    <!--</instrumentation>-->
+                <!--</configuration>-->
+            </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-surefire-plugin</artifactId>
+            </plugin>
+            <plugin>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-maven-plugin</artifactId>
+                <executions>
+                    <execution>
+                        <goals>
+                            <goal>repackage</goal>
+                        </goals>
+                    </execution>
+                </executions>
+                <configuration>
+                    <mainClass>com.mines.base.infrastructure.BaseServiceConfig</mainClass>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+
+    <profiles>
+        <profile>
+            <id>docker</id>
+            <properties>
+                <docker.build.dir>${project.build.directory}/docker</docker.build.dir>
+            </properties>
+            <build>
+                <resources>
+                    <resource>
+                        <directory>docker/</directory>
+                        <filtering>true</filtering>
+                        <includes>
+                            <include>Dockerfile</include>
+                            <include>*.sh</include>
+                        </includes>
+                        <targetPath>${docker.build.dir}</targetPath>
+                    </resource>
+                    <resource>
+                        <directory>src/main/resources/</directory>
+                        <filtering>true</filtering>
+                        <includes>
+                            <include>*.yml</include>
+                            <include>*.properties</include>
+                            <include>*.xml</include>
+                        </includes>
+                    </resource>
+                </resources>
+
+                <plugins>
+                    <plugin>
+                        <groupId>org.apache.maven.plugins</groupId>
+                        <artifactId>maven-dependency-plugin</artifactId>
+                        <executions>
+                            <execution>
+                                <id>copy-dependencies</id>
+                                <phase>prepare-package</phase>
+                                <goals>
+                                    <goal>copy-dependencies</goal>
+                                </goals>
+                                <configuration>
+                                    <outputDirectory>${project.build.directory}/lib</outputDirectory>
+                                    <overWriteReleases>false</overWriteReleases>
+                                    <overWriteSnapshots>false</overWriteSnapshots>
+                                    <overWriteIfNewer>true</overWriteIfNewer>
+                                </configuration>
+                            </execution>
+                        </executions>
+                    </plugin>
+                    <plugin>
+                        <groupId>org.apache.maven.plugins</groupId>
+                        <artifactId>maven-jar-plugin</artifactId>
+                        <executions>
+                            <execution>
+                                <phase>package</phase>
+                                <goals>
+                                    <goal>jar</goal>
+                                </goals>
+                                <configuration>
+                                    <classifier>final</classifier>
+                                    <!-- Configures the created archive -->
+                                    <archive>
+                                        <!-- Configures the content of the created manifest -->
+                                        <manifest>
+                                            <!-- Adds the classpath to the created manifest -->
+                                            <addClasspath>true</addClasspath>
+                                            <!-- Specifies that all dependencies of our application are found 
+                                            from the lib directory. -->
+                                            <classpathPrefix>lib/</classpathPrefix>
+                                            <!-- Configures the main class of the application -->
+                                            <mainClass>com.mines.base.infrastructure.BaseServiceConfig</mainClass>
+                                        </manifest>
+                                        <manifestEntries>
+                                            <Class-Path>config/</Class-Path>
+                                        </manifestEntries>
+                                    </archive>
+                                    <excludes>
+                                        <exclude>**/*.properties</exclude>
+                                    </excludes>
+                                </configuration>
+                            </execution>
+                        </executions>
+                    </plugin>
+                    <plugin>
+                        <groupId>org.apache.maven.plugins</groupId>
+                        <artifactId>maven-assembly-plugin</artifactId>
+                        <configuration>
+                            <descriptors>
+                                <descriptor>src/main/assembly/assembly.xml</descriptor>
+                            </descriptors>
+                        </configuration>
+                        <executions>
+                            <execution>
+                                <phase>package</phase>
+                                <goals>
+                                    <goal>single</goal>
+                                </goals>
+                            </execution>
+                        </executions>
+                    </plugin>
+                    <plugin>
+                        <groupId>org.springframework.boot</groupId>
+                        <artifactId>spring-boot-maven-plugin</artifactId>
+                    </plugin>
+                    <plugin>
+                        <groupId>org.apache.maven.plugins</groupId>
+                        <artifactId>maven-antrun-plugin</artifactId>
+                        <executions>
+                            <execution>
+                                <id>Build Image and run instance of the built image</id>
+                                <phase>package</phase>
+                                <goals>
+                                    <goal>run</goal>
+                                </goals>
+                                <configuration>
+                                    <target name="Copy build files">
+                                        <delete dir="${docker.build.dir}/build" />
+                                        <mkdir dir="${docker.build.dir}/build" />
+                                        <copy file="${project.build.directory}/${project.build.finalName}-bin.zip" tofile="${docker.build.dir}/build/${project.build.finalName}-bin.zip" />
+                                    </target>
+                                </configuration>
+                            </execution>
+                        </executions>
+                    </plugin>
+                    <plugin>
+                        <groupId>org.apache.maven.plugins</groupId>
+                        <artifactId>maven-resources-plugin</artifactId>
+                        <executions>
+                            <execution>
+                                <id>prepare-dockerfile</id>
+                                <phase>validate</phase>
+                                <goals>
+                                    <goal>copy-resources</goal>
+                                </goals>
+                                <configuration>
+                                    <outputDirectory>${project.build.directory}/docker-ready</outputDirectory>
+                                    <resources>
+                                        <resource>
+                                            <directory>docker</directory>
+                                            <filtering>true</filtering>
+                                        </resource>
+                                    </resources>
+                                </configuration>
+                            </execution>
+                        </executions>
+                    </plugin>
+                    <plugin>
+                        <groupId>com.spotify</groupId>
+                        <artifactId>docker-maven-plugin</artifactId>
+                        <configuration>
+                            <!--<pushImage>${push.image}</pushImage>      &lt;!&ndash; true when Jenkins builds, false otherwise &ndash;&gt;-->
+                            <!--<imageName>${docker.registry}acme/${docker.image.name}</imageName>-->
+                            <!--<dockerDirectory>${project.build.directory}/docker-ready</dockerDirectory>-->
+                            <!--<serverId>truphone-docker-registry</serverId>-->
+                            <!--<registryUrl>https://${docker.registry}</registryUrl>-->
+                            <!--<imageTags>-->
+                            	<!--<imageTag>${project.version}</imageTag>-->
+                            <!--</imageTags>-->
+                        </configuration>
+                        <executions>
+                            <execution>
+                                <phase>package</phase>
+                                <goals>
+                                    <goal>build</goal>
+                                </goals>
+                            </execution>
+                        </executions>
+                    </plugin>
+                </plugins>
+            </build>
+        </profile>
+    </profiles>
+</project>
+
